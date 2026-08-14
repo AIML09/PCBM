@@ -160,7 +160,53 @@
 <script>
 
 function openSubject(subject) {
-    alert(subject + " section will be added next!");
+
+    if (subject === "Physics") {
+        document.querySelector(".container").innerHTML = `
+            <h2>⚡ Physics Chapters</h2>
+
+            <div class="subjects">
+
+                <div class="subject">
+                    <h2>1. Units and Measurements</h2>
+                    <p>Theory • Formulas • MCQs</p>
+                </div>
+
+                <div class="subject">
+                    <h2>2. Motion in a Straight Line</h2>
+                    <p>Theory • Formulas • MCQs</p>
+                </div>
+
+                <div class="subject">
+                    <h2>3. Motion in a Plane</h2>
+                    <p>Theory • Formulas • MCQs</p>
+                </div>
+
+                <div class="subject">
+                    <h2>4. Laws of Motion</h2>
+                    <p>Theory • Formulas • MCQs</p>
+                </div>
+
+                <div class="subject">
+                    <h2>5. Work, Energy and Power</h2>
+                    <p>Theory • Formulas • MCQs</p>
+                </div>
+
+                <div class="subject">
+                    <h2>6. System of Particles</h2>
+                    <p>Theory • Formulas • MCQs</p>
+                </div>
+
+            </div>
+
+            <br>
+
+            <button onclick="location.reload()">
+                ← Back to Subjects
+            </button>
+        `;
+    }
+
 }
 
 </script>
