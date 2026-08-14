@@ -1,311 +1,53 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PCBM Learning Portal</title>
-
-    <style>
-        body {
-            margin: 0;
-            font-family: Arial, sans-serif;
-            background: #f4f7fb;
-            color: #222;
-        }
-.subject-image {
-    width: 140px;
-    height: 100px;
-    object-fit: contain;
-    margin-bottom: 15px;
-}
-        header {
-            background: #17365d;
-            color: white;
-            padding: 30px;
-            text-align: center;
-        }
-
-        header h1 {
-            margin: 0;
-            font-size: 36px;
-        }
-
-        header p {
-            font-size: 18px;
-            margin-top: 10px;
-        }
-
-        .container {
-            max-width: 1100px;
-            margin: 40px auto;
-            padding: 20px;
-        }
-
-        .subjects {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-            gap: 20px;
-        }
-
-        .subject {
-            background: white;
-            padding: 30px;
-            border-radius: 12px;
-            text-align: center;
-            box-shadow: 0 3px 10px rgba(0,0,0,0.12);
-            cursor: pointer;
-            transition: 0.2s;
-        }
-
-        .subject:hover {
-            transform: translateY(-5px);
-        }
-
-        .subject .icon {
-            font-size: 50px;
-        }
-
-        .subject h2 {
-            margin: 15px 0 10px;
-        }
-
-        .subject p {
-            color: #666;
-        }
-
-        .features {
-            margin-top: 40px;
-            background: white;
-            padding: 30px;
-            border-radius: 12px;
-        }
-
-        .features h2 {
-            text-align: center;
-        }
-
-        .features ul {
-            line-height: 2;
-            font-size: 17px;
-        }
-
-        footer {
-            margin-top: 50px;
-            background: #17365d;
-            color: white;
-            text-align: center;
-            padding: 20px;
-        }
-    </style>
-</head>
-
-<body>
-
-<header>
-    <h1>PCBM Learning Portal</h1>
-    <p>Physics • Chemistry • Mathematics • Biology</p>
-</header>
-
-<div class="container">
-
-    <h2 style="text-align:center;">Choose Your Subject</h2>
-
-    <div class="subjects">
-
-        <div class="subject" onclick="openSubject('Physics')">
-    <img src="Physics.PNG" alt="Physics" class="subject-image">
-    <h2>Physics</h2>
-    <p>Theory • Formulas • MCQs • Explanations</p>
-</div>
-
-        <div class="subject" onclick="openSubject('Chemistry')">
-            <div class="icon">🧪</div>
-            <h2>Chemistry</h2>
-            <p>Theory • Reactions • Formulas • MCQs</p>
-        </div>
-
-        <div class="subject" onclick="openSubject('Mathematics')">
-            <div class="icon">📐</div>
-            <h2>Mathematics</h2>
-            <p>Theory • Formulas • Problems • MCQs</p>
-        </div>
-
-        <div class="subject" onclick="openSubject('Biology')">
-            <div class="icon">🧬</div>
-            <h2>Biology</h2>
-            <p>Theory • Important Points • MCQs</p>
-        </div>
-
-    </div>
-
-    <div class="features">
-
-        <h2>📚 Learning Resources</h2>
-
-        <ul>
-            <li>Chapter-wise Theory</li>
-            <li>Topic-wise Notes</li>
-            <li>Important Formulas</li>
-            <li>Multiple Choice Questions (MCQs)</li>
-            <li>4 Answer Options</li>
-            <li>Correct Answer</li>
-            <li>Detailed Explanation</li>
-            <li>Practice Tests</li>
-            <li>Previous Year Questions</li>
-        </ul>
-
-    </div>
-
-</div>
-
-<footer>
-    <p>PCBM Learning Portal © 2026</p>
-</footer>
-
 <script>
 
 function openSubject(subject) {
-function openChapter(chapter) {
 
-    document.querySelector(".container").innerHTML = `
-
-        <h2>⚡ ${chapter}</h2>
-
-        <p style="text-align:center;">
-            Select a learning mode
-        </p>
-
-        <div class="subjects">
-
-            <div class="subject">
-                <div class="icon">📖</div>
-                <h2>Theory</h2>
-                <p>Learn the concepts step-by-step</p>
-            </div>
-
-            <div class="subject">
-                <div class="icon">📐</div>
-                <h2>Formula</h2>
-                <p>Important formulas and equations</p>
-            </div>
-
-            <div class="subject">
-                <div class="icon">💡</div>
-                <h2>Examples</h2>
-                <p>Understand with solved examples</p>
-            </div>
-
-            <div class="subject">
-                <div class="icon">❓</div>
-                <h2>MCQ</h2>
-                <p>Practice multiple choice questions</p>
-            </div>
-
-            <div class="subject">
-                <div class="icon">🧠</div>
-                <h2>Concept Trap</h2>
-                <p>Learn common mistakes</p>
-            </div>
-
-            <div class="subject">
-                <div class="icon">🎯</div>
-                <h2>Test</h2>
-                <p>Take a timed chapter test</p>
-            </div>
-
-        </div>
-
-        <br>
-
-        <button onclick="location.reload()">
-            ← Back to Subjects
-        </button>
-    `;
-}
     if (subject === "Physics") {
 
-    document.querySelector(".container").innerHTML = `
-
-        <h2>⚡ Physics Chapters</h2>
-
-        <p style="text-align:center;">
-            Choose a chapter and select how you want to learn.
-        </p>
-
-        <div class="subjects">
-
-            <div class="subject" onclick="openChapter('Units and Measurements')">
-                <h2>1. Units and Measurements</h2>
-                <p>📖 Theory • 📐 Formula • ❓ MCQ</p>
-            </div>
-
-            <div class="subject" onclick="openChapter('Motion in a Straight Line')">
-                <h2>2. Motion in a Straight Line</h2>
-                <p>📖 Theory • 📐 Formula • ❓ MCQ</p>
-            </div>
-
-            <div class="subject" onclick="openChapter('Motion in a Plane')">
-                <h2>3. Motion in a Plane</h2>
-                <p>📖 Theory • 📐 Formula • ❓ MCQ</p>
-            </div>
-
-            <div class="subject" onclick="openChapter('Laws of Motion')">
-                <h2>4. Laws of Motion</h2>
-                <p>📖 Theory • 📐 Formula • ❓ MCQ</p>
-            </div>
-
-            <div class="subject" onclick="openChapter('Work Energy and Power')">
-                <h2>5. Work, Energy and Power</h2>
-                <p>📖 Theory • 📐 Formula • ❓ MCQ</p>
-            </div>
-
-            <div class="subject" onclick="openChapter('System of Particles')">
-                <h2>6. System of Particles</h2>
-                <p>📖 Theory • 📐 Formula • ❓ MCQ</p>
-            </div>
-
-        </div>
-
-        <br>
-
-        <button onclick="location.reload()">
-            ← Back to Subjects
-        </button>
-    `;
-}
         document.querySelector(".container").innerHTML = `
+
             <h2>⚡ Physics Chapters</h2>
+
+            <p style="text-align:center;">
+                Choose a chapter and select how you want to learn.
+            </p>
 
             <div class="subjects">
 
-                <div class="subject">
+                <div class="subject"
+                     onclick="openChapter('Units and Measurements')">
                     <h2>1. Units and Measurements</h2>
-                    <p>Theory • Formulas • MCQs</p>
+                    <p>📖 Theory • 📐 Formula • ❓ MCQ</p>
                 </div>
 
-                <div class="subject">
+                <div class="subject"
+                     onclick="openChapter('Motion in a Straight Line')">
                     <h2>2. Motion in a Straight Line</h2>
-                    <p>Theory • Formulas • MCQs</p>
+                    <p>📖 Theory • 📐 Formula • ❓ MCQ</p>
                 </div>
 
-                <div class="subject">
+                <div class="subject"
+                     onclick="openChapter('Motion in a Plane')">
                     <h2>3. Motion in a Plane</h2>
-                    <p>Theory • Formulas • MCQs</p>
+                    <p>📖 Theory • 📐 Formula • ❓ MCQ</p>
                 </div>
 
-                <div class="subject">
+                <div class="subject"
+                     onclick="openChapter('Laws of Motion')">
                     <h2>4. Laws of Motion</h2>
-                    <p>Theory • Formulas • MCQs</p>
+                    <p>📖 Theory • 📐 Formula • ❓ MCQ</p>
                 </div>
 
-                <div class="subject">
+                <div class="subject"
+                     onclick="openChapter('Work, Energy and Power')">
                     <h2>5. Work, Energy and Power</h2>
-                    <p>Theory • Formulas • MCQs</p>
+                    <p>📖 Theory • 📐 Formula • ❓ MCQ</p>
                 </div>
 
-                <div class="subject">
+                <div class="subject"
+                     onclick="openChapter('System of Particles')">
                     <h2>6. System of Particles</h2>
-                    <p>Theory • Formulas • MCQs</p>
+                    <p>📖 Theory • 📐 Formula • ❓ MCQ</p>
                 </div>
 
             </div>
@@ -320,7 +62,361 @@ function openChapter(chapter) {
 
 }
 
-</script>
 
-</body>
-</html>
+function openChapter(chapter) {
+
+    document.querySelector(".container").innerHTML = `
+
+        <h2>⚡ ${chapter}</h2>
+
+        <p style="text-align:center;">
+            Select a learning mode
+        </p>
+
+        <div class="subjects">
+
+            <div class="subject"
+                 onclick="showTheory('${chapter}')">
+                <div class="icon">📖</div>
+                <h2>Theory</h2>
+                <p>Learn concepts step-by-step</p>
+            </div>
+
+            <div class="subject"
+                 onclick="showFormula('${chapter}')">
+                <div class="icon">📐</div>
+                <h2>Formula</h2>
+                <p>Important formulas and equations</p>
+            </div>
+
+            <div class="subject"
+                 onclick="showExamples('${chapter}')">
+                <div class="icon">💡</div>
+                <h2>Examples</h2>
+                <p>Solved numerical examples</p>
+            </div>
+
+            <div class="subject"
+                 onclick="showMCQ('${chapter}')">
+                <div class="icon">❓</div>
+                <h2>MCQ</h2>
+                <p>Practice multiple choice questions</p>
+            </div>
+
+            <div class="subject"
+                 onclick="showConceptTrap('${chapter}')">
+                <div class="icon">🧠</div>
+                <h2>Concept Trap</h2>
+                <p>Learn common mistakes</p>
+            </div>
+
+            <div class="subject"
+                 onclick="showTest('${chapter}')">
+                <div class="icon">🎯</div>
+                <h2>Test</h2>
+                <p>Take a practice test</p>
+            </div>
+
+        </div>
+
+        <br>
+
+        <button onclick="openSubject('Physics')">
+            ← Back to Physics Chapters
+        </button>
+    `;
+}
+
+
+/* =========================
+   THEORY
+========================= */
+
+function showTheory(chapter) {
+
+    document.querySelector(".container").innerHTML = `
+
+        <h2>📖 ${chapter} - Theory</h2>
+
+        <div class="features">
+
+            <h2>Chapter Theory</h2>
+
+            <p>
+                Theory for <strong>${chapter}</strong>
+                will be added here.
+            </p>
+
+            <h3>Important Concepts</h3>
+
+            <ul>
+                <li>Definitions</li>
+                <li>Basic concepts</li>
+                <li>Important points</li>
+                <li>Diagrams</li>
+            </ul>
+
+        </div>
+
+        <br>
+
+        <button onclick="openChapter('${chapter}')">
+            ← Back
+        </button>
+    `;
+}
+
+
+/* =========================
+   FORMULA
+========================= */
+
+function showFormula(chapter) {
+
+    document.querySelector(".container").innerHTML = `
+
+        <h2>📐 ${chapter} - Formula Sheet</h2>
+
+        <div class="features">
+
+            <h2>Important Formulas</h2>
+
+            <p>
+                <strong>v = u + at</strong>
+            </p>
+
+            <p>
+                <strong>s = ut + ½at²</strong>
+            </p>
+
+            <p>
+                <strong>v² = u² + 2as</strong>
+            </p>
+
+            <p>
+                <strong>s = ((u + v) / 2)t</strong>
+            </p>
+
+        </div>
+
+        <br>
+
+        <button onclick="openChapter('${chapter}')">
+            ← Back
+        </button>
+    `;
+}
+
+
+/* =========================
+   EXAMPLES
+========================= */
+
+function showExamples(chapter) {
+
+    document.querySelector(".container").innerHTML = `
+
+        <h2>💡 ${chapter} - Solved Example</h2>
+
+        <div class="features">
+
+            <h2>Example Question</h2>
+
+            <p>
+                A body has an initial velocity of
+                10 m/s and acceleration of 2 m/s².
+                Find its velocity after 5 seconds.
+            </p>
+
+            <h3>Solution</h3>
+
+            <p>
+                v = u + at
+            </p>
+
+            <p>
+                v = 10 + (2 × 5)
+            </p>
+
+            <p>
+                <strong>v = 20 m/s</strong>
+            </p>
+
+        </div>
+
+        <br>
+
+        <button onclick="openChapter('${chapter}')">
+            ← Back
+        </button>
+    `;
+}
+
+
+/* =========================
+   MCQ
+========================= */
+
+function showMCQ(chapter) {
+
+    document.querySelector(".container").innerHTML = `
+
+        <h2>❓ ${chapter} - MCQ</h2>
+
+        <div class="features">
+
+            <h2>Question 1</h2>
+
+            <p>
+                A body has an initial velocity of
+                10 m/s and acceleration of 2 m/s².
+                What is its velocity after 5 seconds?
+            </p>
+
+            <br>
+
+            <button onclick="checkAnswer(this, false)">
+                A. 15 m/s
+            </button>
+
+            <br><br>
+
+            <button onclick="checkAnswer(this, true)">
+                B. 20 m/s
+            </button>
+
+            <br><br>
+
+            <button onclick="checkAnswer(this, false)">
+                C. 25 m/s
+            </button>
+
+            <br><br>
+
+            <button onclick="checkAnswer(this, false)">
+                D. 30 m/s
+            </button>
+
+            <h3 id="answer"></h3>
+
+        </div>
+
+        <br>
+
+        <button onclick="openChapter('${chapter}')">
+            ← Back
+        </button>
+    `;
+}
+
+
+/* =========================
+   ANSWER CHECK
+========================= */
+
+function checkAnswer(button, correct) {
+
+    const answer = document.getElementById("answer");
+
+    if (correct) {
+
+        answer.innerHTML =
+            "✅ Correct! v = u + at = 10 + (2 × 5) = 20 m/s";
+
+        answer.style.color = "green";
+
+    } else {
+
+        answer.innerHTML =
+            "❌ Incorrect. Try again.";
+
+        answer.style.color = "red";
+    }
+}
+
+
+/* =========================
+   CONCEPT TRAP
+========================= */
+
+function showConceptTrap(chapter) {
+
+    document.querySelector(".container").innerHTML = `
+
+        <h2>🧠 ${chapter} - Concept Traps</h2>
+
+        <div class="features">
+
+            <h2>Common Mistake</h2>
+
+            <p>
+                Students often confuse
+                <strong>distance</strong> and
+                <strong>displacement</strong>.
+            </p>
+
+            <p>
+                Distance is a scalar quantity,
+                whereas displacement is a vector quantity.
+            </p>
+
+            <h3>Remember</h3>
+
+            <p>
+                Distance ≥ magnitude of displacement.
+            </p>
+
+        </div>
+
+        <br>
+
+        <button onclick="openChapter('${chapter}')">
+            ← Back
+        </button>
+    `;
+}
+
+
+/* =========================
+   TEST
+========================= */
+
+function showTest(chapter) {
+
+    document.querySelector(".container").innerHTML = `
+
+        <h2>🎯 ${chapter} - Practice Test</h2>
+
+        <div class="features">
+
+            <h2>Chapter Test</h2>
+
+            <p>
+                📝 Questions: 10
+            </p>
+
+            <p>
+                ⏱ Time: 5 Minutes
+            </p>
+
+            <p>
+                🎯 Difficulty: NEET Level
+            </p>
+
+            <br>
+
+            <button onclick="showMCQ('${chapter}')">
+                ▶ Start Test
+            </button>
+
+        </div>
+
+        <br>
+
+        <button onclick="openChapter('${chapter}')">
+            ← Back
+        </button>
+    `;
+}
+
+</script>
