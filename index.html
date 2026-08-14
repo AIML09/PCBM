@@ -12,6 +12,12 @@
             background: #f4f7fb;
             color: #222;
         }
+        .subject-image {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    margin-bottom: 10px;
+}
 
         header {
             background: #17365d;
@@ -108,10 +114,10 @@
     <div class="subjects">
 
         <div class="subject" onclick="openSubject('Physics')">
-            <div class="icon">⚡</div>
-            <h2>Physics</h2>
-            <p>Theory • Formulas • MCQs • Explanations</p>
-        </div>
+    <img src="Physics.PNG" alt="Physics" class="subject-image">
+    <h2>Physics</h2>
+    <p>Theory • Formulas • MCQs • Explanations</p>
+</div>
 
         <div class="subject" onclick="openSubject('Chemistry')">
             <div class="icon">🧪</div>
