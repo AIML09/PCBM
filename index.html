@@ -165,8 +165,114 @@
 <script>
 
 function openSubject(subject) {
+function openChapter(chapter) {
 
+    document.querySelector(".container").innerHTML = `
+
+        <h2>⚡ ${chapter}</h2>
+
+        <p style="text-align:center;">
+            Select a learning mode
+        </p>
+
+        <div class="subjects">
+
+            <div class="subject">
+                <div class="icon">📖</div>
+                <h2>Theory</h2>
+                <p>Learn the concepts step-by-step</p>
+            </div>
+
+            <div class="subject">
+                <div class="icon">📐</div>
+                <h2>Formula</h2>
+                <p>Important formulas and equations</p>
+            </div>
+
+            <div class="subject">
+                <div class="icon">💡</div>
+                <h2>Examples</h2>
+                <p>Understand with solved examples</p>
+            </div>
+
+            <div class="subject">
+                <div class="icon">❓</div>
+                <h2>MCQ</h2>
+                <p>Practice multiple choice questions</p>
+            </div>
+
+            <div class="subject">
+                <div class="icon">🧠</div>
+                <h2>Concept Trap</h2>
+                <p>Learn common mistakes</p>
+            </div>
+
+            <div class="subject">
+                <div class="icon">🎯</div>
+                <h2>Test</h2>
+                <p>Take a timed chapter test</p>
+            </div>
+
+        </div>
+
+        <br>
+
+        <button onclick="location.reload()">
+            ← Back to Subjects
+        </button>
+    `;
+}
     if (subject === "Physics") {
+
+    document.querySelector(".container").innerHTML = `
+
+        <h2>⚡ Physics Chapters</h2>
+
+        <p style="text-align:center;">
+            Choose a chapter and select how you want to learn.
+        </p>
+
+        <div class="subjects">
+
+            <div class="subject" onclick="openChapter('Units and Measurements')">
+                <h2>1. Units and Measurements</h2>
+                <p>📖 Theory • 📐 Formula • ❓ MCQ</p>
+            </div>
+
+            <div class="subject" onclick="openChapter('Motion in a Straight Line')">
+                <h2>2. Motion in a Straight Line</h2>
+                <p>📖 Theory • 📐 Formula • ❓ MCQ</p>
+            </div>
+
+            <div class="subject" onclick="openChapter('Motion in a Plane')">
+                <h2>3. Motion in a Plane</h2>
+                <p>📖 Theory • 📐 Formula • ❓ MCQ</p>
+            </div>
+
+            <div class="subject" onclick="openChapter('Laws of Motion')">
+                <h2>4. Laws of Motion</h2>
+                <p>📖 Theory • 📐 Formula • ❓ MCQ</p>
+            </div>
+
+            <div class="subject" onclick="openChapter('Work Energy and Power')">
+                <h2>5. Work, Energy and Power</h2>
+                <p>📖 Theory • 📐 Formula • ❓ MCQ</p>
+            </div>
+
+            <div class="subject" onclick="openChapter('System of Particles')">
+                <h2>6. System of Particles</h2>
+                <p>📖 Theory • 📐 Formula • ❓ MCQ</p>
+            </div>
+
+        </div>
+
+        <br>
+
+        <button onclick="location.reload()">
+            ← Back to Subjects
+        </button>
+    `;
+}
         document.querySelector(".container").innerHTML = `
             <h2>⚡ Physics Chapters</h2>
 
