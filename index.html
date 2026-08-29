@@ -1,163 +1,162 @@
 <script>
-
 /* =========================================================
-   CHAPTER DATA
+   PCBM LEARNING PORTAL
+   FINAL WORKING JAVASCRIPT
 ========================================================= */
 
 const subjects = {
 
-Physics:{
-    icon:"⚛️",
-    class:"physics",
-    description:"Theory • Concepts • Formulas • Numericals • MCQs",
-    chapters:[
-        "Units and Measurements",
-        "Motion in a Straight Line",
-        "Motion in a Plane",
-        "Laws of Motion",
-        "Work, Energy and Power",
-        "System of Particles and Rotational Motion",
-        "Gravitation",
-        "Mechanical Properties of Solids",
-        "Mechanical Properties of Fluids",
-        "Thermal Properties of Matter",
-        "Thermodynamics",
-        "Kinetic Theory",
-        "Oscillations",
-        "Waves",
-        "Electric Charges and Fields",
-        "Electrostatic Potential and Capacitance",
-        "Current Electricity",
-        "Moving Charges and Magnetism",
-        "Magnetism and Matter",
-        "Electromagnetic Induction",
-        "Alternating Current",
-        "Electromagnetic Waves",
-        "Ray Optics and Optical Instruments",
-        "Wave Optics",
-        "Dual Nature of Radiation and Matter",
-        "Atoms",
-        "Nuclei",
-        "Semiconductor Electronics"
-    ]
-},
+    Physics: {
+        icon: "⚛️",
+        class: "physics",
+        description: "Theory • Concepts • Formulas • Numericals • MCQs",
+        chapters: [
+            "Units and Measurements",
+            "Motion in a Straight Line",
+            "Motion in a Plane",
+            "Laws of Motion",
+            "Work, Energy and Power",
+            "System of Particles and Rotational Motion",
+            "Gravitation",
+            "Mechanical Properties of Solids",
+            "Mechanical Properties of Fluids",
+            "Thermal Properties of Matter",
+            "Thermodynamics",
+            "Kinetic Theory",
+            "Oscillations",
+            "Waves",
+            "Electric Charges and Fields",
+            "Electrostatic Potential and Capacitance",
+            "Current Electricity",
+            "Moving Charges and Magnetism",
+            "Magnetism and Matter",
+            "Electromagnetic Induction",
+            "Alternating Current",
+            "Electromagnetic Waves",
+            "Ray Optics and Optical Instruments",
+            "Wave Optics",
+            "Dual Nature of Radiation and Matter",
+            "Atoms",
+            "Nuclei",
+            "Semiconductor Electronics"
+        ]
+    },
 
-Chemistry:{
-    icon:"🧪",
-    class:"chemistry",
-    description:"Physical • Organic • Inorganic • Reactions • MCQs",
-    chapters:[
-        "Some Basic Concepts of Chemistry",
-        "Structure of Atom",
-        "Classification of Elements",
-        "Chemical Bonding and Molecular Structure",
-        "Thermodynamics",
-        "Equilibrium",
-        "Redox Reactions",
-        "Organic Chemistry - Basic Principles",
-        "Hydrocarbons",
-        "Solutions",
-        "Electrochemistry",
-        "Chemical Kinetics",
-        "Surface Chemistry",
-        "General Principles of Metallurgy",
-        "p-Block Elements",
-        "d and f Block Elements",
-        "Coordination Compounds",
-        "Haloalkanes and Haloarenes",
-        "Alcohols, Phenols and Ethers",
-        "Aldehydes, Ketones and Carboxylic Acids",
-        "Amines",
-        "Biomolecules",
-        "Polymers",
-        "Chemistry in Everyday Life"
-    ]
-},
+    Chemistry: {
+        icon: "🧪",
+        class: "chemistry",
+        description: "Physical • Organic • Inorganic • Reactions • MCQs",
+        chapters: [
+            "Some Basic Concepts of Chemistry",
+            "Structure of Atom",
+            "Classification of Elements",
+            "Chemical Bonding and Molecular Structure",
+            "Thermodynamics",
+            "Equilibrium",
+            "Redox Reactions",
+            "Organic Chemistry - Basic Principles",
+            "Hydrocarbons",
+            "Solutions",
+            "Electrochemistry",
+            "Chemical Kinetics",
+            "Surface Chemistry",
+            "General Principles of Metallurgy",
+            "p-Block Elements",
+            "d and f Block Elements",
+            "Coordination Compounds",
+            "Haloalkanes and Haloarenes",
+            "Alcohols, Phenols and Ethers",
+            "Aldehydes, Ketones and Carboxylic Acids",
+            "Amines",
+            "Biomolecules",
+            "Polymers",
+            "Chemistry in Everyday Life"
+        ]
+    },
 
-Biology:{
-    icon:"🧬",
-    class:"biology",
-    description:"Botany • Zoology • NCERT Points • Diagrams • MCQs",
-    chapters:[
-        "The Living World",
-        "Biological Classification",
-        "Plant Kingdom",
-        "Animal Kingdom",
-        "Morphology of Flowering Plants",
-        "Anatomy of Flowering Plants",
-        "Structural Organisation in Animals",
-        "Cell: The Unit of Life",
-        "Biomolecules",
-        "Cell Cycle and Cell Division",
-        "Transport in Plants",
-        "Mineral Nutrition",
-        "Photosynthesis in Plants",
-        "Respiration in Plants",
-        "Plant Growth and Development",
-        "Digestion and Absorption",
-        "Breathing and Exchange of Gases",
-        "Body Fluids and Circulation",
-        "Excretory Products and Elimination",
-        "Locomotion and Movement",
-        "Neural Control and Coordination",
-        "Chemical Coordination and Integration",
-        "Sexual Reproduction in Flowering Plants",
-        "Human Reproduction",
-        "Reproductive Health",
-        "Principles of Inheritance and Variation",
-        "Molecular Basis of Inheritance",
-        "Evolution",
-        "Human Health and Disease",
-        "Strategies for Enhancement in Food Production",
-        "Microbes in Human Welfare",
-        "Biotechnology: Principles and Processes",
-        "Biotechnology and its Applications",
-        "Organisms and Populations",
-        "Ecosystem",
-        "Biodiversity and Conservation",
-        "Environmental Issues"
-    ]
-},
+    Biology: {
+        icon: "🧬",
+        class: "biology",
+        description: "Botany • Zoology • NCERT Points • Diagrams • MCQs",
+        chapters: [
+            "The Living World",
+            "Biological Classification",
+            "Plant Kingdom",
+            "Animal Kingdom",
+            "Morphology of Flowering Plants",
+            "Anatomy of Flowering Plants",
+            "Structural Organisation in Animals",
+            "Cell: The Unit of Life",
+            "Biomolecules",
+            "Cell Cycle and Cell Division",
+            "Transport in Plants",
+            "Mineral Nutrition",
+            "Photosynthesis in Plants",
+            "Respiration in Plants",
+            "Plant Growth and Development",
+            "Digestion and Absorption",
+            "Breathing and Exchange of Gases",
+            "Body Fluids and Circulation",
+            "Excretory Products and Elimination",
+            "Locomotion and Movement",
+            "Neural Control and Coordination",
+            "Chemical Coordination and Integration",
+            "Sexual Reproduction in Flowering Plants",
+            "Human Reproduction",
+            "Reproductive Health",
+            "Principles of Inheritance and Variation",
+            "Molecular Basis of Inheritance",
+            "Evolution",
+            "Human Health and Disease",
+            "Strategies for Enhancement in Food Production",
+            "Microbes in Human Welfare",
+            "Biotechnology: Principles and Processes",
+            "Biotechnology and its Applications",
+            "Organisms and Populations",
+            "Ecosystem",
+            "Biodiversity and Conservation",
+            "Environmental Issues"
+        ]
+    },
 
-Mathematics:{
-    icon:"📐",
-    class:"maths",
-    description:"Theory • Formulas • Problems • Shortcuts • MCQs",
-    chapters:[
-        "Sets",
-        "Relations and Functions",
-        "Trigonometric Functions",
-        "Principle of Mathematical Induction",
-        "Complex Numbers",
-        "Linear Inequalities",
-        "Permutations and Combinations",
-        "Binomial Theorem",
-        "Sequences and Series",
-        "Straight Lines",
-        "Conic Sections",
-        "Introduction to Three Dimensional Geometry",
-        "Limits and Derivatives",
-        "Statistics",
-        "Probability",
-        "Relations and Functions",
-        "Inverse Trigonometric Functions",
-        "Matrices",
-        "Determinants",
-        "Continuity and Differentiability",
-        "Applications of Derivatives",
-        "Integrals",
-        "Applications of Integrals",
-        "Differential Equations",
-        "Vector Algebra",
-        "Three Dimensional Geometry",
-        "Linear Programming",
-        "Probability"
-    ]
+    Mathematics: {
+        icon: "📐",
+        class: "maths",
+        description: "Theory • Formulas • Problems • Shortcuts • MCQs",
+        chapters: [
+            "Sets",
+            "Relations and Functions",
+            "Trigonometric Functions",
+            "Principle of Mathematical Induction",
+            "Complex Numbers",
+            "Linear Inequalities",
+            "Permutations and Combinations",
+            "Binomial Theorem",
+            "Sequences and Series",
+            "Straight Lines",
+            "Conic Sections",
+            "Introduction to Three Dimensional Geometry",
+            "Limits and Derivatives",
+            "Statistics",
+            "Probability",
+            "Inverse Trigonometric Functions",
+            "Matrices",
+            "Determinants",
+            "Continuity and Differentiability",
+            "Applications of Derivatives",
+            "Integrals",
+            "Applications of Integrals",
+            "Differential Equations",
+            "Vector Algebra",
+            "Three Dimensional Geometry",
+            "Linear Programming"
+        ]
+    }
 };
 
 
 /* =========================================================
-   APPLICATION STATE
+   STATE
 ========================================================= */
 
 let currentSubject = "";
@@ -165,19 +164,36 @@ let currentChapter = "";
 
 
 /* =========================================================
+   SAFE HTML
+========================================================= */
+
+function escapeHTML(text) {
+    return String(text)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+}
+
+
+/* =========================================================
    HOME
 ========================================================= */
 
-function showHome(){
+function showHome() {
 
-    let totalChapters = 0;
+    const app = document.getElementById("app");
 
-    Object.values(subjects).forEach(subject=>{
-        totalChapters += subject.chapters.length;
-    });
+    if (!app) {
+        console.error("Element #app not found.");
+        return;
+    }
 
-    document.getElementById("app").innerHTML = `
+    const totalChapters = Object.values(subjects)
+        .reduce((total, subject) => total + subject.chapters.length, 0);
 
+    app.innerHTML = `
         <div class="page-title">
             <h2>🎓 Welcome to PCBM Learning Portal</h2>
             <p>Select a subject to start learning.</p>
@@ -204,23 +220,25 @@ function showHome(){
 
         <div class="subject-grid">
 
-            ${Object.entries(subjects).map(([name,data])=>`
-
+            ${Object.entries(subjects).map(([name, data]) => `
                 <div class="card ${data.class}"
                      onclick="showSubject('${name}')">
 
-                    <div class="subject-icon">${data.icon}</div>
+                    <div class="subject-icon">
+                        ${data.icon}
+                    </div>
 
                     <h2>${name}</h2>
 
                     <p>${data.description}</p>
 
                     <p>
-                        <strong>${data.chapters.length} Chapters</strong>
+                        <strong>
+                            ${data.chapters.length} Chapters
+                        </strong>
                     </p>
 
                 </div>
-
             `).join("")}
 
         </div>
@@ -248,43 +266,45 @@ function showHome(){
    SUBJECT PAGE
 ========================================================= */
 
-function showSubject(subject){
+function showSubject(subject) {
 
     currentSubject = subject;
 
     const data = subjects[subject];
 
+    if (!data) {
+        showHome();
+        return;
+    }
+
     document.getElementById("app").innerHTML = `
 
         <div class="page-title">
-
-            <h2>${data.icon} ${subject}</h2>
-
-            <p>${data.description}</p>
-
+            <h2>${data.icon} ${escapeHTML(subject)}</h2>
+            <p>${escapeHTML(data.description)}</p>
         </div>
 
         <input
             class="search-box"
             id="chapterSearch"
+            type="text"
             placeholder="🔍 Search chapter..."
             oninput="filterChapters()"
         >
 
         <div class="chapter-grid" id="chapterGrid">
 
-            ${data.chapters.map((chapter,index)=>`
-
+            ${data.chapters.map((chapter, index) => `
                 <div
                     class="card chapter-card"
-                    data-name="${chapter.toLowerCase()}"
-                    onclick="showChapter('${escapeQuotes(chapter)}')">
+                    data-name="${escapeHTML(chapter.toLowerCase())}"
+                    onclick="showChapter(${JSON.stringify(chapter)})">
 
                     <span class="chapter-number">
-                        Chapter ${index+1}
+                        Chapter ${index + 1}
                     </span>
 
-                    <h2>${chapter}</h2>
+                    <h2>${escapeHTML(chapter)}</h2>
 
                     <p>
                         📖 Theory &nbsp;
@@ -293,17 +313,14 @@ function showSubject(subject){
                     </p>
 
                 </div>
-
             `).join("")}
 
         </div>
 
         <div class="back">
-
             <button onclick="showHome()">
                 ← Back to Subjects
             </button>
-
         </div>
     `;
 }
@@ -313,22 +330,21 @@ function showSubject(subject){
    SEARCH
 ========================================================= */
 
-function filterChapters(){
+function filterChapters() {
 
-    const search =
-        document.getElementById("chapterSearch")
-        .value
-        .toLowerCase();
+    const input = document.getElementById("chapterSearch");
 
-    document.querySelectorAll(".chapter-card")
-        .forEach(card=>{
+    if (!input) return;
 
-            card.style.display =
-                card.dataset.name.includes(search)
-                ? "block"
-                : "none";
+    const search = input.value.toLowerCase().trim();
 
-        });
+    document.querySelectorAll(".chapter-card").forEach(card => {
+
+        const name = card.dataset.name || "";
+
+        card.style.display =
+            name.includes(search) ? "block" : "none";
+    });
 }
 
 
@@ -336,7 +352,7 @@ function filterChapters(){
    CHAPTER PAGE
 ========================================================= */
 
-function showChapter(chapter){
+function showChapter(chapter) {
 
     currentChapter = chapter;
 
@@ -346,336 +362,64 @@ function showChapter(chapter){
 
         <div class="page-title">
 
-            <h2>${data.icon} ${chapter}</h2>
+            <h2>
+                ${data.icon} ${escapeHTML(chapter)}
+            </h2>
 
-            <p>${currentSubject} • Chapter Study Center</p>
+            <p>
+                ${escapeHTML(currentSubject)} • Chapter Study Center
+            </p>
 
         </div>
 
         <div class="mode-grid">
 
-            <div class="card mode-card"
-                 onclick="showTheory()">
-
+            <div class="card mode-card" onclick="showTheory()">
                 <div class="mode-icon">📖</div>
                 <h2>Theory</h2>
                 <p>Complete chapter concepts.</p>
-
             </div>
 
-            <div class="card mode-card"
-                 onclick="showImportant()">
-
+            <div class="card mode-card" onclick="showImportant()">
                 <div class="mode-icon">📌</div>
                 <h2>Important Points</h2>
                 <p>Quick exam revision.</p>
-
             </div>
 
-            <div class="card mode-card"
-                 onclick="showFormula()">
-
+            <div class="card mode-card" onclick="showFormula()">
                 <div class="mode-icon">📐</div>
                 <h2>Formula / Reactions</h2>
                 <p>Important formulas and reactions.</p>
-
             </div>
 
-            <div class="card mode-card"
-                 onclick="showExamples()">
-
+            <div class="card mode-card" onclick="showExamples()">
                 <div class="mode-icon">💡</div>
                 <h2>Examples</h2>
                 <p>Solved examples.</p>
-
             </div>
 
-            <div class="card mode-card"
-                 onclick="showMCQ()">
-
+            <div class="card mode-card" onclick="showMCQ()">
                 <div class="mode-icon">❓</div>
                 <h2>MCQs</h2>
                 <p>Practice questions.</p>
-
             </div>
 
-            <div class="card mode-card"
-                 onclick="showConceptTrap()">
-
+            <div class="card mode-card" onclick="showConceptTrap()">
                 <div class="mode-icon">🧠</div>
                 <h2>Concept Traps</h2>
                 <p>Common mistakes.</p>
-
             </div>
 
-            <div class="card mode-card"
-                 onclick="showTest()">
-
+            <div class="card mode-card" onclick="showTest()">
                 <div class="mode-icon">🎯</div>
                 <h2>Chapter Test</h2>
                 <p>Test your knowledge.</p>
-
             </div>
 
         </div>
 
-        <div class="back">
-
-            <button onclick="showSubject(currentSubject)">
-                ← Back to ${currentSubject}
-            </button>
-
-        </div>
+        ${backToChapter()}
     `;
-}
-
-
-/* =========================================================
-   ORGANIC CHEMISTRY — COMPLETE THEORY
-========================================================= */
-
-function organicTheory(){
-
-return `
-
-<h3>1. What is Organic Chemistry?</h3>
-
-<p>
-Organic chemistry is the branch of chemistry that deals mainly
-with carbon-containing compounds. Carbon forms a very large
-number of compounds because of its tetravalency and ability to
-form strong covalent bonds with itself.
-</p>
-
-<h3>2. Why Carbon Forms So Many Compounds</h3>
-
-<ul>
-<li><strong>Tetravalency:</strong> Carbon has four valence electrons and forms four covalent bonds.</li>
-<li><strong>Catenation:</strong> Carbon atoms can bond with other carbon atoms to form chains and rings.</li>
-<li><strong>Multiple bonds:</strong> Carbon can form C–C, C=C and C≡C bonds.</li>
-<li><strong>Strong bonds:</strong> C–C and C–H bonds are relatively strong.</li>
-</ul>
-
-<h3>3. Classification of Organic Compounds</h3>
-
-<ul>
-<li><strong>Acyclic compounds:</strong> Open-chain compounds.</li>
-<li><strong>Homocyclic compounds:</strong> Rings containing only carbon atoms.</li>
-<li><strong>Heterocyclic compounds:</strong> Rings containing carbon and other atoms such as N, O or S.</li>
-<li><strong>Aromatic compounds:</strong> Compounds containing aromatic ring systems such as benzene.</li>
-</ul>
-
-<h3>4. Functional Groups</h3>
-
-<p>
-A functional group is an atom or group of atoms responsible for
-the characteristic chemical reactions of an organic compound.
-</p>
-
-<div class="formula">
-–OH → Alcohol
-</div>
-
-<div class="formula">
-–CHO → Aldehyde
-</div>
-
-<div class="formula">
-&gt;C=O → Ketone
-</div>
-
-<div class="formula">
-–COOH → Carboxylic acid
-</div>
-
-<div class="formula">
-–NH₂ → Amine
-</div>
-
-<div class="formula">
-–X → Halo compound
-</div>
-
-<h3>5. Homologous Series</h3>
-
-<p>
-A homologous series is a family of organic compounds having the
-same functional group and general formula. Successive members
-differ by a <strong>–CH₂–</strong> unit.
-</p>
-
-<p>
-Example:
-CH₄, C₂H₆, C₃H₈, C₄H₁₀
-</p>
-
-<h3>6. IUPAC Nomenclature</h3>
-
-<ol>
-<li>Select the longest carbon chain.</li>
-<li>Number the chain from the end giving the lowest locant to the principal functional group.</li>
-<li>Identify substituents.</li>
-<li>Assign their positions.</li>
-<li>Arrange substituent names alphabetically.</li>
-<li>Write the complete IUPAC name.</li>
-</ol>
-
-<h3>7. Isomerism</h3>
-
-<p>
-Isomers are compounds having the same molecular formula but
-different structures or spatial arrangements.
-</p>
-
-<ul>
-<li>Chain isomerism</li>
-<li>Position isomerism</li>
-<li>Functional isomerism</li>
-<li>Metamerism</li>
-<li>Geometrical isomerism</li>
-<li>Optical isomerism</li>
-</ul>
-
-<h3>8. Electronic Effects</h3>
-
-<p>
-Electronic effects explain how electrons are distributed within
-an organic molecule.
-</p>
-
-<h4>Inductive Effect</h4>
-
-<p>
-Permanent displacement of sigma electrons due to electronegativity
-differences.
-</p>
-
-<div class="formula">
-–I groups: –NO₂, –CN, –COOH, –F, –Cl
-</div>
-
-<div class="formula">
-+I groups: Alkyl groups such as –CH₃, –C₂H₅
-</div>
-
-<h4>Resonance</h4>
-
-<p>
-Resonance occurs when a molecule can be represented by two or
-more contributing structures differing only in electron
-distribution.
-</p>
-
-<h4>Hyperconjugation</h4>
-
-<p>
-Hyperconjugation involves delocalisation of electrons of a
-sigma bond, commonly a C–H bond adjacent to a double bond or
-positively charged carbon.
-</p>
-
-<h3>9. Electromeric Effect</h3>
-
-<p>
-The electromeric effect is a temporary complete transfer of
-pi electrons of a multiple bond under the influence of an
-attacking reagent.
-</p>
-
-<h3>10. Reaction Intermediates</h3>
-
-<h4>Carbocation</h4>
-
-<p>
-A carbocation contains a positively charged carbon atom.
-</p>
-
-<div class="formula">
-Stability: 3° &gt; 2° &gt; 1° &gt; CH₃⁺
-</div>
-
-<h4>Carbanion</h4>
-
-<p>
-A carbanion contains a negatively charged carbon atom.
-</p>
-
-<div class="formula">
-Generally: CH₃⁻ &gt; 1° &gt; 2° &gt; 3°
-</div>
-
-<h4>Free Radical</h4>
-
-<p>
-A free radical contains an unpaired electron.
-</p>
-
-<div class="formula">
-Stability: 3° &gt; 2° &gt; 1° &gt; CH₃•
-</div>
-
-<h3>11. Nucleophiles</h3>
-
-<p>
-A nucleophile is an electron-rich species that attacks an
-electron-deficient centre.
-</p>
-
-<p>
-Examples: OH⁻, CN⁻, NH₃, H₂O.
-</p>
-
-<h3>12. Electrophiles</h3>
-
-<p>
-An electrophile is an electron-deficient species that accepts
-an electron pair.
-</p>
-
-<p>
-Examples: H⁺, NO₂⁺ and carbocations.
-</p>
-
-<h3>13. Types of Organic Reactions</h3>
-
-<ul>
-<li><strong>Substitution:</strong> One atom/group is replaced by another.</li>
-<li><strong>Addition:</strong> Atoms/groups add across a multiple bond.</li>
-<li><strong>Elimination:</strong> Atoms/groups are removed to form a multiple bond.</li>
-<li><strong>Rearrangement:</strong> Atoms/groups change their positions within a molecule.</li>
-<li><strong>Oxidation:</strong> Usually involves increase in oxygen or decrease in hydrogen.</li>
-<li><strong>Reduction:</strong> Usually involves increase in hydrogen or decrease in oxygen.</li>
-</ul>
-
-<h3>14. Purification Techniques</h3>
-
-<ul>
-<li>Crystallisation</li>
-<li>Sublimation</li>
-<li>Distillation</li>
-<li>Fractional distillation</li>
-<li>Steam distillation</li>
-<li>Chromatography</li>
-</ul>
-
-<h3>15. Qualitative Analysis</h3>
-
-<p>
-Organic compounds can be tested for elements such as nitrogen,
-sulphur and halogens using appropriate chemical tests.
-</p>
-
-<h3>⭐ Key Takeaway</h3>
-
-<p>
-For Organic Chemistry, first master <strong>GOC</strong>:
-electronic effects, resonance, acidity/basicity, reaction
-intermediates, nucleophiles, electrophiles and reaction
-mechanisms. These concepts are used repeatedly in later
-organic chapters.
-</p>
-
-`;
 }
 
 
@@ -683,39 +427,173 @@ organic chapters.
    THEORY
 ========================================================= */
 
-function showTheory(){
+function showTheory() {
 
-    if(
+    let content = "";
+
+    if (
         currentSubject === "Chemistry" &&
         currentChapter === "Organic Chemistry - Basic Principles"
-    ){
+    ) {
 
-        document.getElementById("app").innerHTML = `
+        content = `
+            <h3>1. What is Organic Chemistry?</h3>
 
-            <div class="content-box">
+            <p>
+                Organic chemistry is the branch of chemistry
+                dealing mainly with carbon-containing compounds.
+            </p>
 
-                <h2>📖 Organic Chemistry — Complete Theory</h2>
+            <h3>2. Why Carbon Forms So Many Compounds</h3>
 
-                ${organicTheory()}
+            <ul>
+                <li><strong>Tetravalency:</strong> Carbon forms four covalent bonds.</li>
+                <li><strong>Catenation:</strong> Carbon forms bonds with other carbon atoms.</li>
+                <li><strong>Multiple bonds:</strong> Carbon forms single, double and triple bonds.</li>
+                <li><strong>Strong bonds:</strong> Carbon-carbon bonds are relatively strong.</li>
+            </ul>
 
+            <h3>3. Functional Groups</h3>
+
+            <div class="formula">–OH → Alcohol</div>
+            <div class="formula">–CHO → Aldehyde</div>
+            <div class="formula">&gt;C=O → Ketone</div>
+            <div class="formula">–COOH → Carboxylic Acid</div>
+            <div class="formula">–NH₂ → Amine</div>
+            <div class="formula">–X → Halo Compound</div>
+
+            <h3>4. Homologous Series</h3>
+
+            <p>
+                Successive members of a homologous series differ
+                by one <strong>–CH₂–</strong> unit.
+            </p>
+
+            <h3>5. IUPAC Nomenclature</h3>
+
+            <ol>
+                <li>Select the longest carbon chain.</li>
+                <li>Number the chain correctly.</li>
+                <li>Identify substituents.</li>
+                <li>Assign positions.</li>
+                <li>Arrange substituent names alphabetically.</li>
+                <li>Write the complete name.</li>
+            </ol>
+
+            <h3>6. Isomerism</h3>
+
+            <ul>
+                <li>Chain isomerism</li>
+                <li>Position isomerism</li>
+                <li>Functional isomerism</li>
+                <li>Metamerism</li>
+                <li>Geometrical isomerism</li>
+                <li>Optical isomerism</li>
+            </ul>
+
+            <h3>7. Electronic Effects</h3>
+
+            <p>
+                Electronic effects describe the distribution and
+                movement of electrons in organic molecules.
+            </p>
+
+            <h4>Inductive Effect</h4>
+
+            <p>
+                Permanent displacement of sigma electrons due to
+                electronegativity differences.
+            </p>
+
+            <div class="formula">
+                –I groups: –NO₂, –CN, –COOH, –F, –Cl
             </div>
 
-            ${backToChapter()}
+            <div class="formula">
+                +I groups: Alkyl groups
+            </div>
+
+            <h4>Resonance</h4>
+
+            <p>
+                Resonance represents delocalisation of electrons
+                over a conjugated system.
+            </p>
+
+            <h4>Hyperconjugation</h4>
+
+            <p>
+                Hyperconjugation involves delocalisation of
+                sigma-bond electrons.
+            </p>
+
+            <h3>8. Reaction Intermediates</h3>
+
+            <div class="formula">
+                Carbocation stability:
+                3° &gt; 2° &gt; 1° &gt; CH₃⁺
+            </div>
+
+            <div class="formula">
+                Carbanion stability:
+                CH₃⁻ &gt; 1° &gt; 2° &gt; 3°
+            </div>
+
+            <div class="formula">
+                Free radical stability:
+                3° &gt; 2° &gt; 1° &gt; CH₃•
+            </div>
+
+            <h3>9. Nucleophiles</h3>
+
+            <p>
+                Electron-rich species that donate an electron pair.
+            </p>
+
+            <p>
+                Examples: OH⁻, CN⁻, NH₃, H₂O.
+            </p>
+
+            <h3>10. Electrophiles</h3>
+
+            <p>
+                Electron-deficient species that accept an electron pair.
+            </p>
+
+            <p>
+                Examples: H⁺, NO₂⁺ and carbocations.
+            </p>
+
+            <h3>11. Organic Reactions</h3>
+
+            <ul>
+                <li>Substitution</li>
+                <li>Addition</li>
+                <li>Elimination</li>
+                <li>Rearrangement</li>
+                <li>Oxidation</li>
+                <li>Reduction</li>
+            </ul>
+
+            <h3>⭐ Key Takeaway</h3>
+
+            <p>
+                Master GOC concepts such as resonance, inductive
+                effect, hyperconjugation, acidity/basicity,
+                reaction intermediates, electrophiles and
+                nucleophiles before moving to advanced organic
+                chemistry.
+            </p>
         `;
 
-        return;
-    }
+    } else {
 
-    document.getElementById("app").innerHTML = `
-
-        <div class="content-box">
-
-            <h2>📖 ${currentChapter} — Theory</h2>
-
+        content = `
             <h3>Introduction</h3>
 
             <p>
-                Complete chapter theory will be added here.
+                This section contains the study material for
+                <strong>${escapeHTML(currentChapter)}</strong>.
             </p>
 
             <h3>Key Concepts</h3>
@@ -724,68 +602,33 @@ function showTheory(){
                 <li>Understand the basic definitions.</li>
                 <li>Learn the fundamental concepts.</li>
                 <li>Study important principles.</li>
+                <li>Revise important diagrams and formulas.</li>
                 <li>Practice questions after learning.</li>
             </ul>
+
+            <h3>Study Strategy</h3>
+
+            <p>
+                Read the concept carefully, make short notes,
+                revise important points and solve practice
+                questions.
+            </p>
+        `;
+    }
+
+    document.getElementById("app").innerHTML = `
+        <div class="content-box">
+
+            <h2>
+                📖 ${escapeHTML(currentChapter)} — Theory
+            </h2>
+
+            ${content}
 
         </div>
 
         ${backToChapter()}
     `;
-}
-
-
-/* =========================================================
-   ORGANIC IMPORTANT POINTS
-========================================================= */
-
-function organicImportant(){
-
-return `
-
-<ul>
-
-<li>Carbon is tetravalent.</li>
-
-<li>Catenation is the ability of carbon to form bonds with other carbon atoms.</li>
-
-<li>A functional group determines the characteristic chemical behaviour of an organic compound.</li>
-
-<li>Successive members of a homologous series differ by –CH₂–.</li>
-
-<li>Inductive effect operates through sigma bonds.</li>
-
-<li>Resonance involves delocalisation of electrons.</li>
-
-<li>Electromeric effect operates in compounds containing multiple bonds.</li>
-
-<li>Carbocation is electron deficient.</li>
-
-<li>Carbanion is electron rich.</li>
-
-<li>Nucleophiles donate an electron pair.</li>
-
-<li>Electrophiles accept an electron pair.</li>
-
-<li>Carbocation stability generally follows:
-3° &gt; 2° &gt; 1° &gt; methyl.</li>
-
-<li>Free radical stability generally follows:
-3° &gt; 2° &gt; 1° &gt; methyl.</li>
-
-<li>Reaction mechanisms explain how reactants are converted into products.</li>
-
-</ul>
-
-<h3>⭐ Exam Focus</h3>
-
-<p>
-Pay special attention to <strong>IUPAC nomenclature,
-isomerism, resonance, inductive effect, hyperconjugation,
-carbocation stability, acidity/basicity, electrophiles and
-nucleophiles.</strong>
-</p>
-
-`;
 }
 
 
@@ -793,41 +636,32 @@ nucleophiles.</strong>
    IMPORTANT POINTS
 ========================================================= */
 
-function showImportant(){
-
-    if(
-        currentSubject === "Chemistry" &&
-        currentChapter === "Organic Chemistry - Basic Principles"
-    ){
-
-        document.getElementById("app").innerHTML = `
-
-            <div class="content-box">
-
-                <h2>📌 GOC — Important Points</h2>
-
-                ${organicImportant()}
-
-            </div>
-
-            ${backToChapter()}
-        `;
-
-        return;
-    }
+function showImportant() {
 
     document.getElementById("app").innerHTML = `
 
         <div class="content-box">
 
-            <h2>📌 ${currentChapter} — Important Points</h2>
+            <h2>
+                📌 ${escapeHTML(currentChapter)}
+                — Important Points
+            </h2>
 
             <ul>
                 <li>Know all important definitions.</li>
+                <li>Understand the fundamental concepts.</li>
                 <li>Remember important laws and principles.</li>
-                <li>Revise important diagrams.</li>
+                <li>Revise diagrams where applicable.</li>
                 <li>Practice numerical/application questions.</li>
+                <li>Review common exceptions.</li>
             </ul>
+
+            <h3>⭐ Quick Revision</h3>
+
+            <p>
+                Use these points for last-minute revision before
+                attempting MCQs or the chapter test.
+            </p>
 
         </div>
 
@@ -837,118 +671,14 @@ function showImportant(){
 
 
 /* =========================================================
-   ORGANIC FORMULAS / REACTIONS
-========================================================= */
-
-function organicReactions(){
-
-return `
-
-<h3>Important General Representations</h3>
-
-<div class="formula">
-Alkane: CₙH₂ₙ₊₂
-</div>
-
-<div class="formula">
-Alkene: CₙH₂ₙ
-</div>
-
-<div class="formula">
-Alkyne: CₙH₂ₙ₋₂
-</div>
-
-<h3>Common Functional Groups</h3>
-
-<div class="formula">
-R–OH → Alcohol
-</div>
-
-<div class="formula">
-R–CHO → Aldehyde
-</div>
-
-<div class="formula">
-R–CO–R → Ketone
-</div>
-
-<div class="formula">
-R–COOH → Carboxylic acid
-</div>
-
-<div class="formula">
-R–NH₂ → Primary amine
-</div>
-
-<div class="formula">
-R–X → Haloalkane
-</div>
-
-<h3>Reaction Types</h3>
-
-<div class="formula">
-R–X + Nu⁻ → R–Nu + X⁻
-</div>
-
-<div class="formula">
-C=C + A–B → A–C–C–B
-</div>
-
-<div class="formula">
-Substrate → Product + small molecule
-</div>
-
-<h3>Important Stability Orders</h3>
-
-<div class="formula">
-Carbocation:
-3° &gt; 2° &gt; 1° &gt; CH₃⁺
-</div>
-
-<div class="formula">
-Free Radical:
-3° &gt; 2° &gt; 1° &gt; CH₃•
-</div>
-
-<div class="formula">
-Carbanion:
-CH₃⁻ &gt; 1° &gt; 2° &gt; 3°
-</div>
-
-`;
-}
-
-
-/* =========================================================
    FORMULAS
 ========================================================= */
 
-function showFormula(){
-
-    if(
-        currentSubject === "Chemistry" &&
-        currentChapter === "Organic Chemistry - Basic Principles"
-    ){
-
-        document.getElementById("app").innerHTML = `
-
-            <div class="content-box">
-
-                <h2>📐 GOC — Formula & Reaction Sheet</h2>
-
-                ${organicReactions()}
-
-            </div>
-
-            ${backToChapter()}
-        `;
-
-        return;
-    }
+function showFormula() {
 
     let content = "";
 
-    if(currentSubject === "Physics"){
+    if (currentSubject === "Physics") {
 
         content = `
             <div class="formula">v = u + at</div>
@@ -958,8 +688,7 @@ function showFormula(){
             <div class="formula">W = F × s × cosθ</div>
         `;
 
-    }
-    else if(currentSubject === "Chemistry"){
+    } else if (currentSubject === "Chemistry") {
 
         content = `
             <div class="formula">
@@ -979,8 +708,7 @@ function showFormula(){
             </div>
         `;
 
-    }
-    else if(currentSubject === "Mathematics"){
+    } else if (currentSubject === "Mathematics") {
 
         content = `
             <div class="formula">
@@ -1000,8 +728,7 @@ function showFormula(){
             </div>
         `;
 
-    }
-    else{
+    } else {
 
         content = `
             <div class="formula">
@@ -1018,7 +745,9 @@ function showFormula(){
 
         <div class="content-box">
 
-            <h2>📐 ${currentChapter}</h2>
+            <h2>
+                📐 ${escapeHTML(currentChapter)}
+            </h2>
 
             <h3>Formula / Reaction Sheet</h3>
 
@@ -1032,99 +761,37 @@ function showFormula(){
 
 
 /* =========================================================
-   ORGANIC EXAMPLES
-========================================================= */
-
-function organicExamples(){
-
-return `
-
-<h3>Example 1 — Identify the Functional Group</h3>
-
-<p>
-Identify the functional group in CH₃COOH.
-</p>
-
-<div class="answer-box">
-<strong>Answer:</strong> –COOH, therefore it is a carboxylic acid.
-</div>
-
-<h3>Example 2 — Carbocation Stability</h3>
-
-<p>
-Arrange the following in decreasing stability:
-CH₃⁺, 1°, 2°, 3° carbocation.
-</p>
-
-<div class="answer-box">
-<strong>Answer:</strong>
-3° &gt; 2° &gt; 1° &gt; CH₃⁺
-</div>
-
-<h3>Example 3 — Nucleophile</h3>
-
-<p>
-Which of the following can act as a nucleophile: OH⁻, H⁺?
-</p>
-
-<div class="answer-box">
-<strong>Answer:</strong> OH⁻ is a nucleophile because it can donate an electron pair.
-</div>
-
-<h3>Example 4 — Electrophile</h3>
-
-<p>
-Why is H⁺ an electrophile?
-</p>
-
-<div class="answer-box">
-<strong>Answer:</strong>
-H⁺ is electron deficient and accepts an electron pair.
-</div>
-
-`;
-}
-
-
-/* =========================================================
    EXAMPLES
 ========================================================= */
 
-function showExamples(){
-
-    if(
-        currentSubject === "Chemistry" &&
-        currentChapter === "Organic Chemistry - Basic Principles"
-    ){
-
-        document.getElementById("app").innerHTML = `
-
-            <div class="content-box">
-
-                <h2>💡 GOC — Solved Examples</h2>
-
-                ${organicExamples()}
-
-            </div>
-
-            ${backToChapter()}
-        `;
-
-        return;
-    }
+function showExamples() {
 
     document.getElementById("app").innerHTML = `
 
         <div class="content-box">
 
-            <h2>💡 ${currentChapter} — Solved Examples</h2>
+            <h2>
+                💡 ${escapeHTML(currentChapter)}
+                — Solved Examples
+            </h2>
 
-            <h3>Example</h3>
+            <h3>Example 1</h3>
 
             <p>
-                Identify the concept, select the correct principle,
-                solve step-by-step and check the answer.
+                Read the question carefully and identify the
+                concept required to solve it.
             </p>
+
+            <h3>Solution Method</h3>
+
+            <ol>
+                <li>Read the question.</li>
+                <li>Write the given information.</li>
+                <li>Identify what is required.</li>
+                <li>Select the correct formula or concept.</li>
+                <li>Solve step-by-step.</li>
+                <li>Check the final answer.</li>
+            </ol>
 
         </div>
 
@@ -1134,107 +801,114 @@ function showExamples(){
 
 
 /* =========================================================
-   ORGANIC MCQs
+   MCQ DATABASE
 ========================================================= */
 
 const organicMCQs = [
 
-{
-q:"The ability of carbon to form bonds with other carbon atoms is called:",
-options:[
-"Catenation",
-"Electrolysis",
-"Hydrolysis",
-"Polymerisation"
-],
-answer:0,
-explanation:"Catenation is the ability of carbon atoms to form bonds with one another."
-},
+    {
+        q: "The ability of carbon to form bonds with other carbon atoms is called:",
+        options: [
+            "Catenation",
+            "Electrolysis",
+            "Hydrolysis",
+            "Polymerisation"
+        ],
+        answer: 0,
+        explanation:
+            "Catenation is the ability of carbon atoms to form bonds with one another."
+    },
 
-{
-q:"Which functional group is present in alcohols?",
-options:[
-"–COOH",
-"–OH",
-"–CHO",
-"–NH₂"
-],
-answer:1,
-explanation:"Alcohols contain the hydroxyl group, –OH."
-},
+    {
+        q: "Which functional group is present in alcohols?",
+        options: [
+            "–COOH",
+            "–OH",
+            "–CHO",
+            "–NH₂"
+        ],
+        answer: 1,
+        explanation:
+            "Alcohols contain the hydroxyl group, –OH."
+    },
 
-{
-q:"Which species is an electrophile?",
-options:[
-"OH⁻",
-"CN⁻",
-"H⁺",
-"NH₃"
-],
-answer:2,
-explanation:"H⁺ is electron deficient and accepts an electron pair."
-},
+    {
+        q: "Which species is an electrophile?",
+        options: [
+            "OH⁻",
+            "CN⁻",
+            "H⁺",
+            "NH₃"
+        ],
+        answer: 2,
+        explanation:
+            "H⁺ is electron deficient and accepts an electron pair."
+    },
 
-{
-q:"Which species is a nucleophile?",
-options:[
-"H⁺",
-"NO₂⁺",
-"OH⁻",
-"BF₃"
-],
-answer:2,
-explanation:"OH⁻ is electron rich and can donate an electron pair."
-},
+    {
+        q: "Which species is a nucleophile?",
+        options: [
+            "H⁺",
+            "NO₂⁺",
+            "OH⁻",
+            "BF₃"
+        ],
+        answer: 2,
+        explanation:
+            "OH⁻ is electron rich and can donate an electron pair."
+    },
 
-{
-q:"The general formula of an alkene is:",
-options:[
-"CₙH₂ₙ₊₂",
-"CₙH₂ₙ",
-"CₙH₂ₙ₋₂",
-"CₙHₙ"
-],
-answer:1,
-explanation:"For an acyclic alkene containing one double bond, the general formula is CₙH₂ₙ."
-},
+    {
+        q: "The general formula of an alkene is:",
+        options: [
+            "CₙH₂ₙ₊₂",
+            "CₙH₂ₙ",
+            "CₙH₂ₙ₋₂",
+            "CₙHₙ"
+        ],
+        answer: 1,
+        explanation:
+            "An acyclic alkene containing one double bond has the general formula CₙH₂ₙ."
+    },
 
-{
-q:"The most stable carbocation among the following is generally:",
-options:[
-"Methyl",
-"Primary",
-"Secondary",
-"Tertiary"
-],
-answer:3,
-explanation:"Alkyl groups stabilize carbocations through +I effect and hyperconjugation."
-},
+    {
+        q: "The most stable carbocation among the following is generally:",
+        options: [
+            "Methyl",
+            "Primary",
+            "Secondary",
+            "Tertiary"
+        ],
+        answer: 3,
+        explanation:
+            "Alkyl groups stabilize carbocations through electron donation and hyperconjugation."
+    },
 
-{
-q:"Successive members of a homologous series differ by:",
-options:[
-"CH₃",
-"CH₂",
-"OH",
-"COOH"
-],
-answer:1,
-explanation:"Members of a homologous series differ by one –CH₂– unit."
-},
+    {
+        q: "Successive members of a homologous series differ by:",
+        options: [
+            "CH₃",
+            "CH₂",
+            "OH",
+            "COOH"
+        ],
+        answer: 1,
+        explanation:
+            "Successive members differ by one –CH₂– unit."
+    },
 
-{
-q:"Which effect involves delocalisation of electrons?",
-options:[
-"Resonance",
-"Neutralisation",
-"Precipitation",
-"Hydration"
-],
-answer:0,
-explanation:"Resonance represents electron delocalisation over a conjugated system."
-}
-
+    {
+        q: "Which effect involves delocalisation of electrons?",
+        options: [
+            "Resonance",
+            "Neutralisation",
+            "Precipitation",
+            "Hydration"
+        ],
+        answer: 0,
+        explanation:
+            "Resonance represents electron delocalisation."
+    }
 ];
 
 
@@ -1242,37 +916,37 @@ explanation:"Resonance represents electron delocalisation over a conjugated syst
    MCQ
 ========================================================= */
 
-function showMCQ(){
+function showMCQ() {
 
-    if(
+    if (
         currentSubject === "Chemistry" &&
         currentChapter === "Organic Chemistry - Basic Principles"
-    ){
-
+    ) {
         renderOrganicMCQ(0);
         return;
     }
 
-    let question = getMCQ(currentSubject,currentChapter);
+    const question = getMCQ(currentSubject);
 
     document.getElementById("app").innerHTML = `
 
         <div class="question">
 
-            <h2>❓ ${currentChapter} — MCQ</h2>
+            <h2>
+                ❓ ${escapeHTML(currentChapter)} — MCQ
+            </h2>
 
-            <h3>${question.q}</h3>
+            <h3>${escapeHTML(question.q)}</h3>
 
-            ${question.options.map((option,index)=>`
-
+            ${question.options.map((option, index) => `
                 <button
                     class="option"
                     onclick="checkMCQ(this,${index},${question.answer})">
 
-                    ${String.fromCharCode(65+index)}. ${option}
+                    ${String.fromCharCode(65 + index)}.
+                    ${escapeHTML(option)}
 
                 </button>
-
             `).join("")}
 
             <div id="answerBox"></div>
@@ -1285,12 +959,12 @@ function showMCQ(){
 
 
 /* =========================================================
-   ORGANIC MCQ RENDERER
+   ORGANIC MCQ
 ========================================================= */
 
-function renderOrganicMCQ(index){
+function renderOrganicMCQ(index) {
 
-    if(index >= organicMCQs.length){
+    if (index >= organicMCQs.length) {
 
         document.getElementById("app").innerHTML = `
 
@@ -1299,11 +973,12 @@ function renderOrganicMCQ(index){
                 <h2>🎉 MCQ Practice Complete!</h2>
 
                 <p>
-                    You completed all ${organicMCQs.length}
+                    You completed all
+                    ${organicMCQs.length}
                     Organic Chemistry questions.
                 </p>
 
-                <button onclick="showMCQ()">
+                <button onclick="renderOrganicMCQ(0)">
                     🔄 Start Again
                 </button>
 
@@ -1322,21 +997,26 @@ function renderOrganicMCQ(index){
         <div class="question">
 
             <h2>
-                ❓ GOC MCQ ${index+1}/${organicMCQs.length}
+                ❓ GOC MCQ
+                ${index + 1}/${organicMCQs.length}
             </h2>
 
-            <h3>${question.q}</h3>
+            <h3>${escapeHTML(question.q)}</h3>
 
-            ${question.options.map((option,i)=>`
-
+            ${question.options.map((option, i) => `
                 <button
                     class="option"
-                    onclick="answerOrganicMCQ(this,${i},${question.answer},${index})">
+                    onclick="answerOrganicMCQ(
+                        this,
+                        ${i},
+                        ${question.answer},
+                        ${index}
+                    )">
 
-                    ${String.fromCharCode(65+i)}. ${option}
+                    ${String.fromCharCode(65 + i)}.
+                    ${escapeHTML(option)}
 
                 </button>
-
             `).join("")}
 
             <div id="answerBox"></div>
@@ -1352,60 +1032,61 @@ function renderOrganicMCQ(index){
    ORGANIC MCQ ANSWER
 ========================================================= */
 
-function answerOrganicMCQ(button,selected,correct,index){
+function answerOrganicMCQ(button, selected, correct, index) {
 
     const buttons =
-        document.querySelectorAll(".option");
+        button.parentElement.querySelectorAll(".option");
 
-    buttons.forEach(b=>{
-        b.disabled=true;
+    buttons.forEach(btn => {
+        btn.disabled = true;
     });
 
-    if(selected === correct){
+    if (selected === correct) {
 
         button.classList.add("correct");
 
         document.getElementById("answerBox").innerHTML = `
-
             <div class="answer-box">
 
                 <strong>✅ Correct!</strong>
 
-                <p>${organicMCQs[index].explanation}</p>
+                <p>
+                    ${escapeHTML(organicMCQs[index].explanation)}
+                </p>
 
-                <button onclick="renderOrganicMCQ(${index+1})">
+                <button onclick="renderOrganicMCQ(${index + 1})">
                     Next Question →
                 </button>
 
             </div>
-
         `;
 
-    }else{
+    } else {
 
         button.classList.add("wrong");
-
         buttons[correct].classList.add("correct");
 
         document.getElementById("answerBox").innerHTML = `
-
             <div class="answer-box">
 
                 <strong>❌ Incorrect</strong>
 
                 <p>
                     Correct answer:
-                    <strong>${buttons[correct].innerText}</strong>
+                    <strong>
+                        ${escapeHTML(buttons[correct].innerText)}
+                    </strong>
                 </p>
 
-                <p>${organicMCQs[index].explanation}</p>
+                <p>
+                    ${escapeHTML(organicMCQs[index].explanation)}
+                </p>
 
-                <button onclick="renderOrganicMCQ(${index+1})">
+                <button onclick="renderOrganicMCQ(${index + 1})">
                     Next Question →
                 </button>
 
             </div>
-
         `;
     }
 }
@@ -1415,117 +1096,114 @@ function answerOrganicMCQ(button,selected,correct,index){
    GENERAL MCQ DATABASE
 ========================================================= */
 
-function getMCQ(subject,chapter){
+function getMCQ(subject) {
 
-    if(subject === "Physics"){
+    if (subject === "Physics") {
 
         return {
-            q:"A body has initial velocity 10 m/s and acceleration 2 m/s². What is its velocity after 5 seconds?",
-            options:[
+            q: "A body has initial velocity 10 m/s and acceleration 2 m/s². What is its velocity after 5 seconds?",
+            options: [
                 "15 m/s",
                 "20 m/s",
                 "25 m/s",
                 "30 m/s"
             ],
-            answer:1
+            answer: 1
         };
 
     }
 
-    if(subject === "Chemistry"){
+    if (subject === "Chemistry") {
 
         return {
-            q:"What is the SI unit of amount of substance?",
-            options:[
+            q: "What is the SI unit of amount of substance?",
+            options: [
                 "Gram",
                 "Kilogram",
                 "Mole",
                 "Litre"
             ],
-            answer:2
+            answer: 2
         };
 
     }
 
-    if(subject === "Biology"){
+    if (subject === "Biology") {
 
         return {
-            q:"The basic structural and functional unit of life is:",
-            options:[
+            q: "The basic structural and functional unit of life is:",
+            options: [
                 "Tissue",
                 "Cell",
                 "Organ",
                 "Organ system"
             ],
-            answer:1
+            answer: 1
         };
 
     }
 
     return {
-        q:"What is the derivative of x²?",
-        options:[
+        q: "What is the derivative of x²?",
+        options: [
             "x",
             "2x",
             "x²",
             "2"
         ],
-        answer:1
+        answer: 1
     };
 }
 
 
 /* =========================================================
-   CHECK GENERAL MCQ
+   GENERAL MCQ CHECK
 ========================================================= */
 
-function checkMCQ(button,selected,correct){
+function checkMCQ(button, selected, correct) {
+
+    const question =
+        button.closest(".question");
 
     const buttons =
-        document.querySelectorAll(".option");
+        question.querySelectorAll(".option");
 
-    buttons.forEach(b=>{
-        b.disabled=true;
+    buttons.forEach(btn => {
+        btn.disabled = true;
     });
 
-    if(selected === correct){
+    const answerBox =
+        question.querySelector("#answerBox");
+
+    if (selected === correct) {
 
         button.classList.add("correct");
 
-        document.getElementById("answerBox").innerHTML = `
-
+        answerBox.innerHTML = `
             <div class="answer-box">
-
                 <strong>✅ Correct!</strong>
-
-                <p>
-                    Excellent. You selected the correct answer.
-                </p>
-
+                <p>Excellent. You selected the correct answer.</p>
             </div>
-
         `;
 
-    }
-    else{
+    } else {
 
         button.classList.add("wrong");
-
         buttons[correct].classList.add("correct");
 
-        document.getElementById("answerBox").innerHTML = `
-
+        answerBox.innerHTML = `
             <div class="answer-box">
 
                 <strong>❌ Incorrect</strong>
 
                 <p>
-                    The correct answer is
-                    <strong>${buttons[correct].innerText}</strong>.
+                    Correct answer:
+                    <strong>
+                        ${escapeHTML(buttons[correct].innerText)}
+                    </strong>
                 </p>
 
             </div>
-
         `;
     }
 }
@@ -1535,137 +1213,35 @@ function checkMCQ(button,selected,correct){
    CONCEPT TRAPS
 ========================================================= */
 
-function showConceptTrap(){
-
-    if(
-        currentSubject === "Chemistry" &&
-        currentChapter === "Organic Chemistry - Basic Principles"
-    ){
-
-        document.getElementById("app").innerHTML = `
-
-            <div class="content-box">
-
-                <h2>🧠 GOC — Concept Traps</h2>
-
-                <h3>⚠️ Trap 1: Electrophile vs Nucleophile</h3>
-
-                <p>
-                    Electrophiles are electron deficient.
-                    Nucleophiles are electron rich.
-                </p>
-
-                <h3>⚠️ Trap 2: Carbocation vs Carbanion Stability</h3>
-
-                <p>
-                    Carbocations are generally stabilized by
-                    electron donating groups, whereas carbanions
-                    are generally destabilized by them.
-                </p>
-
-                <h3>⚠️ Trap 3: Resonance</h3>
-
-                <p>
-                    Resonating structures are not separate
-                    compounds. The real molecule is represented
-                    by a resonance hybrid.
-                </p>
-
-                <h3>⚠️ Trap 4: Homologous Series</h3>
-
-                <p>
-                    Members differ by CH₂, not CH₃.
-                </p>
-
-                <h3>⚠️ Trap 5: Functional Group</h3>
-
-                <p>
-                    Functional groups determine characteristic
-                    chemical reactions.
-                </p>
-
-            </div>
-
-            ${backToChapter()}
-        `;
-
-        return;
-    }
+function showConceptTrap() {
 
     document.getElementById("app").innerHTML = `
 
         <div class="content-box">
 
-            <h2>🧠 ${currentChapter} — Concept Traps</h2>
+            <h2>
+                🧠 ${escapeHTML(currentChapter)}
+                — Concept Traps
+            </h2>
+
+            <h3>⚠️ Common Mistakes</h3>
 
             <ul>
                 <li>Do not memorize without understanding.</li>
                 <li>Always check units.</li>
-                <li>Read every option carefully.</li>
+                <li>Read every MCQ option carefully.</li>
+                <li>Do not ignore negative signs.</li>
                 <li>Revise exceptions separately.</li>
+                <li>Understand diagrams and graphs.</li>
             </ul>
 
-        </div>
-
-        ${backToChapter()}
-    `;
-}
-
-
-/* =========================================================
-   ORGANIC TEST
-========================================================= */
-
-function showOrganicTest(){
-
-    let score = 0;
-
-    const questions = organicMCQs.slice(0,5);
-
-    document.getElementById("app").innerHTML = `
-
-        <div class="content-box">
-
-            <h2>🎯 Organic Chemistry Chapter Test</h2>
+            <h3>🎯 Exam Tip</h3>
 
             <p>
-                Test yourself with ${questions.length} questions.
+                Many exam questions test understanding rather
+                than direct memorisation. Focus on why an answer
+                is correct.
             </p>
-
-            <div id="testQuestions">
-
-                ${questions.map((q,i)=>`
-
-                    <div class="question">
-
-                        <h3>
-                            ${i+1}. ${q.q}
-                        </h3>
-
-                        ${q.options.map((option,j)=>`
-
-                            <button
-                                class="option"
-                                onclick="testSelect(this,${i},${j},${q.answer})">
-
-                                ${String.fromCharCode(65+j)}.
-                                ${option}
-
-                            </button>
-
-                        `).join("")}
-
-                        <div id="test-${i}"></div>
-
-                    </div>
-
-                `).join("")}
-
-            </div>
-
-            <button onclick="showChapter(currentChapter)">
-                Finish Test
-            </button>
 
         </div>
 
@@ -1675,100 +1251,55 @@ function showOrganicTest(){
 
 
 /* =========================================================
-   TEST ANSWER
+   CHAPTER TEST
 ========================================================= */
 
-function testSelect(button,questionIndex,selected,correct){
-
-    const questionBox = button.parentElement;
-
-    const buttons =
-        questionBox.querySelectorAll(".option");
-
-    buttons.forEach(b=>{
-        b.disabled=true;
-    });
-
-    if(selected === correct){
-
-        button.classList.add("correct");
-
-        document.getElementById(`test-${questionIndex}`).innerHTML = `
-            <div class="answer-box">
-                ✅ Correct!
-            </div>
-        `;
-
-    }else{
-
-        button.classList.add("wrong");
-
-        buttons[correct].classList.add("correct");
-
-        document.getElementById(`test-${questionIndex}`).innerHTML = `
-            <div class="answer-box">
-                ❌ Incorrect.
-                Correct answer:
-                <strong>${buttons[correct].innerText}</strong>
-            </div>
-        `;
-    }
-}
-
-
-/* =========================================================
-   TEST
-========================================================= */
-
-function showTest(){
-
-    if(
-        currentSubject === "Chemistry" &&
-        currentChapter === "Organic Chemistry - Basic Principles"
-    ){
-
-        showOrganicTest();
-        return;
-    }
+function showTest() {
 
     document.getElementById("app").innerHTML = `
 
         <div class="question">
 
             <h2>
-                🎯 ${currentChapter} — Chapter Test
+                🎯 ${escapeHTML(currentChapter)}
+                — Chapter Test
             </h2>
 
             <p>
-                Test mode will contain multiple questions
-                from this chapter.
+                Select the correct answer.
             </p>
 
             <hr>
 
-            <h3>Question 1</h3>
+            <h3>
+                Question 1
+            </h3>
 
             <p>
                 Which is the best approach when solving a
                 chapter-based question?
             </p>
 
-            <button class="option"
+            <button
+                class="option"
                 onclick="testAnswer(this,false)">
                 A. Guess immediately
             </button>
 
-            <button class="option"
+            <button
+                class="option"
                 onclick="testAnswer(this,true)">
                 B. Identify the concept first
             </button>
 
-            <button class="option"
+            <button
+                class="option"
                 onclick="testAnswer(this,false)">
-                C. Skip all information
+                C. Ignore the information
             </button>
 
-            <button class="option"
+            <button
+                class="option"
                 onclick="testAnswer(this,false)">
                 D. Ignore units
             </button>
@@ -1786,30 +1317,33 @@ function showTest(){
    TEST ANSWER
 ========================================================= */
 
-function testAnswer(button,correct){
+function testAnswer(button, correct) {
+
+    const question =
+        button.closest(".question");
 
     const options =
-        document.querySelectorAll(".option");
+        question.querySelectorAll(".option");
 
-    options.forEach(b=>{
-        b.disabled=true;
+    options.forEach(btn => {
+        btn.disabled = true;
     });
 
-    if(correct){
+    if (correct) {
 
         button.classList.add("correct");
 
-        document.getElementById("testResult").innerHTML = `
+        question.querySelector("#testResult").innerHTML = `
             <div class="answer-box">
                 ✅ Correct!
             </div>
         `;
 
-    }else{
+    } else {
 
         button.classList.add("wrong");
 
-        document.getElementById("testResult").innerHTML = `
+        question.querySelector("#testResult").innerHTML = `
             <div class="answer-box">
                 ❌ Incorrect. Review the chapter concepts.
             </div>
@@ -1822,10 +1356,9 @@ function testAnswer(button,correct){
    BACK BUTTON
 ========================================================= */
 
-function backToChapter(){
+function backToChapter() {
 
     return `
-
         <div class="back">
 
             <button onclick="showChapter(currentChapter)">
@@ -1836,29 +1369,21 @@ function backToChapter(){
                 ← Back to Chapters
             </button>
 
-        </div>
+            <button onclick="showHome()">
+                🏠 Home
+            </button>
 
+        </div>
     `;
 }
 
 
 /* =========================================================
-   ESCAPE QUOTES
+   START
 ========================================================= */
 
-function escapeQuotes(text){
-
-    return text
-        .replace(/\\/g,"\\\\")
-        .replace(/'/g,"\\'");
-
-}
-
-
-/* =========================================================
-   START APPLICATION
-========================================================= */
-
-showHome();
+document.addEventListener("DOMContentLoaded", function() {
+    showHome();
+});
 
 </script>
