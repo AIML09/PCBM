@@ -1,1104 +1,1379 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <meta charset="UTF-8">
+<title>PCBM Learning Portal</title>
 
-    <meta name="viewport"
-          content="width=device-width, initial-scale=1.0">
+<style>
+*{
+    box-sizing:border-box;
+}
 
-    <title>PCBM Learning Portal</title>
+body{
+    margin:0;
+    font-family:Arial,Helvetica,sans-serif;
+    background:#f4f7fb;
+    color:#222;
+}
 
-    <style>
+header{
+    background:linear-gradient(135deg,#102a43,#17365d,#28598f);
+    color:white;
+    padding:35px 20px;
+    text-align:center;
+}
 
-        body {
-            margin: 0;
-            font-family: Arial, sans-serif;
-            background: #f4f7fb;
-            color: #222;
-        }
+header h1{
+    margin:0;
+    font-size:38px;
+}
 
-        header {
-            background: #17365d;
-            color: white;
-            padding: 30px;
-            text-align: center;
-        }
+header p{
+    font-size:18px;
+    margin:10px 0 0;
+}
 
-        header h1 {
-            margin: 0;
-            font-size: 36px;
-        }
+.container{
+    max-width:1150px;
+    margin:30px auto;
+    padding:20px;
+}
 
-        header p {
-            font-size: 18px;
-            margin-top: 10px;
-        }
+.page-title{
+    text-align:center;
+    margin-bottom:25px;
+}
 
-        .container {
-            max-width: 1100px;
-            margin: 40px auto;
-            padding: 20px;
-        }
+.subject-grid,
+.chapter-grid,
+.mode-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(230px,1fr));
+    gap:20px;
+}
 
-        .subjects {
-            display: grid;
-            grid-template-columns: repeat(
-                auto-fit,
-                minmax(220px, 1fr)
-            );
-            gap: 20px;
-        }
+.card{
+    background:white;
+    border-radius:15px;
+    padding:25px;
+    text-align:center;
+    box-shadow:0 4px 15px rgba(0,0,0,.10);
+    cursor:pointer;
+    transition:.25s;
+}
 
-        .subject {
-            background: white;
-            padding: 30px;
-            border-radius: 12px;
-            text-align: center;
-            box-shadow: 0 3px 10px rgba(0,0,0,0.12);
-            cursor: pointer;
-            transition: 0.2s;
-        }
+.card:hover{
+    transform:translateY(-5px);
+    box-shadow:0 8px 22px rgba(0,0,0,.16);
+}
 
-        .subject:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 6px 15px rgba(0,0,0,0.18);
-        }
+.subject-icon{
+    font-size:55px;
+}
 
-        .subject .icon {
-            font-size: 50px;
-        }
+.card h2{
+    margin:12px 0;
+}
 
-        .subject-image {
-            width: 140px;
-            height: 100px;
-            object-fit: contain;
-            margin-bottom: 15px;
-        }
+.card p{
+    color:#666;
+    line-height:1.5;
+}
 
-        .subject h2 {
-            margin: 15px 0 10px;
-        }
+.physics{
+    border-top:5px solid #1976d2;
+}
 
-        .subject p {
-            color: #666;
-        }
+.chemistry{
+    border-top:5px solid #e53935;
+}
 
-        .features {
-            margin-top: 40px;
-            background: white;
-            padding: 30px;
-            border-radius: 12px;
-        }
+.biology{
+    border-top:5px solid #43a047;
+}
 
-        .features h2 {
-            text-align: center;
-        }
+.maths{
+    border-top:5px solid #8e24aa;
+}
 
-        .features ul {
-            line-height: 2;
-            font-size: 17px;
-        }
+.chapter-card{
+    text-align:left;
+}
 
-        button {
-            background: #17365d;
-            color: white;
-            border: none;
-            padding: 12px 22px;
-            border-radius: 8px;
-            cursor: pointer;
-            font-size: 16px;
-            margin: 5px;
-        }
+.chapter-number{
+    display:inline-block;
+    background:#17365d;
+    color:white;
+    padding:6px 10px;
+    border-radius:20px;
+    font-size:13px;
+}
 
-        button:hover {
-            background: #28598f;
-        }
+.mode-card{
+    text-align:center;
+}
 
-        .answer {
-            font-size: 18px;
-            font-weight: bold;
-            margin-top: 20px;
-        }
+.mode-icon{
+    font-size:40px;
+}
 
-        footer {
-            margin-top: 50px;
-            background: #17365d;
-            color: white;
-            text-align: center;
-            padding: 20px;
-        }
+.content-box{
+    background:white;
+    padding:30px;
+    border-radius:15px;
+    box-shadow:0 4px 15px rgba(0,0,0,.10);
+    line-height:1.7;
+}
 
-    </style>
+.content-box h2{
+    color:#17365d;
+}
 
+.content-box h3{
+    color:#28598f;
+}
+
+.content-box li{
+    margin:8px 0;
+}
+
+.formula{
+    background:#eef5ff;
+    padding:15px;
+    margin:10px 0;
+    border-left:5px solid #1976d2;
+    border-radius:8px;
+    font-weight:bold;
+}
+
+.question{
+    background:#fff;
+    padding:25px;
+    border-radius:15px;
+    box-shadow:0 3px 12px rgba(0,0,0,.1);
+    margin-bottom:20px;
+}
+
+.option{
+    display:block;
+    width:100%;
+    text-align:left;
+    margin:10px 0;
+    padding:14px;
+    background:#f1f4f8;
+    border:2px solid transparent;
+    border-radius:8px;
+    cursor:pointer;
+    font-size:16px;
+}
+
+.option:hover{
+    border-color:#28598f;
+    background:#eaf2fb;
+}
+
+.correct{
+    background:#d4edda !important;
+    border-color:#28a745 !important;
+}
+
+.wrong{
+    background:#f8d7da !important;
+    border-color:#dc3545 !important;
+}
+
+.answer-box{
+    margin-top:15px;
+    padding:15px;
+    border-radius:8px;
+    background:#eef5ff;
+}
+
+button{
+    background:#17365d;
+    color:white;
+    border:none;
+    padding:12px 22px;
+    border-radius:8px;
+    cursor:pointer;
+    font-size:16px;
+    margin:5px;
+}
+
+button:hover{
+    background:#28598f;
+}
+
+.back{
+    text-align:center;
+    margin:25px 0;
+}
+
+.search-box{
+    width:100%;
+    padding:15px;
+    border:2px solid #ddd;
+    border-radius:10px;
+    font-size:16px;
+    margin-bottom:25px;
+}
+
+.stats{
+    display:flex;
+    flex-wrap:wrap;
+    gap:15px;
+    justify-content:center;
+    margin:25px 0;
+}
+
+.stat{
+    background:white;
+    padding:15px 25px;
+    border-radius:10px;
+    box-shadow:0 3px 10px rgba(0,0,0,.08);
+    text-align:center;
+}
+
+.stat strong{
+    display:block;
+    font-size:25px;
+    color:#17365d;
+}
+
+footer{
+    background:#17365d;
+    color:white;
+    text-align:center;
+    padding:25px;
+    margin-top:50px;
+}
+
+.hidden{
+    display:none;
+}
+
+@media(max-width:600px){
+
+    header h1{
+        font-size:30px;
+    }
+
+    .container{
+        padding:12px;
+    }
+
+    .card{
+        padding:20px;
+    }
+
+    .content-box{
+        padding:20px;
+    }
+}
+</style>
 </head>
-
 
 <body>
 
-
 <header>
-
-    <h1>PCBM Learning Portal</h1>
-
-    <p>
-        Physics • Chemistry • Mathematics • Biology
-    </p>
-
+    <h1>📚 PCBM Learning Portal</h1>
+    <p>Physics • Chemistry • Biology • Mathematics</p>
 </header>
 
-
-<div class="container" id="mainContainer">
-
-    <h2 style="text-align:center;">
-        Choose Your Subject
-    </h2>
-
-
-    <div class="subjects">
-
-
-        <!-- PHYSICS -->
-
-        <div class="subject"
-             onclick="openSubject('Physics')">
-
-            <img src="Physics.PNG"
-                 alt="Physics"
-                 class="subject-image">
-
-            <h2>Physics</h2>
-
-            <p>
-                Theory • Formulas • MCQs • Explanations
-            </p>
-
-        </div>
-
-
-        <!-- CHEMISTRY -->
-
-        <div class="subject"
-             onclick="openSubject('Chemistry')">
-
-            <div class="icon">🧪</div>
-
-            <h2>Chemistry</h2>
-
-            <p>
-                Theory • Reactions • Formulas • MCQs
-            </p>
-
-        </div>
-
-
-        <!-- MATHEMATICS -->
-
-        <div class="subject"
-             onclick="openSubject('Mathematics')">
-
-            <div class="icon">📐</div>
-
-            <h2>Mathematics</h2>
-
-            <p>
-                Theory • Formulas • Problems • MCQs
-            </p>
-
-        </div>
-
-
-        <!-- BIOLOGY -->
-
-        <div class="subject"
-             onclick="openSubject('Biology')">
-
-            <div class="icon">🧬</div>
-
-            <h2>Biology</h2>
-
-            <p>
-                Theory • Important Points • MCQs
-            </p>
-
-        </div>
-
-
-    </div>
-
-
-    <div class="features">
-
-        <h2>📚 Learning Resources</h2>
-
-        <ul>
-
-            <li>Chapter-wise Theory</li>
-
-            <li>Topic-wise Notes</li>
-
-            <li>Important Formulas</li>
-
-            <li>Multiple Choice Questions (MCQs)</li>
-
-            <li>4 Answer Options</li>
-
-            <li>Correct Answer</li>
-
-            <li>Detailed Explanation</li>
-
-            <li>Practice Tests</li>
-
-            <li>Previous Year Questions</li>
-
-        </ul>
-
-    </div>
-
-</div>
-
+<div class="container" id="app"></div>
 
 <footer>
-
-    <p>
-        PCBM Learning Portal © 2026
-    </p>
-
+    <p>PCBM Learning Portal © 2026</p>
+    <p>Learn • Practice • Improve • Succeed 🚀</p>
 </footer>
-
 
 
 <script>
 
+/* =========================================================
+   CHAPTER DATA
+========================================================= */
 
-/* =====================================================
-   SUBJECT
-===================================================== */
+const subjects = {
 
+Physics:{
+    icon:"⚛️",
+    class:"physics",
+    description:"Theory • Concepts • Formulas • Numericals • MCQs",
+    chapters:[
+        "Units and Measurements",
+        "Motion in a Straight Line",
+        "Motion in a Plane",
+        "Laws of Motion",
+        "Work, Energy and Power",
+        "System of Particles and Rotational Motion",
+        "Gravitation",
+        "Mechanical Properties of Solids",
+        "Mechanical Properties of Fluids",
+        "Thermal Properties of Matter",
+        "Thermodynamics",
+        "Kinetic Theory",
+        "Oscillations",
+        "Waves",
+        "Electric Charges and Fields",
+        "Electrostatic Potential and Capacitance",
+        "Current Electricity",
+        "Moving Charges and Magnetism",
+        "Magnetism and Matter",
+        "Electromagnetic Induction",
+        "Alternating Current",
+        "Electromagnetic Waves",
+        "Ray Optics and Optical Instruments",
+        "Wave Optics",
+        "Dual Nature of Radiation and Matter",
+        "Atoms",
+        "Nuclei",
+        "Semiconductor Electronics"
+    ]
+},
 
-function openSubject(subject) {
+Chemistry:{
+    icon:"🧪",
+    class:"chemistry",
+    description:"Physical • Organic • Inorganic • Reactions • MCQs",
+    chapters:[
+        "Some Basic Concepts of Chemistry",
+        "Structure of Atom",
+        "Classification of Elements",
+        "Chemical Bonding and Molecular Structure",
+        "Thermodynamics",
+        "Equilibrium",
+        "Redox Reactions",
+        "Organic Chemistry - Basic Principles",
+        "Hydrocarbons",
+        "Solutions",
+        "Electrochemistry",
+        "Chemical Kinetics",
+        "Surface Chemistry",
+        "General Principles of Metallurgy",
+        "p-Block Elements",
+        "d and f Block Elements",
+        "Coordination Compounds",
+        "Haloalkanes and Haloarenes",
+        "Alcohols, Phenols and Ethers",
+        "Aldehydes, Ketones and Carboxylic Acids",
+        "Amines",
+        "Biomolecules",
+        "Polymers",
+        "Chemistry in Everyday Life"
+    ]
+},
 
+Biology:{
+    icon:"🧬",
+    class:"biology",
+    description:"Botany • Zoology • NCERT Points • Diagrams • MCQs",
+    chapters:[
+        "The Living World",
+        "Biological Classification",
+        "Plant Kingdom",
+        "Animal Kingdom",
+        "Morphology of Flowering Plants",
+        "Anatomy of Flowering Plants",
+        "Structural Organisation in Animals",
+        "Cell: The Unit of Life",
+        "Biomolecules",
+        "Cell Cycle and Cell Division",
+        "Transport in Plants",
+        "Mineral Nutrition",
+        "Photosynthesis in Plants",
+        "Respiration in Plants",
+        "Plant Growth and Development",
+        "Digestion and Absorption",
+        "Breathing and Exchange of Gases",
+        "Body Fluids and Circulation",
+        "Excretory Products and Elimination",
+        "Locomotion and Movement",
+        "Neural Control and Coordination",
+        "Chemical Coordination and Integration",
+        "Sexual Reproduction in Flowering Plants",
+        "Human Reproduction",
+        "Reproductive Health",
+        "Principles of Inheritance and Variation",
+        "Molecular Basis of Inheritance",
+        "Evolution",
+        "Human Health and Disease",
+        "Strategies for Enhancement in Food Production",
+        "Microbes in Human Welfare",
+        "Biotechnology: Principles and Processes",
+        "Biotechnology and its Applications",
+        "Organisms and Populations",
+        "Ecosystem",
+        "Biodiversity and Conservation",
+        "Environmental Issues"
+    ]
+},
 
-    if (subject === "Physics") {
-
-        showPhysicsChapters();
-
-        return;
-
-    }
-
-
-    document.getElementById("mainContainer").innerHTML = `
-
-        <h2>📚 ${subject}</h2>
-
-        <div class="features">
-
-            <h2>Coming Soon</h2>
-
-            <p style="text-align:center;">
-
-                ${subject} study material will be added here.
-
-            </p>
-
-            <p style="text-align:center;">
-
-                Theory • Formulas • Questions • MCQs • Tests
-
-            </p>
-
-        </div>
-
-        <br>
-
-        <div style="text-align:center;">
-
-            <button onclick="location.reload()">
-
-                ← Back to Subjects
-
-            </button>
-
-        </div>
-
-    `;
-
+Mathematics:{
+    icon:"📐",
+    class:"maths",
+    description:"Theory • Formulas • Problems • Shortcuts • MCQs",
+    chapters:[
+        "Sets",
+        "Relations and Functions",
+        "Trigonometric Functions",
+        "Principle of Mathematical Induction",
+        "Complex Numbers",
+        "Linear Inequalities",
+        "Permutations and Combinations",
+        "Binomial Theorem",
+        "Sequences and Series",
+        "Straight Lines",
+        "Conic Sections",
+        "Introduction to Three Dimensional Geometry",
+        "Limits and Derivatives",
+        "Statistics",
+        "Probability",
+        "Relations and Functions",
+        "Inverse Trigonometric Functions",
+        "Matrices",
+        "Determinants",
+        "Continuity and Differentiability",
+        "Applications of Derivatives",
+        "Integrals",
+        "Applications of Integrals",
+        "Differential Equations",
+        "Vector Algebra",
+        "Three Dimensional Geometry",
+        "Linear Programming",
+        "Probability"
+    ]
 }
 
+};
 
 
-/* =====================================================
-   PHYSICS CHAPTERS
-===================================================== */
+/* =========================================================
+   APPLICATION STATE
+========================================================= */
 
+let currentSubject = "";
+let currentChapter = "";
 
-function showPhysicsChapters() {
 
+/* =========================================================
+   HOME
+========================================================= */
 
-    document.getElementById("mainContainer").innerHTML = `
+function showHome(){
 
-        <h2>⚡ Physics Chapters</h2>
+    let totalChapters = 0;
 
-        <p style="text-align:center;">
+    Object.values(subjects).forEach(subject=>{
+        totalChapters += subject.chapters.length;
+    });
 
-            Choose a chapter and select how you want to learn.
+    document.getElementById("app").innerHTML = `
 
-        </p>
+        <div class="page-title">
 
-
-        <div class="subjects">
-
-
-            <div class="subject"
-                 onclick="openChapter('Units and Measurements')">
-
-                <h2>
-                    1. Units and Measurements
-                </h2>
-
-                <p>
-                    📖 Theory • 📐 Formula • ❓ MCQ
-                </p>
-
-            </div>
-
-
-            <div class="subject"
-                 onclick="openChapter('Motion in a Straight Line')">
-
-                <h2>
-                    2. Motion in a Straight Line
-                </h2>
-
-                <p>
-                    📖 Theory • 📐 Formula • ❓ MCQ
-                </p>
-
-            </div>
-
-
-            <div class="subject"
-                 onclick="openChapter('Motion in a Plane')">
-
-                <h2>
-                    3. Motion in a Plane
-                </h2>
-
-                <p>
-                    📖 Theory • 📐 Formula • ❓ MCQ
-                </p>
-
-            </div>
-
-
-            <div class="subject"
-                 onclick="openChapter('Laws of Motion')">
-
-                <h2>
-                    4. Laws of Motion
-                </h2>
-
-                <p>
-                    📖 Theory • 📐 Formula • ❓ MCQ
-                </p>
-
-            </div>
-
-
-            <div class="subject"
-                 onclick="openChapter('Work, Energy and Power')">
-
-                <h2>
-                    5. Work, Energy and Power
-                </h2>
-
-                <p>
-                    📖 Theory • 📐 Formula • ❓ MCQ
-                </p>
-
-            </div>
-
-
-            <div class="subject"
-                 onclick="openChapter('System of Particles')">
-
-                <h2>
-                    6. System of Particles
-                </h2>
-
-                <p>
-                    📖 Theory • 📐 Formula • ❓ MCQ
-                </p>
-
-            </div>
-
-
-        </div>
-
-
-        <br>
-
-        <div style="text-align:center;">
-
-            <button onclick="location.reload()">
-
-                ← Back to Subjects
-
-            </button>
-
-        </div>
-
-    `;
-
-}
-
-
-
-/* =====================================================
-   CHAPTER
-===================================================== */
-
-
-function openChapter(chapter) {
-
-
-    document.getElementById("mainContainer").innerHTML = `
-
-        <h2>
-            ⚡ ${chapter}
-        </h2>
-
-        <p style="text-align:center;">
-
-            Select a learning mode
-
-        </p>
-
-
-        <div class="subjects">
-
-
-            <div class="subject"
-                 onclick="showTheory('${chapter}')">
-
-                <div class="icon">
-                    📖
-                </div>
-
-                <h2>
-                    Theory
-                </h2>
-
-                <p>
-                    Learn concepts step-by-step
-                </p>
-
-            </div>
-
-
-            <div class="subject"
-                 onclick="showFormula('${chapter}')">
-
-                <div class="icon">
-                    📐
-                </div>
-
-                <h2>
-                    Formula
-                </h2>
-
-                <p>
-                    Important formulas
-                </p>
-
-            </div>
-
-
-            <div class="subject"
-                 onclick="showExamples('${chapter}')">
-
-                <div class="icon">
-                    💡
-                </div>
-
-                <h2>
-                    Examples
-                </h2>
-
-                <p>
-                    Solved numerical examples
-                </p>
-
-            </div>
-
-
-            <div class="subject"
-                 onclick="showMCQ('${chapter}')">
-
-                <div class="icon">
-                    ❓
-                </div>
-
-                <h2>
-                    MCQ
-                </h2>
-
-                <p>
-                    Practice questions
-                </p>
-
-            </div>
-
-
-            <div class="subject"
-                 onclick="showConceptTrap('${chapter}')">
-
-                <div class="icon">
-                    🧠
-                </div>
-
-                <h2>
-                    Concept Trap
-                </h2>
-
-                <p>
-                    Learn common mistakes
-                </p>
-
-            </div>
-
-
-            <div class="subject"
-                 onclick="showTest('${chapter}')">
-
-                <div class="icon">
-                    🎯
-                </div>
-
-                <h2>
-                    Test
-                </h2>
-
-                <p>
-                    Take a practice test
-                </p>
-
-            </div>
-
-
-        </div>
-
-
-        <br>
-
-        <div style="text-align:center;">
-
-            <button onclick="showPhysicsChapters()">
-
-                ← Back to Physics Chapters
-
-            </button>
-
-        </div>
-
-    `;
-
-}
-
-
-
-/* =====================================================
-   THEORY
-===================================================== */
-
-
-function showTheory(chapter) {
-
-
-    document.getElementById("mainContainer").innerHTML = `
-
-        <h2>
-            📖 ${chapter} - Theory
-        </h2>
-
-
-        <div class="features">
-
-            <h2>
-                Chapter Theory
-            </h2>
+            <h2>🎓 Welcome to PCBM Learning Portal</h2>
 
             <p>
-
-                Theory for
-                <strong>${chapter}</strong>
-                will be added here.
-
+                Select a subject to start learning.
             </p>
 
+        </div>
 
-            <h3>
-                Important Concepts
-            </h3>
+        <div class="stats">
 
+            <div class="stat">
+                <strong>4</strong>
+                Subjects
+            </div>
+
+            <div class="stat">
+                <strong>${totalChapters}</strong>
+                Chapters
+            </div>
+
+            <div class="stat">
+                <strong>∞</strong>
+                Practice
+            </div>
+
+        </div>
+
+        <div class="subject-grid">
+
+            ${Object.entries(subjects).map(([name,data])=>`
+
+                <div class="card ${data.class}"
+                     onclick="showSubject('${name}')">
+
+                    <div class="subject-icon">
+                        ${data.icon}
+                    </div>
+
+                    <h2>${name}</h2>
+
+                    <p>${data.description}</p>
+
+                    <p>
+                        <strong>
+                            ${data.chapters.length} Chapters
+                        </strong>
+                    </p>
+
+                </div>
+
+            `).join("")}
+
+        </div>
+
+        <div class="content-box" style="margin-top:30px;">
+
+            <h2>📚 What you can study</h2>
 
             <ul>
-
-                <li>
-                    Definitions
-                </li>
-
-                <li>
-                    Basic concepts
-                </li>
-
-                <li>
-                    Important points
-                </li>
-
-                <li>
-                    Diagrams
-                </li>
-
-                <li>
-                    Applications
-                </li>
-
+                <li>📖 Chapter-wise Theory</li>
+                <li>📌 Important Concepts</li>
+                <li>📐 Formula Sheets</li>
+                <li>💡 Solved Examples</li>
+                <li>❓ MCQs</li>
+                <li>🧠 Common Mistakes</li>
+                <li>🎯 Chapter Tests</li>
             </ul>
 
         </div>
-
-
-        <br>
-
-        <div style="text-align:center;">
-
-            <button onclick="openChapter('${chapter}')">
-
-                ← Back
-
-            </button>
-
-        </div>
-
     `;
-
 }
 
 
+/* =========================================================
+   SUBJECT PAGE
+========================================================= */
 
-/* =====================================================
-   FORMULA
-===================================================== */
+function showSubject(subject){
 
+    currentSubject = subject;
 
-function showFormula(chapter) {
+    const data = subjects[subject];
 
+    document.getElementById("app").innerHTML = `
 
-    document.getElementById("mainContainer").innerHTML = `
-
-        <h2>
-            📐 ${chapter} - Formula Sheet
-        </h2>
-
-
-        <div class="features">
+        <div class="page-title">
 
             <h2>
-                Important Formulas
+                ${data.icon} ${subject}
             </h2>
 
-
-            <p>
-                <strong>
-                    v = u + at
-                </strong>
-            </p>
-
-
-            <p>
-                <strong>
-                    s = ut + ½at²
-                </strong>
-            </p>
-
-
-            <p>
-                <strong>
-                    v² = u² + 2as
-                </strong>
-            </p>
-
-
-            <p>
-                <strong>
-                    s = ((u + v) / 2)t
-                </strong>
-            </p>
+            <p>${data.description}</p>
 
         </div>
 
+        <input
+            class="search-box"
+            id="chapterSearch"
+            placeholder="🔍 Search chapter..."
+            oninput="filterChapters()"
+        >
 
-        <br>
+        <div class="chapter-grid" id="chapterGrid">
 
-        <div style="text-align:center;">
+            ${data.chapters.map((chapter,index)=>`
 
-            <button onclick="openChapter('${chapter}')">
+                <div
+                    class="card chapter-card"
+                    data-name="${chapter.toLowerCase()}"
+                    onclick="showChapter('${escapeQuotes(chapter)}')">
 
-                ← Back
+                    <span class="chapter-number">
+                        Chapter ${index+1}
+                    </span>
 
+                    <h2>${chapter}</h2>
+
+                    <p>
+                        📖 Theory &nbsp;
+                        ❓ MCQ &nbsp;
+                        📌 Notes
+                    </p>
+
+                </div>
+
+            `).join("")}
+
+        </div>
+
+        <div class="back">
+
+            <button onclick="showHome()">
+                ← Back to Subjects
             </button>
 
         </div>
-
     `;
-
 }
 
 
+/* =========================================================
+   SEARCH
+========================================================= */
 
-/* =====================================================
-   EXAMPLES
-===================================================== */
+function filterChapters(){
+
+    const search =
+        document.getElementById("chapterSearch")
+        .value
+        .toLowerCase();
+
+    document.querySelectorAll(".chapter-card")
+        .forEach(card=>{
+
+            card.style.display =
+                card.dataset.name.includes(search)
+                ? "block"
+                : "none";
+
+        });
+}
 
 
-function showExamples(chapter) {
+/* =========================================================
+   CHAPTER PAGE
+========================================================= */
 
+function showChapter(chapter){
 
-    document.getElementById("mainContainer").innerHTML = `
+    currentChapter = chapter;
 
-        <h2>
-            💡 ${chapter} - Solved Example
-        </h2>
+    const data = subjects[currentSubject];
 
+    document.getElementById("app").innerHTML = `
 
-        <div class="features">
+        <div class="page-title">
 
             <h2>
-                Example Question
+                ${data.icon} ${chapter}
             </h2>
 
-
             <p>
-
-                A body has an initial velocity of
-                10 m/s and acceleration of 2 m/s².
-                Find its velocity after 5 seconds.
-
+                ${currentSubject} • Chapter Study Center
             </p>
 
+        </div>
 
-            <h3>
-                Solution
-            </h3>
+        <div class="mode-grid">
 
+            <div class="card mode-card"
+                 onclick="showTheory()">
+
+                <div class="mode-icon">📖</div>
+
+                <h2>Theory</h2>
+
+                <p>
+                    Learn the important concepts
+                    step-by-step.
+                </p>
+
+            </div>
+
+
+            <div class="card mode-card"
+                 onclick="showImportant()">
+
+                <div class="mode-icon">📌</div>
+
+                <h2>Important Points</h2>
+
+                <p>
+                    Quick revision points.
+                </p>
+
+            </div>
+
+
+            <div class="card mode-card"
+                 onclick="showFormula()">
+
+                <div class="mode-icon">📐</div>
+
+                <h2>Formula / Reactions</h2>
+
+                <p>
+                    Important formulas and reactions.
+                </p>
+
+            </div>
+
+
+            <div class="card mode-card"
+                 onclick="showExamples()">
+
+                <div class="mode-icon">💡</div>
+
+                <h2>Examples</h2>
+
+                <p>
+                    Solved questions and examples.
+                </p>
+
+            </div>
+
+
+            <div class="card mode-card"
+                 onclick="showMCQ()">
+
+                <div class="mode-icon">❓</div>
+
+                <h2>MCQs</h2>
+
+                <p>
+                    Practice multiple-choice questions.
+                </p>
+
+            </div>
+
+
+            <div class="card mode-card"
+                 onclick="showConceptTrap()">
+
+                <div class="mode-icon">🧠</div>
+
+                <h2>Concept Traps</h2>
+
+                <p>
+                    Avoid common mistakes.
+                </p>
+
+            </div>
+
+
+            <div class="card mode-card"
+                 onclick="showTest()">
+
+                <div class="mode-icon">🎯</div>
+
+                <h2>Chapter Test</h2>
+
+                <p>
+                    Test yourself.
+                </p>
+
+            </div>
+
+        </div>
+
+        <div class="back">
+
+            <button onclick="showSubject(currentSubject)">
+                ← Back to ${currentSubject}
+            </button>
+
+        </div>
+    `;
+}
+
+
+/* =========================================================
+   THEORY
+========================================================= */
+
+function showTheory(){
+
+    document.getElementById("app").innerHTML = `
+
+        <div class="content-box">
+
+            <h2>
+                📖 ${currentChapter} — Theory
+            </h2>
+
+            <h3>Introduction</h3>
 
             <p>
+                This section is for the complete theory of
+                <strong>${currentChapter}</strong>.
+            </p>
+
+            <h3>Key Concepts</h3>
+
+            <ul>
+                <li>Understand the basic definitions.</li>
+                <li>Learn the fundamental concepts.</li>
+                <li>Study important principles.</li>
+                <li>Understand applications.</li>
+                <li>Practice questions after learning.</li>
+            </ul>
+
+            <h3>Study Strategy</h3>
+
+            <p>
+                Read the concept carefully, make short notes,
+                learn important formulas and then solve
+                practice questions.
+            </p>
+
+        </div>
+
+        ${backToChapter()}
+    `;
+}
+
+
+/* =========================================================
+   IMPORTANT POINTS
+========================================================= */
+
+function showImportant(){
+
+    document.getElementById("app").innerHTML = `
+
+        <div class="content-box">
+
+            <h2>
+                📌 ${currentChapter} — Important Points
+            </h2>
+
+            <ul>
+                <li>Know all important definitions.</li>
+                <li>Remember important laws and principles.</li>
+                <li>Understand the units and dimensions where applicable.</li>
+                <li>Revise diagrams and important processes.</li>
+                <li>Practice numerical/application-based questions.</li>
+                <li>Review previous questions before the test.</li>
+            </ul>
+
+            <h3>⭐ Quick Revision</h3>
+
+            <p>
+                Use this section for last-minute revision
+                before solving MCQs or taking a chapter test.
+            </p>
+
+        </div>
+
+        ${backToChapter()}
+    `;
+}
+
+
+/* =========================================================
+   FORMULAS
+========================================================= */
+
+function showFormula(){
+
+    let content = "";
+
+    if(currentSubject === "Physics"){
+
+        content = `
+
+            <div class="formula">
                 v = u + at
-            </p>
+            </div>
 
+            <div class="formula">
+                s = ut + ½at²
+            </div>
 
-            <p>
-                v = 10 + (2 × 5)
-            </p>
+            <div class="formula">
+                v² = u² + 2as
+            </div>
 
+            <div class="formula">
+                F = ma
+            </div>
 
-            <p>
+            <div class="formula">
+                W = F × s × cosθ
+            </div>
 
-                <strong>
-                    v = 20 m/s
-                </strong>
+        `;
 
-            </p>
+    }
+    else if(currentSubject === "Chemistry"){
 
-        </div>
+        content = `
 
+            <div class="formula">
+                Number of moles = Given mass / Molar mass
+            </div>
 
-        <br>
+            <div class="formula">
+                Molarity = Moles of solute / Volume in litres
+            </div>
 
-        <div style="text-align:center;">
+            <div class="formula">
+                pH = -log[H⁺]
+            </div>
 
-            <button onclick="openChapter('${chapter}')">
+            <div class="formula">
+                ΔG = ΔH - TΔS
+            </div>
 
-                ← Back
+        `;
 
-            </button>
+    }
+    else if(currentSubject === "Mathematics"){
 
-        </div>
+        content = `
 
-    `;
+            <div class="formula">
+                (a+b)² = a² + 2ab + b²
+            </div>
 
-}
+            <div class="formula">
+                sin²θ + cos²θ = 1
+            </div>
 
+            <div class="formula">
+                d/dx (xⁿ) = nxⁿ⁻¹
+            </div>
 
+            <div class="formula">
+                ∫xⁿ dx = xⁿ⁺¹/(n+1) + C
+            </div>
 
-/* =====================================================
-   MCQ
-===================================================== */
+        `;
 
+    }
+    else{
 
-function showMCQ(chapter) {
+        content = `
 
+            <div class="formula">
+                Photosynthesis:
+                6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂
+            </div>
 
-    document.getElementById("mainContainer").innerHTML = `
+            <div class="formula">
+                Genotype → Phenotype
+            </div>
 
-        <h2>
-            ❓ ${chapter} - MCQ
-        </h2>
+            <div class="formula">
+                DNA → RNA → Protein
+            </div>
 
+        `;
+    }
 
-        <div class="features">
+    document.getElementById("app").innerHTML = `
+
+        <div class="content-box">
 
             <h2>
-                Question 1
+                📐 ${currentChapter}
             </h2>
 
+            <h3>Important Formula / Reaction Sheet</h3>
+
+            ${content}
 
             <p>
-
-                A body has an initial velocity of
-                10 m/s and acceleration of 2 m/s².
-                What is its velocity after 5 seconds?
-
+                💡 More chapter-specific formulas can be
+                added here later.
             </p>
 
-
-            <br>
-
-
-            <button onclick="checkAnswer(true)">
-
-                A. 15 m/s
-
-            </button>
-
-
-            <br><br>
-
-
-            <button onclick="checkAnswer(true)">
-
-                B. 20 m/s
-
-            </button>
-
-
-            <br><br>
-
-
-            <button onclick="checkAnswer(false)">
-
-                C. 25 m/s
-
-            </button>
-
-
-            <br><br>
-
-
-            <button onclick="checkAnswer(false)">
-
-                D. 30 m/s
-
-            </button>
-
-
-            <h3 id="answer"
-                class="answer">
-            </h3>
-
-
         </div>
 
-
-        <br>
-
-
-        <div style="text-align:center;">
-
-            <button onclick="openChapter('${chapter}')">
-
-                ← Back
-
-            </button>
-
-        </div>
-
+        ${backToChapter()}
     `;
-
 }
 
 
+/* =========================================================
+   EXAMPLES
+========================================================= */
 
-/* =====================================================
-   CHECK ANSWER
-===================================================== */
+function showExamples(){
+
+    document.getElementById("app").innerHTML = `
+
+        <div class="content-box">
+
+            <h2>
+                💡 ${currentChapter} — Solved Examples
+            </h2>
+
+            <h3>Example 1</h3>
+
+            <p>
+                A student should first identify the given
+                information, select the appropriate concept,
+                apply the formula and check the final answer.
+            </p>
+
+            <h3>Solution Method</h3>
+
+            <ol>
+                <li>Read the question carefully.</li>
+                <li>Write the given information.</li>
+                <li>Identify the required quantity.</li>
+                <li>Select the correct formula/concept.</li>
+                <li>Solve step-by-step.</li>
+                <li>Check the answer and units.</li>
+            </ol>
+
+            <h3>⭐ Practice</h3>
+
+            <p>
+                Add your own solved examples for this chapter
+                inside this section.
+            </p>
+
+        </div>
+
+        ${backToChapter()}
+    `;
+}
 
 
-function checkAnswer(correct) {
+/* =========================================================
+   MCQ
+========================================================= */
+
+function showMCQ(){
+
+    let question = getMCQ(currentSubject,currentChapter);
+
+    document.getElementById("app").innerHTML = `
+
+        <div class="question">
+
+            <h2>
+                ❓ ${currentChapter} — MCQ
+            </h2>
+
+            <h3>${question.q}</h3>
+
+            ${question.options.map((option,index)=>`
+
+                <button
+                    class="option"
+                    onclick="checkMCQ(this,${index},${question.answer})">
+
+                    ${String.fromCharCode(65+index)}.
+                    ${option}
+
+                </button>
+
+            `).join("")}
+
+            <div id="answerBox"></div>
+
+        </div>
+
+        ${backToChapter()}
+    `;
+}
 
 
-    const answer =
-        document.getElementById("answer");
+/* =========================================================
+   SAMPLE MCQ DATABASE
+========================================================= */
 
+function getMCQ(subject,chapter){
 
-    if (correct) {
+    if(subject === "Physics"){
 
-        answer.innerHTML =
-            "❌ Not correct. Try again.";
-
-        answer.style.color = "red";
+        return {
+            q:"A body has initial velocity 10 m/s and acceleration 2 m/s². What is its velocity after 5 seconds?",
+            options:[
+                "15 m/s",
+                "20 m/s",
+                "25 m/s",
+                "30 m/s"
+            ],
+            answer:1
+        };
 
     }
 
+    if(subject === "Chemistry"){
+
+        return {
+            q:"What is the SI unit of amount of substance?",
+            options:[
+                "Gram",
+                "Kilogram",
+                "Mole",
+                "Litre"
+            ],
+            answer:2
+        };
+
+    }
+
+    if(subject === "Biology"){
+
+        return {
+            q:"The basic structural and functional unit of life is:",
+            options:[
+                "Tissue",
+                "Cell",
+                "Organ",
+                "Organ system"
+            ],
+            answer:1
+        };
+
+    }
+
+    return {
+        q:"What is the derivative of x²?",
+        options:[
+            "x",
+            "2x",
+            "x²",
+            "2"
+        ],
+        answer:1
+    };
 }
 
 
-/* =====================================================
-   CONCEPT TRAP
-===================================================== */
+/* =========================================================
+   CHECK MCQ
+========================================================= */
+
+function checkMCQ(button,selected,correct){
+
+    const buttons =
+        document.querySelectorAll(".option");
+
+    buttons.forEach(b=>{
+        b.disabled=true;
+    });
+
+    if(selected === correct){
+
+        button.classList.add("correct");
+
+        document.getElementById("answerBox").innerHTML = `
+
+            <div class="answer-box">
+
+                <strong>✅ Correct!</strong>
+
+                <p>
+                    Excellent. You selected the correct answer.
+                </p>
+
+            </div>
+
+        `;
+
+    }
+    else{
+
+        button.classList.add("wrong");
+
+        buttons[correct].classList.add("correct");
+
+        document.getElementById("answerBox").innerHTML = `
+
+            <div class="answer-box">
+
+                <strong>❌ Incorrect</strong>
+
+                <p>
+                    The correct answer is
+                    <strong>
+                        ${buttons[correct].innerText}
+                    </strong>.
+                </p>
+
+            </div>
+
+        `;
+    }
+}
 
 
-function showConceptTrap(chapter) {
+/* =========================================================
+   CONCEPT TRAPS
+========================================================= */
 
+function showConceptTrap(){
 
-    document.getElementById("mainContainer").innerHTML = `
+    document.getElementById("app").innerHTML = `
 
-        <h2>
-            🧠 ${chapter} - Concept Traps
-        </h2>
-
-
-        <div class="features">
+        <div class="content-box">
 
             <h2>
-                Common Mistake
+                🧠 ${currentChapter} — Concept Traps
             </h2>
 
+            <h3>⚠️ Common Mistakes</h3>
+
+            <ul>
+                <li>Do not memorize without understanding.</li>
+                <li>Always check units in numerical questions.</li>
+                <li>Read every option carefully in MCQs.</li>
+                <li>Do not ignore negative signs.</li>
+                <li>Revise exceptions separately.</li>
+                <li>Understand diagrams and graphs where applicable.</li>
+            </ul>
+
+            <h3>🎯 Exam Tip</h3>
 
             <p>
-
-                Students often confuse
-                <strong>distance</strong>
-                and
-                <strong>displacement</strong>.
-
+                Questions often test concepts rather than
+                direct memorization. Focus on understanding
+                why an answer is correct.
             </p>
 
+        </div>
+
+        ${backToChapter()}
+    `;
+}
+
+
+/* =========================================================
+   TEST
+========================================================= */
+
+function showTest(){
+
+    document.getElementById("app").innerHTML = `
+
+        <div class="question">
+
+            <h2>
+                🎯 ${currentChapter} — Chapter Test
+            </h2>
 
             <p>
-
-                Distance is a scalar quantity,
-                whereas displacement is a vector quantity.
-
+                Test mode will contain multiple questions
+                from this chapter.
             </p>
 
+            <hr>
 
             <h3>
-                Remember
+                Question 1
             </h3>
 
-
             <p>
-
-                Distance ≥ magnitude of displacement.
-
+                Which is the best approach when solving a
+                chapter-based question?
             </p>
+
+            <button class="option"
+                onclick="testAnswer(this,true)">
+                A. Guess immediately
+            </button>
+
+            <button class="option"
+                onclick="testAnswer(this,false)">
+                B. Identify the concept first
+            </button>
+
+            <button class="option"
+                onclick="testAnswer(this,false)">
+                C. Skip all information
+            </button>
+
+            <button class="option"
+                onclick="testAnswer(this,false)">
+                D. Ignore units
+            </button>
+
+            <div id="testResult"></div>
 
         </div>
 
+        ${backToChapter()}
+    `;
+}
 
-        <br>
+
+/* =========================================================
+   TEST ANSWER
+========================================================= */
+
+function testAnswer(button,correct){
+
+    const options =
+        document.querySelectorAll(".option");
+
+    options.forEach(b=>{
+        b.disabled=true;
+    });
+
+    if(correct){
+
+        button.classList.add("correct");
+
+        document.getElementById("testResult").innerHTML = `
+
+            <div class="answer-box">
+                ✅ Correct!
+            </div>
+
+        `;
+
+    }else{
+
+        button.classList.add("wrong");
+
+        document.getElementById("testResult").innerHTML = `
+
+            <div class="answer-box">
+                ❌ Incorrect. Review the chapter concepts.
+            </div>
+
+        `;
+    }
+}
 
 
-        <div style="text-align:center;">
+/* =========================================================
+   BACK BUTTON
+========================================================= */
 
-            <button onclick="openChapter('${chapter}')">
+function backToChapter(){
 
-                ← Back
+    return `
 
+        <div class="back">
+
+            <button onclick="showChapter(currentChapter)">
+                ← Back to Chapter
+            </button>
+
+            <button onclick="showSubject(currentSubject)">
+                ← Back to Chapters
             </button>
 
         </div>
 
     `;
+}
+
+
+/* =========================================================
+   ESCAPE QUOTES
+========================================================= */
+
+function escapeQuotes(text){
+
+    return text
+        .replace(/\\/g,"\\\\")
+        .replace(/'/g,"\\'");
 
 }
 
 
+/* =========================================================
+   START APP
+========================================================= */
 
-/* =====================================================
-   TEST
-===================================================== */
-
-
-function showTest(chapter) {
-
-
-    document.getElementById("mainContainer").innerHTML = `
-
-        <h2>
-            🎯 ${chapter} - Practice Test
-        </h2>
-
-
-        <div class="features">
-
-            <h2>
-                Chapter Test
-            </h2>
-
-
-            <p>
-                📝 Questions: 10
-            </p>
-
-
-            <p>
-                ⏱ Time: 5 Minutes
-            </p>
-
-
-            <p>
-                🎯 Difficulty: NEET Level
-            </p>
-
-
-            <br>
-
-
-            <button onclick="showMCQ('${chapter}')">
-
-                ▶ Start Test
-
-            </button>
-
-        </div>
-
-
-        <br>
-
-
-        <div style="text-align:center;">
-
-            <button onclick="openChapter('${chapter}')">
-
-                ← Back
-
-            </button>
-
-        </div>
-
-    `;
-
-}
-
+showHome();
 
 </script>
 
-
 </body>
-
 </html>
