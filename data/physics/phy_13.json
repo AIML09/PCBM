@@ -1,0 +1,301 @@
+{
+  "id": "phy_13",
+  "name": "Current Electricity",
+  "order": 13,
+  "subchapters": [
+    {
+      "id": "phy_13_01",
+      "title": "Electric current",
+      "theory": "Electric current: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Electric current",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Electric current",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_13_01.svg",
+      "graph": "assets/physics/graphs/phy_13_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Electric current?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Electric current",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_13_02",
+      "title": "Drift velocity",
+      "theory": "Drift velocity: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Drift velocity",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Drift velocity",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_13_02.svg",
+      "graph": "assets/physics/graphs/phy_13_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Drift velocity?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Drift velocity",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_13_03",
+      "title": "Ohm's law",
+      "theory": "Ohm's law: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Ohm's law",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Ohm's law",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_13_03.svg",
+      "graph": "assets/physics/graphs/phy_13_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Ohm's law?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Ohm's law",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_13_04",
+      "title": "Resistance",
+      "theory": "Resistance: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Resistance",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Resistance",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_13_04.svg",
+      "graph": "assets/physics/graphs/phy_13_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Resistance?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Resistance",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_13_05",
+      "title": "Kirchhoff laws",
+      "theory": "Kirchhoff laws: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Kirchhoff laws",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Kirchhoff laws",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_13_05.svg",
+      "graph": "assets/physics/graphs/phy_13_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Kirchhoff laws?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Kirchhoff laws",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_13_06",
+      "title": "Wheatstone bridge",
+      "theory": "Wheatstone bridge: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Wheatstone bridge",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Wheatstone bridge",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_13_06.svg",
+      "graph": "assets/physics/graphs/phy_13_06.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Wheatstone bridge?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Wheatstone bridge",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_13_07",
+      "title": "Potentiometer",
+      "theory": "Potentiometer: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Potentiometer",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Potentiometer",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_13_07.svg",
+      "graph": "assets/physics/graphs/phy_13_07.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Potentiometer?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Potentiometer",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

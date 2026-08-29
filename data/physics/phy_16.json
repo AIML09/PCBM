@@ -1,0 +1,259 @@
+{
+  "id": "phy_16",
+  "name": "Alternating Current",
+  "order": 16,
+  "subchapters": [
+    {
+      "id": "phy_16_01",
+      "title": "AC voltage and current",
+      "theory": "AC voltage and current: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of AC voltage and current",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on AC voltage and current",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_16_01.svg",
+      "graph": "assets/physics/graphs/phy_16_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes AC voltage and current?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: AC voltage and current",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_16_02",
+      "title": "RMS values",
+      "theory": "RMS values: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of RMS values",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on RMS values",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_16_02.svg",
+      "graph": "assets/physics/graphs/phy_16_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes RMS values?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: RMS values",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_16_03",
+      "title": "Reactance",
+      "theory": "Reactance: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Reactance",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Reactance",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_16_03.svg",
+      "graph": "assets/physics/graphs/phy_16_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Reactance?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Reactance",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_16_04",
+      "title": "Impedance",
+      "theory": "Impedance: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Impedance",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Impedance",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_16_04.svg",
+      "graph": "assets/physics/graphs/phy_16_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Impedance?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Impedance",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_16_05",
+      "title": "Resonance",
+      "theory": "Resonance: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Resonance",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Resonance",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_16_05.svg",
+      "graph": "assets/physics/graphs/phy_16_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Resonance?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Resonance",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_16_06",
+      "title": "Transformer",
+      "theory": "Transformer: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Transformer",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Transformer",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_16_06.svg",
+      "graph": "assets/physics/graphs/phy_16_06.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Transformer?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Transformer",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

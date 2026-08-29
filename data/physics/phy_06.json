@@ -1,0 +1,259 @@
+{
+  "id": "phy_06",
+  "name": "Gravitation",
+  "order": 6,
+  "subchapters": [
+    {
+      "id": "phy_06_01",
+      "title": "Newton's law of gravitation",
+      "theory": "Newton's law of gravitation: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Newton's law of gravitation",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Newton's law of gravitation",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_06_01.svg",
+      "graph": "assets/physics/graphs/phy_06_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Newton's law of gravitation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Newton's law of gravitation",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_06_02",
+      "title": "Gravitational field",
+      "theory": "Gravitational field: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Gravitational field",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Gravitational field",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_06_02.svg",
+      "graph": "assets/physics/graphs/phy_06_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Gravitational field?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Gravitational field",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_06_03",
+      "title": "Potential and potential energy",
+      "theory": "Potential and potential energy: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Potential and potential energy",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Potential and potential energy",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_06_03.svg",
+      "graph": "assets/physics/graphs/phy_06_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Potential and potential energy?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Potential and potential energy",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_06_04",
+      "title": "Satellites",
+      "theory": "Satellites: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Satellites",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Satellites",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_06_04.svg",
+      "graph": "assets/physics/graphs/phy_06_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Satellites?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Satellites",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_06_05",
+      "title": "Escape velocity",
+      "theory": "Escape velocity: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Escape velocity",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Escape velocity",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_06_05.svg",
+      "graph": "assets/physics/graphs/phy_06_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Escape velocity?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Escape velocity",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_06_06",
+      "title": "Kepler's laws",
+      "theory": "Kepler's laws: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Kepler's laws",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Kepler's laws",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_06_06.svg",
+      "graph": "assets/physics/graphs/phy_06_06.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Kepler's laws?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Kepler's laws",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

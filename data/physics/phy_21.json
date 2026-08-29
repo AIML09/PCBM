@@ -1,0 +1,175 @@
+{
+  "id": "phy_21",
+  "name": "Atoms",
+  "order": 21,
+  "subchapters": [
+    {
+      "id": "phy_21_01",
+      "title": "Rutherford model",
+      "theory": "Rutherford model: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Rutherford model",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Rutherford model",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_21_01.svg",
+      "graph": "assets/physics/graphs/phy_21_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Rutherford model?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Rutherford model",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_21_02",
+      "title": "Bohr model",
+      "theory": "Bohr model: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Bohr model",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Bohr model",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_21_02.svg",
+      "graph": "assets/physics/graphs/phy_21_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Bohr model?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Bohr model",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_21_03",
+      "title": "Hydrogen spectrum",
+      "theory": "Hydrogen spectrum: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Hydrogen spectrum",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Hydrogen spectrum",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_21_03.svg",
+      "graph": "assets/physics/graphs/phy_21_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Hydrogen spectrum?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Hydrogen spectrum",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_21_04",
+      "title": "Energy levels",
+      "theory": "Energy levels: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Energy levels",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Energy levels",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_21_04.svg",
+      "graph": "assets/physics/graphs/phy_21_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Energy levels?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Energy levels",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

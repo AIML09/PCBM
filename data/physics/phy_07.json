@@ -1,0 +1,259 @@
+{
+  "id": "phy_07",
+  "name": "Properties of Solids & Fluids",
+  "order": 7,
+  "subchapters": [
+    {
+      "id": "phy_07_01",
+      "title": "Elasticity",
+      "theory": "Elasticity: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Elasticity",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Elasticity",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_07_01.svg",
+      "graph": "assets/physics/graphs/phy_07_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Elasticity?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Elasticity",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_07_02",
+      "title": "Stress and strain",
+      "theory": "Stress and strain: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Stress and strain",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Stress and strain",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_07_02.svg",
+      "graph": "assets/physics/graphs/phy_07_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Stress and strain?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Stress and strain",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_07_03",
+      "title": "Fluid pressure",
+      "theory": "Fluid pressure: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Fluid pressure",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Fluid pressure",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_07_03.svg",
+      "graph": "assets/physics/graphs/phy_07_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Fluid pressure?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Fluid pressure",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_07_04",
+      "title": "Viscosity",
+      "theory": "Viscosity: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Viscosity",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Viscosity",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_07_04.svg",
+      "graph": "assets/physics/graphs/phy_07_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Viscosity?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Viscosity",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_07_05",
+      "title": "Surface tension",
+      "theory": "Surface tension: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Surface tension",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Surface tension",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_07_05.svg",
+      "graph": "assets/physics/graphs/phy_07_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Surface tension?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Surface tension",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_07_06",
+      "title": "Bernoulli principle",
+      "theory": "Bernoulli principle: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Bernoulli principle",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Bernoulli principle",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_07_06.svg",
+      "graph": "assets/physics/graphs/phy_07_06.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Bernoulli principle?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Bernoulli principle",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

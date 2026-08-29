@@ -1,0 +1,301 @@
+{
+  "id": "phy_01",
+  "name": "Units & Measurements",
+  "order": 1,
+  "subchapters": [
+    {
+      "id": "phy_01_01",
+      "title": "Physical quantities and units",
+      "theory": "Physical quantities and units: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Physical quantities and units",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Physical quantities and units",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_01_01.svg",
+      "graph": "assets/physics/graphs/phy_01_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Physical quantities and units?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Physical quantities and units",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_01_02",
+      "title": "SI units",
+      "theory": "SI units: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of SI units",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on SI units",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_01_02.svg",
+      "graph": "assets/physics/graphs/phy_01_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes SI units?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: SI units",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_01_03",
+      "title": "Dimensions and dimensional analysis",
+      "theory": "Dimensions and dimensional analysis: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Dimensions and dimensional analysis",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Dimensions and dimensional analysis",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_01_03.svg",
+      "graph": "assets/physics/graphs/phy_01_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Dimensions and dimensional analysis?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Dimensions and dimensional analysis",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_01_04",
+      "title": "Significant figures",
+      "theory": "Significant figures: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Significant figures",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Significant figures",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_01_04.svg",
+      "graph": "assets/physics/graphs/phy_01_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Significant figures?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Significant figures",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_01_05",
+      "title": "Errors in measurement",
+      "theory": "Errors in measurement: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Errors in measurement",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Errors in measurement",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_01_05.svg",
+      "graph": "assets/physics/graphs/phy_01_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Errors in measurement?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Errors in measurement",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_01_06",
+      "title": "Vernier calipers",
+      "theory": "Vernier calipers: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Vernier calipers",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Vernier calipers",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_01_06.svg",
+      "graph": "assets/physics/graphs/phy_01_06.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Vernier calipers?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Vernier calipers",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_01_07",
+      "title": "Screw gauge",
+      "theory": "Screw gauge: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Screw gauge",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Screw gauge",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_01_07.svg",
+      "graph": "assets/physics/graphs/phy_01_07.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Screw gauge?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Screw gauge",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

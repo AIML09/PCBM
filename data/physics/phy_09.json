@@ -1,0 +1,217 @@
+{
+  "id": "phy_09",
+  "name": "Kinetic Theory",
+  "order": 9,
+  "subchapters": [
+    {
+      "id": "phy_09_01",
+      "title": "Ideal gas",
+      "theory": "Ideal gas: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Ideal gas",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Ideal gas",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_09_01.svg",
+      "graph": "assets/physics/graphs/phy_09_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Ideal gas?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Ideal gas",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_09_02",
+      "title": "Pressure and temperature",
+      "theory": "Pressure and temperature: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Pressure and temperature",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Pressure and temperature",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_09_02.svg",
+      "graph": "assets/physics/graphs/phy_09_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Pressure and temperature?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Pressure and temperature",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_09_03",
+      "title": "Kinetic interpretation",
+      "theory": "Kinetic interpretation: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Kinetic interpretation",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Kinetic interpretation",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_09_03.svg",
+      "graph": "assets/physics/graphs/phy_09_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Kinetic interpretation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Kinetic interpretation",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_09_04",
+      "title": "Degrees of freedom",
+      "theory": "Degrees of freedom: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Degrees of freedom",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Degrees of freedom",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_09_04.svg",
+      "graph": "assets/physics/graphs/phy_09_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Degrees of freedom?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Degrees of freedom",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_09_05",
+      "title": "Mean free path",
+      "theory": "Mean free path: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Mean free path",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Mean free path",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_09_05.svg",
+      "graph": "assets/physics/graphs/phy_09_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Mean free path?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Mean free path",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

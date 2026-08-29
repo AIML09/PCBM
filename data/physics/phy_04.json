@@ -1,0 +1,301 @@
+{
+  "id": "phy_04",
+  "name": "Work, Energy & Power",
+  "order": 4,
+  "subchapters": [
+    {
+      "id": "phy_04_01",
+      "title": "Work",
+      "theory": "Work: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Work",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Work",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_04_01.svg",
+      "graph": "assets/physics/graphs/phy_04_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Work?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Work",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_04_02",
+      "title": "Kinetic energy",
+      "theory": "Kinetic energy: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Kinetic energy",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Kinetic energy",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_04_02.svg",
+      "graph": "assets/physics/graphs/phy_04_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Kinetic energy?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Kinetic energy",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_04_03",
+      "title": "Potential energy",
+      "theory": "Potential energy: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Potential energy",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Potential energy",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_04_03.svg",
+      "graph": "assets/physics/graphs/phy_04_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Potential energy?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Potential energy",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_04_04",
+      "title": "Work-energy theorem",
+      "theory": "Work-energy theorem: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Work-energy theorem",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Work-energy theorem",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_04_04.svg",
+      "graph": "assets/physics/graphs/phy_04_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Work-energy theorem?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Work-energy theorem",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_04_05",
+      "title": "Power",
+      "theory": "Power: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Power",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Power",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_04_05.svg",
+      "graph": "assets/physics/graphs/phy_04_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Power?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Power",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_04_06",
+      "title": "Conservation of mechanical energy",
+      "theory": "Conservation of mechanical energy: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Conservation of mechanical energy",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Conservation of mechanical energy",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_04_06.svg",
+      "graph": "assets/physics/graphs/phy_04_06.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Conservation of mechanical energy?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Conservation of mechanical energy",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_04_07",
+      "title": "Collisions",
+      "theory": "Collisions: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Collisions",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Collisions",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_04_07.svg",
+      "graph": "assets/physics/graphs/phy_04_07.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Collisions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Collisions",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "phy_17",
+  "name": "Electromagnetic Waves",
+  "order": 17,
+  "subchapters": [
+    {
+      "id": "phy_17_01",
+      "title": "Displacement current",
+      "theory": "Displacement current: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Displacement current",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Displacement current",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_17_01.svg",
+      "graph": "assets/physics/graphs/phy_17_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Displacement current?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Displacement current",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_17_02",
+      "title": "EM spectrum",
+      "theory": "EM spectrum: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of EM spectrum",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on EM spectrum",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_17_02.svg",
+      "graph": "assets/physics/graphs/phy_17_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes EM spectrum?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: EM spectrum",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_17_03",
+      "title": "Properties and applications",
+      "theory": "Properties and applications: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Properties and applications",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Properties and applications",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_17_03.svg",
+      "graph": "assets/physics/graphs/phy_17_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Properties and applications?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Properties and applications",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

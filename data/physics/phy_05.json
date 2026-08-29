@@ -1,0 +1,259 @@
+{
+  "id": "phy_05",
+  "name": "System of Particles & Rotational Motion",
+  "order": 5,
+  "subchapters": [
+    {
+      "id": "phy_05_01",
+      "title": "Centre of mass",
+      "theory": "Centre of mass: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Centre of mass",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Centre of mass",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_05_01.svg",
+      "graph": "assets/physics/graphs/phy_05_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Centre of mass?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Centre of mass",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_05_02",
+      "title": "Linear momentum",
+      "theory": "Linear momentum: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Linear momentum",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Linear momentum",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_05_02.svg",
+      "graph": "assets/physics/graphs/phy_05_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Linear momentum?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Linear momentum",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_05_03",
+      "title": "Torque",
+      "theory": "Torque: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Torque",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Torque",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_05_03.svg",
+      "graph": "assets/physics/graphs/phy_05_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Torque?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Torque",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_05_04",
+      "title": "Angular momentum",
+      "theory": "Angular momentum: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Angular momentum",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Angular momentum",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_05_04.svg",
+      "graph": "assets/physics/graphs/phy_05_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Angular momentum?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Angular momentum",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_05_05",
+      "title": "Moment of inertia",
+      "theory": "Moment of inertia: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Moment of inertia",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Moment of inertia",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_05_05.svg",
+      "graph": "assets/physics/graphs/phy_05_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Moment of inertia?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Moment of inertia",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_05_06",
+      "title": "Rolling motion",
+      "theory": "Rolling motion: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Rolling motion",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Rolling motion",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_05_06.svg",
+      "graph": "assets/physics/graphs/phy_05_06.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Rolling motion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Rolling motion",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

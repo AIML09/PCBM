@@ -1,0 +1,259 @@
+{
+  "id": "phy_15",
+  "name": "Electromagnetic Induction",
+  "order": 15,
+  "subchapters": [
+    {
+      "id": "phy_15_01",
+      "title": "Magnetic flux",
+      "theory": "Magnetic flux: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Magnetic flux",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Magnetic flux",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_15_01.svg",
+      "graph": "assets/physics/graphs/phy_15_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Magnetic flux?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Magnetic flux",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_15_02",
+      "title": "Faraday law",
+      "theory": "Faraday law: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Faraday law",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Faraday law",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_15_02.svg",
+      "graph": "assets/physics/graphs/phy_15_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Faraday law?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Faraday law",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_15_03",
+      "title": "Lenz law",
+      "theory": "Lenz law: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Lenz law",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Lenz law",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_15_03.svg",
+      "graph": "assets/physics/graphs/phy_15_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Lenz law?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Lenz law",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_15_04",
+      "title": "Self induction",
+      "theory": "Self induction: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Self induction",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Self induction",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_15_04.svg",
+      "graph": "assets/physics/graphs/phy_15_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Self induction?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Self induction",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_15_05",
+      "title": "Mutual induction",
+      "theory": "Mutual induction: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Mutual induction",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Mutual induction",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_15_05.svg",
+      "graph": "assets/physics/graphs/phy_15_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Mutual induction?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Mutual induction",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_15_06",
+      "title": "AC generator",
+      "theory": "AC generator: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of AC generator",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on AC generator",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_15_06.svg",
+      "graph": "assets/physics/graphs/phy_15_06.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes AC generator?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: AC generator",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

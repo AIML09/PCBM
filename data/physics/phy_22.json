@@ -1,0 +1,217 @@
+{
+  "id": "phy_22",
+  "name": "Nuclei",
+  "order": 22,
+  "subchapters": [
+    {
+      "id": "phy_22_01",
+      "title": "Nuclear size",
+      "theory": "Nuclear size: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Nuclear size",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Nuclear size",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_22_01.svg",
+      "graph": "assets/physics/graphs/phy_22_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Nuclear size?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Nuclear size",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_22_02",
+      "title": "Mass defect",
+      "theory": "Mass defect: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Mass defect",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Mass defect",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_22_02.svg",
+      "graph": "assets/physics/graphs/phy_22_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Mass defect?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Mass defect",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_22_03",
+      "title": "Binding energy",
+      "theory": "Binding energy: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Binding energy",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Binding energy",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_22_03.svg",
+      "graph": "assets/physics/graphs/phy_22_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Binding energy?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Binding energy",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_22_04",
+      "title": "Radioactivity",
+      "theory": "Radioactivity: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Radioactivity",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Radioactivity",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_22_04.svg",
+      "graph": "assets/physics/graphs/phy_22_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Radioactivity?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Radioactivity",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_22_05",
+      "title": "Nuclear reactions",
+      "theory": "Nuclear reactions: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Nuclear reactions",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Nuclear reactions",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_22_05.svg",
+      "graph": "assets/physics/graphs/phy_22_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Nuclear reactions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Nuclear reactions",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

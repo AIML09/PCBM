@@ -1,0 +1,259 @@
+{
+  "id": "phy_11",
+  "name": "Waves",
+  "order": 11,
+  "subchapters": [
+    {
+      "id": "phy_11_01",
+      "title": "Wave motion",
+      "theory": "Wave motion: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Wave motion",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Wave motion",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_11_01.svg",
+      "graph": "assets/physics/graphs/phy_11_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Wave motion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Wave motion",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_11_02",
+      "title": "Progressive waves",
+      "theory": "Progressive waves: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Progressive waves",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Progressive waves",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_11_02.svg",
+      "graph": "assets/physics/graphs/phy_11_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Progressive waves?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Progressive waves",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_11_03",
+      "title": "Superposition",
+      "theory": "Superposition: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Superposition",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Superposition",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_11_03.svg",
+      "graph": "assets/physics/graphs/phy_11_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Superposition?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Superposition",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_11_04",
+      "title": "Standing waves",
+      "theory": "Standing waves: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Standing waves",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Standing waves",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_11_04.svg",
+      "graph": "assets/physics/graphs/phy_11_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Standing waves?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Standing waves",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_11_05",
+      "title": "Beats",
+      "theory": "Beats: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Beats",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Beats",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_11_05.svg",
+      "graph": "assets/physics/graphs/phy_11_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Beats?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Beats",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_11_06",
+      "title": "Doppler effect",
+      "theory": "Doppler effect: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Doppler effect",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Doppler effect",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_11_06.svg",
+      "graph": "assets/physics/graphs/phy_11_06.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Doppler effect?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Doppler effect",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

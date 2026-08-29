@@ -1,0 +1,140 @@
+[
+  {
+    "id": "phy_01",
+    "name": "Units & Measurements",
+    "file": "phy_01.json",
+    "subchapters": 7
+  },
+  {
+    "id": "phy_02",
+    "name": "Kinematics",
+    "file": "phy_02.json",
+    "subchapters": 8
+  },
+  {
+    "id": "phy_03",
+    "name": "Laws of Motion",
+    "file": "phy_03.json",
+    "subchapters": 6
+  },
+  {
+    "id": "phy_04",
+    "name": "Work, Energy & Power",
+    "file": "phy_04.json",
+    "subchapters": 7
+  },
+  {
+    "id": "phy_05",
+    "name": "System of Particles & Rotational Motion",
+    "file": "phy_05.json",
+    "subchapters": 6
+  },
+  {
+    "id": "phy_06",
+    "name": "Gravitation",
+    "file": "phy_06.json",
+    "subchapters": 6
+  },
+  {
+    "id": "phy_07",
+    "name": "Properties of Solids & Fluids",
+    "file": "phy_07.json",
+    "subchapters": 6
+  },
+  {
+    "id": "phy_08",
+    "name": "Thermodynamics",
+    "file": "phy_08.json",
+    "subchapters": 6
+  },
+  {
+    "id": "phy_09",
+    "name": "Kinetic Theory",
+    "file": "phy_09.json",
+    "subchapters": 5
+  },
+  {
+    "id": "phy_10",
+    "name": "Oscillations",
+    "file": "phy_10.json",
+    "subchapters": 5
+  },
+  {
+    "id": "phy_11",
+    "name": "Waves",
+    "file": "phy_11.json",
+    "subchapters": 6
+  },
+  {
+    "id": "phy_12",
+    "name": "Electrostatics",
+    "file": "phy_12.json",
+    "subchapters": 6
+  },
+  {
+    "id": "phy_13",
+    "name": "Current Electricity",
+    "file": "phy_13.json",
+    "subchapters": 7
+  },
+  {
+    "id": "phy_14",
+    "name": "Moving Charges & Magnetism",
+    "file": "phy_14.json",
+    "subchapters": 6
+  },
+  {
+    "id": "phy_15",
+    "name": "Electromagnetic Induction",
+    "file": "phy_15.json",
+    "subchapters": 6
+  },
+  {
+    "id": "phy_16",
+    "name": "Alternating Current",
+    "file": "phy_16.json",
+    "subchapters": 6
+  },
+  {
+    "id": "phy_17",
+    "name": "Electromagnetic Waves",
+    "file": "phy_17.json",
+    "subchapters": 3
+  },
+  {
+    "id": "phy_18",
+    "name": "Ray Optics",
+    "file": "phy_18.json",
+    "subchapters": 6
+  },
+  {
+    "id": "phy_19",
+    "name": "Wave Optics",
+    "file": "phy_19.json",
+    "subchapters": 5
+  },
+  {
+    "id": "phy_20",
+    "name": "Dual Nature of Matter & Radiation",
+    "file": "phy_20.json",
+    "subchapters": 4
+  },
+  {
+    "id": "phy_21",
+    "name": "Atoms",
+    "file": "phy_21.json",
+    "subchapters": 4
+  },
+  {
+    "id": "phy_22",
+    "name": "Nuclei",
+    "file": "phy_22.json",
+    "subchapters": 5
+  },
+  {
+    "id": "phy_23",
+    "name": "Semiconductor Electronics",
+    "file": "phy_23.json",
+    "subchapters": 7
+  }
+]

@@ -1,0 +1,217 @@
+{
+  "id": "phy_10",
+  "name": "Oscillations",
+  "order": 10,
+  "subchapters": [
+    {
+      "id": "phy_10_01",
+      "title": "Periodic motion",
+      "theory": "Periodic motion: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Periodic motion",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Periodic motion",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_10_01.svg",
+      "graph": "assets/physics/graphs/phy_10_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Periodic motion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Periodic motion",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_10_02",
+      "title": "SHM",
+      "theory": "SHM: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of SHM",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on SHM",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_10_02.svg",
+      "graph": "assets/physics/graphs/phy_10_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes SHM?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: SHM",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_10_03",
+      "title": "Energy in SHM",
+      "theory": "Energy in SHM: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Energy in SHM",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Energy in SHM",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_10_03.svg",
+      "graph": "assets/physics/graphs/phy_10_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Energy in SHM?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Energy in SHM",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_10_04",
+      "title": "Spring-mass system",
+      "theory": "Spring-mass system: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Spring-mass system",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Spring-mass system",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_10_04.svg",
+      "graph": "assets/physics/graphs/phy_10_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Spring-mass system?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Spring-mass system",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_10_05",
+      "title": "Simple pendulum",
+      "theory": "Simple pendulum: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Simple pendulum",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Simple pendulum",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_10_05.svg",
+      "graph": "assets/physics/graphs/phy_10_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Simple pendulum?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Simple pendulum",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

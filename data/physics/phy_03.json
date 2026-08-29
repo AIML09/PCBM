@@ -1,0 +1,259 @@
+{
+  "id": "phy_03",
+  "name": "Laws of Motion",
+  "order": 3,
+  "subchapters": [
+    {
+      "id": "phy_03_01",
+      "title": "Newton's laws",
+      "theory": "Newton's laws: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Newton's laws",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Newton's laws",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_03_01.svg",
+      "graph": "assets/physics/graphs/phy_03_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Newton's laws?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Newton's laws",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_03_02",
+      "title": "Free body diagrams",
+      "theory": "Free body diagrams: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Free body diagrams",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Free body diagrams",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_03_02.svg",
+      "graph": "assets/physics/graphs/phy_03_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Free body diagrams?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Free body diagrams",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_03_03",
+      "title": "Friction",
+      "theory": "Friction: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Friction",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Friction",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_03_03.svg",
+      "graph": "assets/physics/graphs/phy_03_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Friction?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Friction",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_03_04",
+      "title": "Circular motion",
+      "theory": "Circular motion: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Circular motion",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Circular motion",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_03_04.svg",
+      "graph": "assets/physics/graphs/phy_03_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Circular motion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Circular motion",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_03_05",
+      "title": "Momentum and impulse",
+      "theory": "Momentum and impulse: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Momentum and impulse",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Momentum and impulse",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_03_05.svg",
+      "graph": "assets/physics/graphs/phy_03_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Momentum and impulse?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Momentum and impulse",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_03_06",
+      "title": "Applications of Newton's laws",
+      "theory": "Applications of Newton's laws: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Applications of Newton's laws",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Applications of Newton's laws",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_03_06.svg",
+      "graph": "assets/physics/graphs/phy_03_06.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Applications of Newton's laws?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Applications of Newton's laws",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

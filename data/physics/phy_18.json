@@ -1,0 +1,259 @@
+{
+  "id": "phy_18",
+  "name": "Ray Optics",
+  "order": 18,
+  "subchapters": [
+    {
+      "id": "phy_18_01",
+      "title": "Reflection",
+      "theory": "Reflection: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Reflection",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Reflection",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_18_01.svg",
+      "graph": "assets/physics/graphs/phy_18_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Reflection?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Reflection",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_18_02",
+      "title": "Refraction",
+      "theory": "Refraction: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Refraction",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Refraction",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_18_02.svg",
+      "graph": "assets/physics/graphs/phy_18_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Refraction?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Refraction",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_18_03",
+      "title": "Mirrors",
+      "theory": "Mirrors: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Mirrors",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Mirrors",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_18_03.svg",
+      "graph": "assets/physics/graphs/phy_18_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Mirrors?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Mirrors",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_18_04",
+      "title": "Lenses",
+      "theory": "Lenses: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Lenses",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Lenses",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_18_04.svg",
+      "graph": "assets/physics/graphs/phy_18_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Lenses?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Lenses",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_18_05",
+      "title": "Prism",
+      "theory": "Prism: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Prism",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Prism",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_18_05.svg",
+      "graph": "assets/physics/graphs/phy_18_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Prism?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Prism",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_18_06",
+      "title": "Optical instruments",
+      "theory": "Optical instruments: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Optical instruments",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Optical instruments",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_18_06.svg",
+      "graph": "assets/physics/graphs/phy_18_06.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Optical instruments?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Optical instruments",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

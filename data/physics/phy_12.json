@@ -1,0 +1,259 @@
+{
+  "id": "phy_12",
+  "name": "Electrostatics",
+  "order": 12,
+  "subchapters": [
+    {
+      "id": "phy_12_01",
+      "title": "Charge",
+      "theory": "Charge: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Charge",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Charge",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_12_01.svg",
+      "graph": "assets/physics/graphs/phy_12_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Charge?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Charge",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_12_02",
+      "title": "Coulomb's law",
+      "theory": "Coulomb's law: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Coulomb's law",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Coulomb's law",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_12_02.svg",
+      "graph": "assets/physics/graphs/phy_12_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Coulomb's law?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Coulomb's law",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_12_03",
+      "title": "Electric field",
+      "theory": "Electric field: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Electric field",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Electric field",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_12_03.svg",
+      "graph": "assets/physics/graphs/phy_12_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Electric field?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Electric field",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_12_04",
+      "title": "Electric potential",
+      "theory": "Electric potential: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Electric potential",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Electric potential",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_12_04.svg",
+      "graph": "assets/physics/graphs/phy_12_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Electric potential?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Electric potential",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_12_05",
+      "title": "Capacitance",
+      "theory": "Capacitance: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Capacitance",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Capacitance",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_12_05.svg",
+      "graph": "assets/physics/graphs/phy_12_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Capacitance?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Capacitance",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_12_06",
+      "title": "Dielectrics",
+      "theory": "Dielectrics: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Dielectrics",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Dielectrics",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_12_06.svg",
+      "graph": "assets/physics/graphs/phy_12_06.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Dielectrics?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Dielectrics",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

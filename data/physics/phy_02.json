@@ -1,0 +1,343 @@
+{
+  "id": "phy_02",
+  "name": "Kinematics",
+  "order": 2,
+  "subchapters": [
+    {
+      "id": "phy_02_01",
+      "title": "Motion in one dimension",
+      "theory": "Motion in one dimension: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Motion in one dimension",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Motion in one dimension",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_02_01.svg",
+      "graph": "assets/physics/graphs/phy_02_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Motion in one dimension?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Motion in one dimension",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_02_02",
+      "title": "Position, distance and displacement",
+      "theory": "Position, distance and displacement: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Position, distance and displacement",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Position, distance and displacement",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_02_02.svg",
+      "graph": "assets/physics/graphs/phy_02_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Position, distance and displacement?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Position, distance and displacement",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_02_03",
+      "title": "Speed and velocity",
+      "theory": "Speed and velocity: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Speed and velocity",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Speed and velocity",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_02_03.svg",
+      "graph": "assets/physics/graphs/phy_02_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Speed and velocity?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Speed and velocity",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_02_04",
+      "title": "Acceleration",
+      "theory": "Acceleration: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Acceleration",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Acceleration",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_02_04.svg",
+      "graph": "assets/physics/graphs/phy_02_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Acceleration?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Acceleration",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_02_05",
+      "title": "Equations of motion",
+      "theory": "Equations of motion: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Equations of motion",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Equations of motion",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_02_05.svg",
+      "graph": "assets/physics/graphs/phy_02_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Equations of motion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Equations of motion",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_02_06",
+      "title": "Motion graphs",
+      "theory": "Motion graphs: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Motion graphs",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Motion graphs",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_02_06.svg",
+      "graph": "assets/physics/graphs/phy_02_06.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Motion graphs?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Motion graphs",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_02_07",
+      "title": "Projectile motion",
+      "theory": "Projectile motion: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Projectile motion",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Projectile motion",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_02_07.svg",
+      "graph": "assets/physics/graphs/phy_02_07.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Projectile motion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Projectile motion",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_02_08",
+      "title": "Relative motion",
+      "theory": "Relative motion: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Relative motion",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Relative motion",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_02_08.svg",
+      "graph": "assets/physics/graphs/phy_02_08.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Relative motion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Relative motion",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": "phy_20",
+  "name": "Dual Nature of Matter & Radiation",
+  "order": 20,
+  "subchapters": [
+    {
+      "id": "phy_20_01",
+      "title": "Photoelectric effect",
+      "theory": "Photoelectric effect: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Photoelectric effect",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Photoelectric effect",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_20_01.svg",
+      "graph": "assets/physics/graphs/phy_20_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Photoelectric effect?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Photoelectric effect",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_20_02",
+      "title": "Einstein equation",
+      "theory": "Einstein equation: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Einstein equation",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Einstein equation",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_20_02.svg",
+      "graph": "assets/physics/graphs/phy_20_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Einstein equation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Einstein equation",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_20_03",
+      "title": "Matter waves",
+      "theory": "Matter waves: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Matter waves",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Matter waves",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_20_03.svg",
+      "graph": "assets/physics/graphs/phy_20_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Matter waves?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Matter waves",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_20_04",
+      "title": "de Broglie wavelength",
+      "theory": "de Broglie wavelength: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of de Broglie wavelength",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on de Broglie wavelength",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_20_04.svg",
+      "graph": "assets/physics/graphs/phy_20_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes de Broglie wavelength?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: de Broglie wavelength",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

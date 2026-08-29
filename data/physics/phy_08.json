@@ -1,0 +1,259 @@
+{
+  "id": "phy_08",
+  "name": "Thermodynamics",
+  "order": 8,
+  "subchapters": [
+    {
+      "id": "phy_08_01",
+      "title": "Temperature and heat",
+      "theory": "Temperature and heat: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Temperature and heat",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Temperature and heat",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_08_01.svg",
+      "graph": "assets/physics/graphs/phy_08_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Temperature and heat?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Temperature and heat",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_08_02",
+      "title": "Zeroth law",
+      "theory": "Zeroth law: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Zeroth law",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Zeroth law",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_08_02.svg",
+      "graph": "assets/physics/graphs/phy_08_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Zeroth law?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Zeroth law",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_08_03",
+      "title": "First law",
+      "theory": "First law: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of First law",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on First law",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_08_03.svg",
+      "graph": "assets/physics/graphs/phy_08_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes First law?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: First law",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_08_04",
+      "title": "Second law",
+      "theory": "Second law: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Second law",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Second law",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_08_04.svg",
+      "graph": "assets/physics/graphs/phy_08_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Second law?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Second law",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_08_05",
+      "title": "Thermodynamic processes",
+      "theory": "Thermodynamic processes: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Thermodynamic processes",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Thermodynamic processes",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_08_05.svg",
+      "graph": "assets/physics/graphs/phy_08_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Thermodynamic processes?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Thermodynamic processes",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_08_06",
+      "title": "Heat engines and refrigerators",
+      "theory": "Heat engines and refrigerators: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Heat engines and refrigerators",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Heat engines and refrigerators",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_08_06.svg",
+      "graph": "assets/physics/graphs/phy_08_06.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Heat engines and refrigerators?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Heat engines and refrigerators",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

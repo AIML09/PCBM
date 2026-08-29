@@ -1,0 +1,301 @@
+{
+  "id": "phy_23",
+  "name": "Semiconductor Electronics",
+  "order": 23,
+  "subchapters": [
+    {
+      "id": "phy_23_01",
+      "title": "Intrinsic and extrinsic semiconductors",
+      "theory": "Intrinsic and extrinsic semiconductors: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Intrinsic and extrinsic semiconductors",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Intrinsic and extrinsic semiconductors",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_23_01.svg",
+      "graph": "assets/physics/graphs/phy_23_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Intrinsic and extrinsic semiconductors?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Intrinsic and extrinsic semiconductors",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_23_02",
+      "title": "PN junction",
+      "theory": "PN junction: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of PN junction",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on PN junction",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_23_02.svg",
+      "graph": "assets/physics/graphs/phy_23_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes PN junction?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: PN junction",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_23_03",
+      "title": "Diode",
+      "theory": "Diode: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Diode",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Diode",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_23_03.svg",
+      "graph": "assets/physics/graphs/phy_23_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Diode?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Diode",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_23_04",
+      "title": "Rectifier",
+      "theory": "Rectifier: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Rectifier",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Rectifier",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_23_04.svg",
+      "graph": "assets/physics/graphs/phy_23_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Rectifier?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Rectifier",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_23_05",
+      "title": "Zener diode",
+      "theory": "Zener diode: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Zener diode",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Zener diode",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_23_05.svg",
+      "graph": "assets/physics/graphs/phy_23_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Zener diode?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Zener diode",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_23_06",
+      "title": "Transistor",
+      "theory": "Transistor: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Transistor",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Transistor",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_23_06.svg",
+      "graph": "assets/physics/graphs/phy_23_06.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Transistor?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Transistor",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_23_07",
+      "title": "Logic gates",
+      "theory": "Logic gates: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Logic gates",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Logic gates",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_23_07.svg",
+      "graph": "assets/physics/graphs/phy_23_07.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Logic gates?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Logic gates",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

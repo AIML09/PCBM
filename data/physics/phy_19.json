@@ -1,0 +1,217 @@
+{
+  "id": "phy_19",
+  "name": "Wave Optics",
+  "order": 19,
+  "subchapters": [
+    {
+      "id": "phy_19_01",
+      "title": "Huygens principle",
+      "theory": "Huygens principle: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Huygens principle",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Huygens principle",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_19_01.svg",
+      "graph": "assets/physics/graphs/phy_19_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Huygens principle?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Huygens principle",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_19_02",
+      "title": "Interference",
+      "theory": "Interference: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Interference",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Interference",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_19_02.svg",
+      "graph": "assets/physics/graphs/phy_19_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Interference?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Interference",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_19_03",
+      "title": "Young double slit",
+      "theory": "Young double slit: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Young double slit",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Young double slit",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_19_03.svg",
+      "graph": "assets/physics/graphs/phy_19_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Young double slit?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Young double slit",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_19_04",
+      "title": "Diffraction",
+      "theory": "Diffraction: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Diffraction",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Diffraction",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_19_04.svg",
+      "graph": "assets/physics/graphs/phy_19_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Diffraction?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Diffraction",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_19_05",
+      "title": "Polarization",
+      "theory": "Polarization: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Polarization",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Polarization",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_19_05.svg",
+      "graph": "assets/physics/graphs/phy_19_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Polarization?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Polarization",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

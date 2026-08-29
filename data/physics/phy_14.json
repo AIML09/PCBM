@@ -1,0 +1,259 @@
+{
+  "id": "phy_14",
+  "name": "Moving Charges & Magnetism",
+  "order": 14,
+  "subchapters": [
+    {
+      "id": "phy_14_01",
+      "title": "Lorentz force",
+      "theory": "Lorentz force: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Lorentz force",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Lorentz force",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_14_01.svg",
+      "graph": "assets/physics/graphs/phy_14_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Lorentz force?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Lorentz force",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_14_02",
+      "title": "Biot-Savart law",
+      "theory": "Biot-Savart law: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Biot-Savart law",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Biot-Savart law",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_14_02.svg",
+      "graph": "assets/physics/graphs/phy_14_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Biot-Savart law?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Biot-Savart law",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_14_03",
+      "title": "Ampere law",
+      "theory": "Ampere law: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Ampere law",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Ampere law",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_14_03.svg",
+      "graph": "assets/physics/graphs/phy_14_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Ampere law?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Ampere law",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_14_04",
+      "title": "Motion in magnetic field",
+      "theory": "Motion in magnetic field: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Motion in magnetic field",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Motion in magnetic field",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_14_04.svg",
+      "graph": "assets/physics/graphs/phy_14_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Motion in magnetic field?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Motion in magnetic field",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_14_05",
+      "title": "Cyclotron",
+      "theory": "Cyclotron: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Cyclotron",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Cyclotron",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_14_05.svg",
+      "graph": "assets/physics/graphs/phy_14_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Cyclotron?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Cyclotron",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "phy_14_06",
+      "title": "Galvanometer",
+      "theory": "Galvanometer: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Galvanometer",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Galvanometer",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/physics/diagrams/phy_14_06.svg",
+      "graph": "assets/physics/graphs/phy_14_06.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Galvanometer?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Galvanometer",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}
