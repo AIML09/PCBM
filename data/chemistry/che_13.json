@@ -1,0 +1,175 @@
+{
+  "id": "che_13",
+  "name": "Haloalkanes & Haloarenes",
+  "order": 13,
+  "subchapters": [
+    {
+      "id": "che_13_01",
+      "title": "Preparation",
+      "theory": "Preparation: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Preparation",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Preparation",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_13_01.svg",
+      "graph": "assets/chemistry/graphs/che_13_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Preparation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Preparation",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_13_02",
+      "title": "SN1 and SN2",
+      "theory": "SN1 and SN2: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of SN1 and SN2",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on SN1 and SN2",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_13_02.svg",
+      "graph": "assets/chemistry/graphs/che_13_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes SN1 and SN2?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: SN1 and SN2",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_13_03",
+      "title": "Elimination",
+      "theory": "Elimination: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Elimination",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Elimination",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_13_03.svg",
+      "graph": "assets/chemistry/graphs/che_13_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Elimination?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Elimination",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_13_04",
+      "title": "Reactions",
+      "theory": "Reactions: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Reactions",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Reactions",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_13_04.svg",
+      "graph": "assets/chemistry/graphs/che_13_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Reactions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Reactions",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

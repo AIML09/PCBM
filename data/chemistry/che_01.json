@@ -1,0 +1,217 @@
+{
+  "id": "che_01",
+  "name": "Some Basic Concepts of Chemistry",
+  "order": 1,
+  "subchapters": [
+    {
+      "id": "che_01_01",
+      "title": "Mole concept",
+      "theory": "Mole concept: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Mole concept",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Mole concept",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_01_01.svg",
+      "graph": "assets/chemistry/graphs/che_01_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Mole concept?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Mole concept",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_01_02",
+      "title": "Atomic and molecular masses",
+      "theory": "Atomic and molecular masses: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Atomic and molecular masses",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Atomic and molecular masses",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_01_02.svg",
+      "graph": "assets/chemistry/graphs/che_01_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Atomic and molecular masses?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Atomic and molecular masses",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_01_03",
+      "title": "Stoichiometry",
+      "theory": "Stoichiometry: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Stoichiometry",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Stoichiometry",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_01_03.svg",
+      "graph": "assets/chemistry/graphs/che_01_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Stoichiometry?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Stoichiometry",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_01_04",
+      "title": "Concentration terms",
+      "theory": "Concentration terms: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Concentration terms",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Concentration terms",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_01_04.svg",
+      "graph": "assets/chemistry/graphs/che_01_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Concentration terms?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Concentration terms",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_01_05",
+      "title": "Limiting reagent",
+      "theory": "Limiting reagent: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Limiting reagent",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Limiting reagent",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_01_05.svg",
+      "graph": "assets/chemistry/graphs/che_01_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Limiting reagent?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Limiting reagent",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

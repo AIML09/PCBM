@@ -1,0 +1,217 @@
+{
+  "id": "che_17",
+  "name": "Biomolecules & Polymers",
+  "order": 17,
+  "subchapters": [
+    {
+      "id": "che_17_01",
+      "title": "Carbohydrates",
+      "theory": "Carbohydrates: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Carbohydrates",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Carbohydrates",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_17_01.svg",
+      "graph": "assets/chemistry/graphs/che_17_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Carbohydrates?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Carbohydrates",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_17_02",
+      "title": "Proteins",
+      "theory": "Proteins: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Proteins",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Proteins",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_17_02.svg",
+      "graph": "assets/chemistry/graphs/che_17_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Proteins?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Proteins",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_17_03",
+      "title": "Nucleic acids",
+      "theory": "Nucleic acids: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Nucleic acids",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Nucleic acids",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_17_03.svg",
+      "graph": "assets/chemistry/graphs/che_17_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Nucleic acids?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Nucleic acids",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_17_04",
+      "title": "Vitamins",
+      "theory": "Vitamins: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Vitamins",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Vitamins",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_17_04.svg",
+      "graph": "assets/chemistry/graphs/che_17_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Vitamins?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Vitamins",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_17_05",
+      "title": "Polymers",
+      "theory": "Polymers: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Polymers",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Polymers",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_17_05.svg",
+      "graph": "assets/chemistry/graphs/che_17_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Polymers?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Polymers",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

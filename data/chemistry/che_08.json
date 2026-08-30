@@ -1,0 +1,175 @@
+{
+  "id": "che_08",
+  "name": "Solutions",
+  "order": 8,
+  "subchapters": [
+    {
+      "id": "che_08_01",
+      "title": "Concentration",
+      "theory": "Concentration: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Concentration",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Concentration",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_08_01.svg",
+      "graph": "assets/chemistry/graphs/che_08_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Concentration?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Concentration",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_08_02",
+      "title": "Raoult law",
+      "theory": "Raoult law: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Raoult law",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Raoult law",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_08_02.svg",
+      "graph": "assets/chemistry/graphs/che_08_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Raoult law?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Raoult law",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_08_03",
+      "title": "Colligative properties",
+      "theory": "Colligative properties: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Colligative properties",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Colligative properties",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_08_03.svg",
+      "graph": "assets/chemistry/graphs/che_08_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Colligative properties?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Colligative properties",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_08_04",
+      "title": "Osmosis",
+      "theory": "Osmosis: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Osmosis",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Osmosis",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_08_04.svg",
+      "graph": "assets/chemistry/graphs/che_08_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Osmosis?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Osmosis",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "id": "che_03",
+  "name": "Classification of Elements & Periodicity",
+  "order": 3,
+  "subchapters": [
+    {
+      "id": "che_03_01",
+      "title": "Periodic table",
+      "theory": "Periodic table: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Periodic table",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Periodic table",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_03_01.svg",
+      "graph": "assets/chemistry/graphs/che_03_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Periodic table?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Periodic table",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_03_02",
+      "title": "Atomic radius",
+      "theory": "Atomic radius: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Atomic radius",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Atomic radius",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_03_02.svg",
+      "graph": "assets/chemistry/graphs/che_03_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Atomic radius?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Atomic radius",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_03_03",
+      "title": "Ionization enthalpy",
+      "theory": "Ionization enthalpy: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Ionization enthalpy",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Ionization enthalpy",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_03_03.svg",
+      "graph": "assets/chemistry/graphs/che_03_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Ionization enthalpy?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Ionization enthalpy",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_03_04",
+      "title": "Electron gain enthalpy",
+      "theory": "Electron gain enthalpy: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Electron gain enthalpy",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Electron gain enthalpy",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_03_04.svg",
+      "graph": "assets/chemistry/graphs/che_03_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Electron gain enthalpy?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Electron gain enthalpy",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_03_05",
+      "title": "Electronegativity",
+      "theory": "Electronegativity: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Electronegativity",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Electronegativity",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_03_05.svg",
+      "graph": "assets/chemistry/graphs/che_03_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Electronegativity?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Electronegativity",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "id": "che_05",
+  "name": "Thermodynamics",
+  "order": 5,
+  "subchapters": [
+    {
+      "id": "che_05_01",
+      "title": "System and surroundings",
+      "theory": "System and surroundings: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of System and surroundings",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on System and surroundings",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_05_01.svg",
+      "graph": "assets/chemistry/graphs/che_05_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes System and surroundings?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: System and surroundings",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_05_02",
+      "title": "Enthalpy",
+      "theory": "Enthalpy: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Enthalpy",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Enthalpy",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_05_02.svg",
+      "graph": "assets/chemistry/graphs/che_05_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Enthalpy?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Enthalpy",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_05_03",
+      "title": "Hess law",
+      "theory": "Hess law: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Hess law",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Hess law",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_05_03.svg",
+      "graph": "assets/chemistry/graphs/che_05_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Hess law?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Hess law",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_05_04",
+      "title": "Entropy",
+      "theory": "Entropy: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Entropy",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Entropy",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_05_04.svg",
+      "graph": "assets/chemistry/graphs/che_05_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Entropy?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Entropy",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_05_05",
+      "title": "Gibbs energy",
+      "theory": "Gibbs energy: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Gibbs energy",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Gibbs energy",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_05_05.svg",
+      "graph": "assets/chemistry/graphs/che_05_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Gibbs energy?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Gibbs energy",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

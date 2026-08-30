@@ -1,0 +1,133 @@
+{
+  "id": "che_07",
+  "name": "Redox Reactions",
+  "order": 7,
+  "subchapters": [
+    {
+      "id": "che_07_01",
+      "title": "Oxidation number",
+      "theory": "Oxidation number: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Oxidation number",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Oxidation number",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_07_01.svg",
+      "graph": "assets/chemistry/graphs/che_07_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Oxidation number?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Oxidation number",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_07_02",
+      "title": "Balancing redox equations",
+      "theory": "Balancing redox equations: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Balancing redox equations",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Balancing redox equations",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_07_02.svg",
+      "graph": "assets/chemistry/graphs/che_07_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Balancing redox equations?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Balancing redox equations",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_07_03",
+      "title": "Disproportionation",
+      "theory": "Disproportionation: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Disproportionation",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Disproportionation",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_07_03.svg",
+      "graph": "assets/chemistry/graphs/che_07_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Disproportionation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Disproportionation",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

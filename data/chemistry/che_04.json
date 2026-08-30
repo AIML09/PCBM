@@ -1,0 +1,301 @@
+{
+  "id": "che_04",
+  "name": "Chemical Bonding",
+  "order": 4,
+  "subchapters": [
+    {
+      "id": "che_04_01",
+      "title": "Ionic bond",
+      "theory": "Ionic bond: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Ionic bond",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Ionic bond",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_04_01.svg",
+      "graph": "assets/chemistry/graphs/che_04_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Ionic bond?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Ionic bond",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_04_02",
+      "title": "Covalent bond",
+      "theory": "Covalent bond: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Covalent bond",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Covalent bond",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_04_02.svg",
+      "graph": "assets/chemistry/graphs/che_04_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Covalent bond?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Covalent bond",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_04_03",
+      "title": "Lewis structures",
+      "theory": "Lewis structures: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Lewis structures",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Lewis structures",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_04_03.svg",
+      "graph": "assets/chemistry/graphs/che_04_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Lewis structures?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Lewis structures",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_04_04",
+      "title": "VSEPR",
+      "theory": "VSEPR: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of VSEPR",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on VSEPR",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_04_04.svg",
+      "graph": "assets/chemistry/graphs/che_04_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes VSEPR?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: VSEPR",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_04_05",
+      "title": "Hybridization",
+      "theory": "Hybridization: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Hybridization",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Hybridization",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_04_05.svg",
+      "graph": "assets/chemistry/graphs/che_04_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Hybridization?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Hybridization",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_04_06",
+      "title": "Molecular orbital theory",
+      "theory": "Molecular orbital theory: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Molecular orbital theory",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Molecular orbital theory",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_04_06.svg",
+      "graph": "assets/chemistry/graphs/che_04_06.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Molecular orbital theory?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Molecular orbital theory",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_04_07",
+      "title": "Hydrogen bonding",
+      "theory": "Hydrogen bonding: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Hydrogen bonding",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Hydrogen bonding",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_04_07.svg",
+      "graph": "assets/chemistry/graphs/che_04_07.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Hydrogen bonding?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Hydrogen bonding",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

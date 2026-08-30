@@ -1,0 +1,259 @@
+{
+  "id": "che_06",
+  "name": "Equilibrium",
+  "order": 6,
+  "subchapters": [
+    {
+      "id": "che_06_01",
+      "title": "Chemical equilibrium",
+      "theory": "Chemical equilibrium: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Chemical equilibrium",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Chemical equilibrium",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_06_01.svg",
+      "graph": "assets/chemistry/graphs/che_06_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Chemical equilibrium?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Chemical equilibrium",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_06_02",
+      "title": "Equilibrium constant",
+      "theory": "Equilibrium constant: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Equilibrium constant",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Equilibrium constant",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_06_02.svg",
+      "graph": "assets/chemistry/graphs/che_06_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Equilibrium constant?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Equilibrium constant",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_06_03",
+      "title": "Le Chatelier principle",
+      "theory": "Le Chatelier principle: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Le Chatelier principle",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Le Chatelier principle",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_06_03.svg",
+      "graph": "assets/chemistry/graphs/che_06_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Le Chatelier principle?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Le Chatelier principle",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_06_04",
+      "title": "Ionic equilibrium",
+      "theory": "Ionic equilibrium: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Ionic equilibrium",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Ionic equilibrium",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_06_04.svg",
+      "graph": "assets/chemistry/graphs/che_06_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Ionic equilibrium?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Ionic equilibrium",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_06_05",
+      "title": "pH",
+      "theory": "pH: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of pH",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on pH",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_06_05.svg",
+      "graph": "assets/chemistry/graphs/che_06_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes pH?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: pH",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_06_06",
+      "title": "Buffer solutions",
+      "theory": "Buffer solutions: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Buffer solutions",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Buffer solutions",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_06_06.svg",
+      "graph": "assets/chemistry/graphs/che_06_06.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Buffer solutions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Buffer solutions",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "id": "che_11",
+  "name": "Organic Chemistry Basics",
+  "order": 11,
+  "subchapters": [
+    {
+      "id": "che_11_01",
+      "title": "Nomenclature",
+      "theory": "Nomenclature: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Nomenclature",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Nomenclature",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_11_01.svg",
+      "graph": "assets/chemistry/graphs/che_11_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Nomenclature?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Nomenclature",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_11_02",
+      "title": "Isomerism",
+      "theory": "Isomerism: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Isomerism",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Isomerism",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_11_02.svg",
+      "graph": "assets/chemistry/graphs/che_11_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Isomerism?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Isomerism",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_11_03",
+      "title": "Electronic effects",
+      "theory": "Electronic effects: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Electronic effects",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Electronic effects",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_11_03.svg",
+      "graph": "assets/chemistry/graphs/che_11_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Electronic effects?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Electronic effects",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_11_04",
+      "title": "Reaction intermediates",
+      "theory": "Reaction intermediates: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Reaction intermediates",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Reaction intermediates",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_11_04.svg",
+      "graph": "assets/chemistry/graphs/che_11_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Reaction intermediates?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Reaction intermediates",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_11_05",
+      "title": "Purification",
+      "theory": "Purification: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Purification",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Purification",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_11_05.svg",
+      "graph": "assets/chemistry/graphs/che_11_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Purification?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Purification",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

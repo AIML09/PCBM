@@ -1,0 +1,104 @@
+[
+  {
+    "id": "che_01",
+    "name": "Some Basic Concepts of Chemistry",
+    "file": "che_01.json",
+    "subchapters": 5
+  },
+  {
+    "id": "che_02",
+    "name": "Structure of Atom",
+    "file": "che_02.json",
+    "subchapters": 4
+  },
+  {
+    "id": "che_03",
+    "name": "Classification of Elements & Periodicity",
+    "file": "che_03.json",
+    "subchapters": 5
+  },
+  {
+    "id": "che_04",
+    "name": "Chemical Bonding",
+    "file": "che_04.json",
+    "subchapters": 7
+  },
+  {
+    "id": "che_05",
+    "name": "Thermodynamics",
+    "file": "che_05.json",
+    "subchapters": 5
+  },
+  {
+    "id": "che_06",
+    "name": "Equilibrium",
+    "file": "che_06.json",
+    "subchapters": 6
+  },
+  {
+    "id": "che_07",
+    "name": "Redox Reactions",
+    "file": "che_07.json",
+    "subchapters": 3
+  },
+  {
+    "id": "che_08",
+    "name": "Solutions",
+    "file": "che_08.json",
+    "subchapters": 4
+  },
+  {
+    "id": "che_09",
+    "name": "Electrochemistry",
+    "file": "che_09.json",
+    "subchapters": 5
+  },
+  {
+    "id": "che_10",
+    "name": "Chemical Kinetics",
+    "file": "che_10.json",
+    "subchapters": 5
+  },
+  {
+    "id": "che_11",
+    "name": "Organic Chemistry Basics",
+    "file": "che_11.json",
+    "subchapters": 5
+  },
+  {
+    "id": "che_12",
+    "name": "Hydrocarbons",
+    "file": "che_12.json",
+    "subchapters": 4
+  },
+  {
+    "id": "che_13",
+    "name": "Haloalkanes & Haloarenes",
+    "file": "che_13.json",
+    "subchapters": 4
+  },
+  {
+    "id": "che_14",
+    "name": "Alcohols, Phenols & Ethers",
+    "file": "che_14.json",
+    "subchapters": 4
+  },
+  {
+    "id": "che_15",
+    "name": "Aldehydes, Ketones & Carboxylic Acids",
+    "file": "che_15.json",
+    "subchapters": 4
+  },
+  {
+    "id": "che_16",
+    "name": "Amines",
+    "file": "che_16.json",
+    "subchapters": 5
+  },
+  {
+    "id": "che_17",
+    "name": "Biomolecules & Polymers",
+    "file": "che_17.json",
+    "subchapters": 5
+  }
+]

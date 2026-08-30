@@ -1,0 +1,175 @@
+{
+  "id": "che_12",
+  "name": "Hydrocarbons",
+  "order": 12,
+  "subchapters": [
+    {
+      "id": "che_12_01",
+      "title": "Alkanes",
+      "theory": "Alkanes: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Alkanes",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Alkanes",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_12_01.svg",
+      "graph": "assets/chemistry/graphs/che_12_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Alkanes?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Alkanes",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_12_02",
+      "title": "Alkenes",
+      "theory": "Alkenes: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Alkenes",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Alkenes",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_12_02.svg",
+      "graph": "assets/chemistry/graphs/che_12_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Alkenes?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Alkenes",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_12_03",
+      "title": "Alkynes",
+      "theory": "Alkynes: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Alkynes",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Alkynes",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_12_03.svg",
+      "graph": "assets/chemistry/graphs/che_12_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Alkynes?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Alkynes",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_12_04",
+      "title": "Aromatic hydrocarbons",
+      "theory": "Aromatic hydrocarbons: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Aromatic hydrocarbons",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Aromatic hydrocarbons",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_12_04.svg",
+      "graph": "assets/chemistry/graphs/che_12_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Aromatic hydrocarbons?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Aromatic hydrocarbons",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

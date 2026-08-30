@@ -1,0 +1,175 @@
+{
+  "id": "che_02",
+  "name": "Structure of Atom",
+  "order": 2,
+  "subchapters": [
+    {
+      "id": "che_02_01",
+      "title": "Atomic models",
+      "theory": "Atomic models: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Atomic models",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Atomic models",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_02_01.svg",
+      "graph": "assets/chemistry/graphs/che_02_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Atomic models?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Atomic models",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_02_02",
+      "title": "Quantum numbers",
+      "theory": "Quantum numbers: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Quantum numbers",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Quantum numbers",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_02_02.svg",
+      "graph": "assets/chemistry/graphs/che_02_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Quantum numbers?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Quantum numbers",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_02_03",
+      "title": "Electronic configuration",
+      "theory": "Electronic configuration: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Electronic configuration",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Electronic configuration",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_02_03.svg",
+      "graph": "assets/chemistry/graphs/che_02_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Electronic configuration?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Electronic configuration",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_02_04",
+      "title": "Orbitals",
+      "theory": "Orbitals: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Orbitals",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Orbitals",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_02_04.svg",
+      "graph": "assets/chemistry/graphs/che_02_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Orbitals?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Orbitals",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

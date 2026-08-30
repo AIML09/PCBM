@@ -1,0 +1,217 @@
+{
+  "id": "che_10",
+  "name": "Chemical Kinetics",
+  "order": 10,
+  "subchapters": [
+    {
+      "id": "che_10_01",
+      "title": "Rate law",
+      "theory": "Rate law: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Rate law",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Rate law",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_10_01.svg",
+      "graph": "assets/chemistry/graphs/che_10_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Rate law?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Rate law",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_10_02",
+      "title": "Order",
+      "theory": "Order: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Order",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Order",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_10_02.svg",
+      "graph": "assets/chemistry/graphs/che_10_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Order?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Order",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_10_03",
+      "title": "Molecularity",
+      "theory": "Molecularity: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Molecularity",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Molecularity",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_10_03.svg",
+      "graph": "assets/chemistry/graphs/che_10_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Molecularity?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Molecularity",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_10_04",
+      "title": "Half life",
+      "theory": "Half life: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Half life",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Half life",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_10_04.svg",
+      "graph": "assets/chemistry/graphs/che_10_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Half life?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Half life",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_10_05",
+      "title": "Arrhenius equation",
+      "theory": "Arrhenius equation: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Arrhenius equation",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Arrhenius equation",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_10_05.svg",
+      "graph": "assets/chemistry/graphs/che_10_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Arrhenius equation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Arrhenius equation",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "id": "che_16",
+  "name": "Amines",
+  "order": 16,
+  "subchapters": [
+    {
+      "id": "che_16_01",
+      "title": "Classification",
+      "theory": "Classification: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Classification",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Classification",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_16_01.svg",
+      "graph": "assets/chemistry/graphs/che_16_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Classification?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Classification",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_16_02",
+      "title": "Basicity",
+      "theory": "Basicity: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Basicity",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Basicity",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_16_02.svg",
+      "graph": "assets/chemistry/graphs/che_16_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Basicity?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Basicity",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_16_03",
+      "title": "Preparation",
+      "theory": "Preparation: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Preparation",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Preparation",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_16_03.svg",
+      "graph": "assets/chemistry/graphs/che_16_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Preparation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Preparation",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_16_04",
+      "title": "Reactions",
+      "theory": "Reactions: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Reactions",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Reactions",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_16_04.svg",
+      "graph": "assets/chemistry/graphs/che_16_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Reactions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Reactions",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_16_05",
+      "title": "Diazonium salts",
+      "theory": "Diazonium salts: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Diazonium salts",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Diazonium salts",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_16_05.svg",
+      "graph": "assets/chemistry/graphs/che_16_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Diazonium salts?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Diazonium salts",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

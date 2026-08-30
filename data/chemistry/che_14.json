@@ -1,0 +1,175 @@
+{
+  "id": "che_14",
+  "name": "Alcohols, Phenols & Ethers",
+  "order": 14,
+  "subchapters": [
+    {
+      "id": "che_14_01",
+      "title": "Preparation",
+      "theory": "Preparation: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Preparation",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Preparation",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_14_01.svg",
+      "graph": "assets/chemistry/graphs/che_14_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Preparation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Preparation",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_14_02",
+      "title": "Properties",
+      "theory": "Properties: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Properties",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Properties",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_14_02.svg",
+      "graph": "assets/chemistry/graphs/che_14_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Properties?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Properties",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_14_03",
+      "title": "Acidity",
+      "theory": "Acidity: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Acidity",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Acidity",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_14_03.svg",
+      "graph": "assets/chemistry/graphs/che_14_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Acidity?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Acidity",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_14_04",
+      "title": "Reactions",
+      "theory": "Reactions: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Reactions",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Reactions",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_14_04.svg",
+      "graph": "assets/chemistry/graphs/che_14_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Reactions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Reactions",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

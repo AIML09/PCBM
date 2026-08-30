@@ -1,0 +1,217 @@
+{
+  "id": "che_09",
+  "name": "Electrochemistry",
+  "order": 9,
+  "subchapters": [
+    {
+      "id": "che_09_01",
+      "title": "Electrochemical cells",
+      "theory": "Electrochemical cells: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Electrochemical cells",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Electrochemical cells",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_09_01.svg",
+      "graph": "assets/chemistry/graphs/che_09_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Electrochemical cells?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Electrochemical cells",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_09_02",
+      "title": "Nernst equation",
+      "theory": "Nernst equation: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Nernst equation",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Nernst equation",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_09_02.svg",
+      "graph": "assets/chemistry/graphs/che_09_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Nernst equation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Nernst equation",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_09_03",
+      "title": "Conductance",
+      "theory": "Conductance: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Conductance",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Conductance",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_09_03.svg",
+      "graph": "assets/chemistry/graphs/che_09_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Conductance?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Conductance",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_09_04",
+      "title": "Electrolysis",
+      "theory": "Electrolysis: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Electrolysis",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Electrolysis",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_09_04.svg",
+      "graph": "assets/chemistry/graphs/che_09_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Electrolysis?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Electrolysis",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "che_09_05",
+      "title": "Batteries",
+      "theory": "Batteries: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Batteries",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Batteries",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/chemistry/diagrams/che_09_05.svg",
+      "graph": "assets/chemistry/graphs/che_09_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Batteries?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Batteries",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}
