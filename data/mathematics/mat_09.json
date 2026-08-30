@@ -1,0 +1,133 @@
+{
+  "id": "mat_09",
+  "name": "Limits & Continuity",
+  "order": 9,
+  "subchapters": [
+    {
+      "id": "mat_09_01",
+      "title": "Limits",
+      "theory": "Limits: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Limits",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Limits",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_09_01.svg",
+      "graph": "assets/mathematics/graphs/mat_09_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Limits?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Limits",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_09_02",
+      "title": "Standard limits",
+      "theory": "Standard limits: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Standard limits",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Standard limits",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_09_02.svg",
+      "graph": "assets/mathematics/graphs/mat_09_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Standard limits?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Standard limits",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_09_03",
+      "title": "Continuity",
+      "theory": "Continuity: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Continuity",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Continuity",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_09_03.svg",
+      "graph": "assets/mathematics/graphs/mat_09_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Continuity?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Continuity",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

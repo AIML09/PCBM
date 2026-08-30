@@ -1,0 +1,259 @@
+{
+  "id": "mat_01",
+  "name": "Sets & Functions",
+  "order": 1,
+  "subchapters": [
+    {
+      "id": "mat_01_01",
+      "title": "Sets",
+      "theory": "Sets: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Sets",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Sets",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_01_01.svg",
+      "graph": "assets/mathematics/graphs/mat_01_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Sets?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Sets",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_01_02",
+      "title": "Relations",
+      "theory": "Relations: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Relations",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Relations",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_01_02.svg",
+      "graph": "assets/mathematics/graphs/mat_01_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Relations?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Relations",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_01_03",
+      "title": "Functions",
+      "theory": "Functions: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Functions",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Functions",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_01_03.svg",
+      "graph": "assets/mathematics/graphs/mat_01_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Functions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Functions",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_01_04",
+      "title": "Domain and range",
+      "theory": "Domain and range: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Domain and range",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Domain and range",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_01_04.svg",
+      "graph": "assets/mathematics/graphs/mat_01_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Domain and range?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Domain and range",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_01_05",
+      "title": "Composite functions",
+      "theory": "Composite functions: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Composite functions",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Composite functions",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_01_05.svg",
+      "graph": "assets/mathematics/graphs/mat_01_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Composite functions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Composite functions",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_01_06",
+      "title": "Inverse functions",
+      "theory": "Inverse functions: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Inverse functions",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Inverse functions",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_01_06.svg",
+      "graph": "assets/mathematics/graphs/mat_01_06.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Inverse functions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Inverse functions",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

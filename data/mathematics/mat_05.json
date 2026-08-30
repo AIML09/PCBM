@@ -1,0 +1,217 @@
+{
+  "id": "mat_05",
+  "name": "Sequences & Series",
+  "order": 5,
+  "subchapters": [
+    {
+      "id": "mat_05_01",
+      "title": "AP",
+      "theory": "AP: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of AP",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on AP",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_05_01.svg",
+      "graph": "assets/mathematics/graphs/mat_05_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes AP?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: AP",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_05_02",
+      "title": "GP",
+      "theory": "GP: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of GP",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on GP",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_05_02.svg",
+      "graph": "assets/mathematics/graphs/mat_05_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes GP?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: GP",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_05_03",
+      "title": "HP",
+      "theory": "HP: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of HP",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on HP",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_05_03.svg",
+      "graph": "assets/mathematics/graphs/mat_05_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes HP?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: HP",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_05_04",
+      "title": "Special series",
+      "theory": "Special series: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Special series",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Special series",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_05_04.svg",
+      "graph": "assets/mathematics/graphs/mat_05_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Special series?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Special series",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_05_05",
+      "title": "Sigma notation",
+      "theory": "Sigma notation: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Sigma notation",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Sigma notation",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_05_05.svg",
+      "graph": "assets/mathematics/graphs/mat_05_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Sigma notation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Sigma notation",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

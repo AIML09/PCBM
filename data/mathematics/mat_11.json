@@ -1,0 +1,175 @@
+{
+  "id": "mat_11",
+  "name": "Integral Calculus",
+  "order": 11,
+  "subchapters": [
+    {
+      "id": "mat_11_01",
+      "title": "Indefinite integration",
+      "theory": "Indefinite integration: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Indefinite integration",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Indefinite integration",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_11_01.svg",
+      "graph": "assets/mathematics/graphs/mat_11_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Indefinite integration?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Indefinite integration",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_11_02",
+      "title": "Definite integration",
+      "theory": "Definite integration: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Definite integration",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Definite integration",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_11_02.svg",
+      "graph": "assets/mathematics/graphs/mat_11_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Definite integration?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Definite integration",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_11_03",
+      "title": "Area under curves",
+      "theory": "Area under curves: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Area under curves",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Area under curves",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_11_03.svg",
+      "graph": "assets/mathematics/graphs/mat_11_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Area under curves?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Area under curves",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_11_04",
+      "title": "Differential equations",
+      "theory": "Differential equations: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Differential equations",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Differential equations",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_11_04.svg",
+      "graph": "assets/mathematics/graphs/mat_11_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Differential equations?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Differential equations",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

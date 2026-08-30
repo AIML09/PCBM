@@ -1,0 +1,175 @@
+{
+  "id": "mat_14",
+  "name": "Statistics",
+  "order": 14,
+  "subchapters": [
+    {
+      "id": "mat_14_01",
+      "title": "Mean",
+      "theory": "Mean: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Mean",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Mean",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_14_01.svg",
+      "graph": "assets/mathematics/graphs/mat_14_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Mean?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Mean",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_14_02",
+      "title": "Variance",
+      "theory": "Variance: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Variance",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Variance",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_14_02.svg",
+      "graph": "assets/mathematics/graphs/mat_14_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Variance?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Variance",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_14_03",
+      "title": "Standard deviation",
+      "theory": "Standard deviation: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Standard deviation",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Standard deviation",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_14_03.svg",
+      "graph": "assets/mathematics/graphs/mat_14_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Standard deviation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Standard deviation",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_14_04",
+      "title": "Probability distributions",
+      "theory": "Probability distributions: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Probability distributions",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Probability distributions",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_14_04.svg",
+      "graph": "assets/mathematics/graphs/mat_14_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Probability distributions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Probability distributions",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

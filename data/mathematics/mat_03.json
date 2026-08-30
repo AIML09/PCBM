@@ -1,0 +1,217 @@
+{
+  "id": "mat_03",
+  "name": "Complex Numbers",
+  "order": 3,
+  "subchapters": [
+    {
+      "id": "mat_03_01",
+      "title": "Complex plane",
+      "theory": "Complex plane: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Complex plane",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Complex plane",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_03_01.svg",
+      "graph": "assets/mathematics/graphs/mat_03_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Complex plane?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Complex plane",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_03_02",
+      "title": "Algebra",
+      "theory": "Algebra: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Algebra",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Algebra",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_03_02.svg",
+      "graph": "assets/mathematics/graphs/mat_03_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Algebra?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Algebra",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_03_03",
+      "title": "Modulus and argument",
+      "theory": "Modulus and argument: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Modulus and argument",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Modulus and argument",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_03_03.svg",
+      "graph": "assets/mathematics/graphs/mat_03_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Modulus and argument?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Modulus and argument",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_03_04",
+      "title": "Polar form",
+      "theory": "Polar form: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Polar form",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Polar form",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_03_04.svg",
+      "graph": "assets/mathematics/graphs/mat_03_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Polar form?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Polar form",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_03_05",
+      "title": "Quadratic equations",
+      "theory": "Quadratic equations: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Quadratic equations",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Quadratic equations",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_03_05.svg",
+      "graph": "assets/mathematics/graphs/mat_03_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Quadratic equations?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Quadratic equations",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

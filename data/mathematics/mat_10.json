@@ -1,0 +1,217 @@
+{
+  "id": "mat_10",
+  "name": "Differentiation",
+  "order": 10,
+  "subchapters": [
+    {
+      "id": "mat_10_01",
+      "title": "Derivative",
+      "theory": "Derivative: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Derivative",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Derivative",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_10_01.svg",
+      "graph": "assets/mathematics/graphs/mat_10_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Derivative?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Derivative",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_10_02",
+      "title": "Rules",
+      "theory": "Rules: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Rules",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Rules",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_10_02.svg",
+      "graph": "assets/mathematics/graphs/mat_10_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Rules?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Rules",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_10_03",
+      "title": "Implicit differentiation",
+      "theory": "Implicit differentiation: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Implicit differentiation",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Implicit differentiation",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_10_03.svg",
+      "graph": "assets/mathematics/graphs/mat_10_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Implicit differentiation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Implicit differentiation",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_10_04",
+      "title": "Parametric differentiation",
+      "theory": "Parametric differentiation: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Parametric differentiation",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Parametric differentiation",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_10_04.svg",
+      "graph": "assets/mathematics/graphs/mat_10_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Parametric differentiation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Parametric differentiation",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_10_05",
+      "title": "Applications",
+      "theory": "Applications: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Applications",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Applications",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_10_05.svg",
+      "graph": "assets/mathematics/graphs/mat_10_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Applications?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Applications",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": "mat_07",
+  "name": "Binomial Theorem",
+  "order": 7,
+  "subchapters": [
+    {
+      "id": "mat_07_01",
+      "title": "Expansion",
+      "theory": "Expansion: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Expansion",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Expansion",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_07_01.svg",
+      "graph": "assets/mathematics/graphs/mat_07_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Expansion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Expansion",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_07_02",
+      "title": "General term",
+      "theory": "General term: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of General term",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on General term",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_07_02.svg",
+      "graph": "assets/mathematics/graphs/mat_07_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes General term?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: General term",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_07_03",
+      "title": "Middle terms",
+      "theory": "Middle terms: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Middle terms",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Middle terms",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_07_03.svg",
+      "graph": "assets/mathematics/graphs/mat_07_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Middle terms?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Middle terms",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_07_04",
+      "title": "Binomial coefficients",
+      "theory": "Binomial coefficients: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Binomial coefficients",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Binomial coefficients",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_07_04.svg",
+      "graph": "assets/mathematics/graphs/mat_07_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Binomial coefficients?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Binomial coefficients",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

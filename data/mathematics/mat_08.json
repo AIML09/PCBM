@@ -1,0 +1,217 @@
+{
+  "id": "mat_08",
+  "name": "Coordinate Geometry",
+  "order": 8,
+  "subchapters": [
+    {
+      "id": "mat_08_01",
+      "title": "Straight lines",
+      "theory": "Straight lines: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Straight lines",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Straight lines",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_08_01.svg",
+      "graph": "assets/mathematics/graphs/mat_08_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Straight lines?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Straight lines",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_08_02",
+      "title": "Circle",
+      "theory": "Circle: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Circle",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Circle",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_08_02.svg",
+      "graph": "assets/mathematics/graphs/mat_08_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Circle?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Circle",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_08_03",
+      "title": "Parabola",
+      "theory": "Parabola: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Parabola",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Parabola",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_08_03.svg",
+      "graph": "assets/mathematics/graphs/mat_08_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Parabola?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Parabola",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_08_04",
+      "title": "Ellipse",
+      "theory": "Ellipse: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Ellipse",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Ellipse",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_08_04.svg",
+      "graph": "assets/mathematics/graphs/mat_08_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Ellipse?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Ellipse",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_08_05",
+      "title": "Hyperbola",
+      "theory": "Hyperbola: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Hyperbola",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Hyperbola",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_08_05.svg",
+      "graph": "assets/mathematics/graphs/mat_08_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Hyperbola?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Hyperbola",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "id": "mat_02",
+  "name": "Trigonometry",
+  "order": 2,
+  "subchapters": [
+    {
+      "id": "mat_02_01",
+      "title": "Angles",
+      "theory": "Angles: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Angles",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Angles",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_02_01.svg",
+      "graph": "assets/mathematics/graphs/mat_02_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Angles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Angles",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_02_02",
+      "title": "Identities",
+      "theory": "Identities: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Identities",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Identities",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_02_02.svg",
+      "graph": "assets/mathematics/graphs/mat_02_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Identities?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Identities",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_02_03",
+      "title": "Equations",
+      "theory": "Equations: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Equations",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Equations",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_02_03.svg",
+      "graph": "assets/mathematics/graphs/mat_02_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Equations?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Equations",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_02_04",
+      "title": "Graphs",
+      "theory": "Graphs: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Graphs",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Graphs",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_02_04.svg",
+      "graph": "assets/mathematics/graphs/mat_02_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Graphs?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Graphs",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_02_05",
+      "title": "Inverse trigonometric functions",
+      "theory": "Inverse trigonometric functions: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Inverse trigonometric functions",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Inverse trigonometric functions",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_02_05.svg",
+      "graph": "assets/mathematics/graphs/mat_02_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Inverse trigonometric functions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Inverse trigonometric functions",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

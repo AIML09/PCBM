@@ -1,0 +1,175 @@
+{
+  "id": "mat_06",
+  "name": "Permutations & Combinations",
+  "order": 6,
+  "subchapters": [
+    {
+      "id": "mat_06_01",
+      "title": "Counting principle",
+      "theory": "Counting principle: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Counting principle",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Counting principle",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_06_01.svg",
+      "graph": "assets/mathematics/graphs/mat_06_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Counting principle?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Counting principle",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_06_02",
+      "title": "Permutations",
+      "theory": "Permutations: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Permutations",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Permutations",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_06_02.svg",
+      "graph": "assets/mathematics/graphs/mat_06_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Permutations?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Permutations",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_06_03",
+      "title": "Combinations",
+      "theory": "Combinations: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Combinations",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Combinations",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_06_03.svg",
+      "graph": "assets/mathematics/graphs/mat_06_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Combinations?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Combinations",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_06_04",
+      "title": "Applications",
+      "theory": "Applications: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Applications",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Applications",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_06_04.svg",
+      "graph": "assets/mathematics/graphs/mat_06_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Applications?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Applications",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

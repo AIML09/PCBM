@@ -1,0 +1,175 @@
+{
+  "id": "mat_04",
+  "name": "Quadratic Equations",
+  "order": 4,
+  "subchapters": [
+    {
+      "id": "mat_04_01",
+      "title": "Roots",
+      "theory": "Roots: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Roots",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Roots",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_04_01.svg",
+      "graph": "assets/mathematics/graphs/mat_04_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Roots?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Roots",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_04_02",
+      "title": "Nature of roots",
+      "theory": "Nature of roots: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Nature of roots",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Nature of roots",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_04_02.svg",
+      "graph": "assets/mathematics/graphs/mat_04_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Nature of roots?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Nature of roots",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_04_03",
+      "title": "Relations between roots",
+      "theory": "Relations between roots: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Relations between roots",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Relations between roots",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_04_03.svg",
+      "graph": "assets/mathematics/graphs/mat_04_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Relations between roots?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Relations between roots",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_04_04",
+      "title": "Inequalities",
+      "theory": "Inequalities: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Inequalities",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Inequalities",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_04_04.svg",
+      "graph": "assets/mathematics/graphs/mat_04_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Inequalities?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Inequalities",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

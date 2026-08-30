@@ -1,0 +1,217 @@
+{
+  "id": "mat_12",
+  "name": "Vectors & 3D Geometry",
+  "order": 12,
+  "subchapters": [
+    {
+      "id": "mat_12_01",
+      "title": "Vectors",
+      "theory": "Vectors: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Vectors",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Vectors",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_12_01.svg",
+      "graph": "assets/mathematics/graphs/mat_12_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Vectors?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Vectors",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_12_02",
+      "title": "Dot product",
+      "theory": "Dot product: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Dot product",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Dot product",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_12_02.svg",
+      "graph": "assets/mathematics/graphs/mat_12_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Dot product?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Dot product",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_12_03",
+      "title": "Cross product",
+      "theory": "Cross product: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Cross product",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Cross product",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_12_03.svg",
+      "graph": "assets/mathematics/graphs/mat_12_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Cross product?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Cross product",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_12_04",
+      "title": "Lines",
+      "theory": "Lines: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Lines",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Lines",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_12_04.svg",
+      "graph": "assets/mathematics/graphs/mat_12_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Lines?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Lines",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_12_05",
+      "title": "Planes",
+      "theory": "Planes: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Planes",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Planes",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_12_05.svg",
+      "graph": "assets/mathematics/graphs/mat_12_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Planes?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Planes",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "mat_01",
+    "name": "Sets & Functions",
+    "file": "mat_01.json",
+    "subchapters": 6
+  },
+  {
+    "id": "mat_02",
+    "name": "Trigonometry",
+    "file": "mat_02.json",
+    "subchapters": 5
+  },
+  {
+    "id": "mat_03",
+    "name": "Complex Numbers",
+    "file": "mat_03.json",
+    "subchapters": 5
+  },
+  {
+    "id": "mat_04",
+    "name": "Quadratic Equations",
+    "file": "mat_04.json",
+    "subchapters": 4
+  },
+  {
+    "id": "mat_05",
+    "name": "Sequences & Series",
+    "file": "mat_05.json",
+    "subchapters": 5
+  },
+  {
+    "id": "mat_06",
+    "name": "Permutations & Combinations",
+    "file": "mat_06.json",
+    "subchapters": 4
+  },
+  {
+    "id": "mat_07",
+    "name": "Binomial Theorem",
+    "file": "mat_07.json",
+    "subchapters": 4
+  },
+  {
+    "id": "mat_08",
+    "name": "Coordinate Geometry",
+    "file": "mat_08.json",
+    "subchapters": 5
+  },
+  {
+    "id": "mat_09",
+    "name": "Limits & Continuity",
+    "file": "mat_09.json",
+    "subchapters": 3
+  },
+  {
+    "id": "mat_10",
+    "name": "Differentiation",
+    "file": "mat_10.json",
+    "subchapters": 5
+  },
+  {
+    "id": "mat_11",
+    "name": "Integral Calculus",
+    "file": "mat_11.json",
+    "subchapters": 4
+  },
+  {
+    "id": "mat_12",
+    "name": "Vectors & 3D Geometry",
+    "file": "mat_12.json",
+    "subchapters": 5
+  },
+  {
+    "id": "mat_13",
+    "name": "Probability",
+    "file": "mat_13.json",
+    "subchapters": 4
+  },
+  {
+    "id": "mat_14",
+    "name": "Statistics",
+    "file": "mat_14.json",
+    "subchapters": 4
+  }
+]

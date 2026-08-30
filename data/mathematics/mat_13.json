@@ -1,0 +1,175 @@
+{
+  "id": "mat_13",
+  "name": "Probability",
+  "order": 13,
+  "subchapters": [
+    {
+      "id": "mat_13_01",
+      "title": "Probability rules",
+      "theory": "Probability rules: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Probability rules",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Probability rules",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_13_01.svg",
+      "graph": "assets/mathematics/graphs/mat_13_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Probability rules?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Probability rules",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_13_02",
+      "title": "Conditional probability",
+      "theory": "Conditional probability: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Conditional probability",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Conditional probability",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_13_02.svg",
+      "graph": "assets/mathematics/graphs/mat_13_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Conditional probability?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Conditional probability",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_13_03",
+      "title": "Bayes theorem",
+      "theory": "Bayes theorem: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Bayes theorem",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Bayes theorem",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_13_03.svg",
+      "graph": "assets/mathematics/graphs/mat_13_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Bayes theorem?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Bayes theorem",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "mat_13_04",
+      "title": "Random variables",
+      "theory": "Random variables: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Random variables",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Random variables",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/mathematics/diagrams/mat_13_04.svg",
+      "graph": "assets/mathematics/graphs/mat_13_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Random variables?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Random variables",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}
