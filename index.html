@@ -1,1375 +1,1389 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>PCBM Learning Portal</title>
+    <title>PCBM V2 - NEET Study Portal</title>
 
-<style>
-*{
-    box-sizing:border-box;
-}
+    <link rel="stylesheet" href="css/style.css">
 
-body{
-    margin:0;
-    font-family:Arial,Helvetica,sans-serif;
-    background:#f4f7fb;
-    color:#222;
-}
+    <style>
+        * {
+            box-sizing: border-box;
+        }
 
-header{
-    background:linear-gradient(135deg,#102a43,#17365d,#28598f);
-    color:white;
-    padding:35px 20px;
-    text-align:center;
-}
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background: #f4f7fb;
+            color: #172033;
+        }
 
-header h1{
-    margin:0;
-    font-size:38px;
-}
+        header {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: #111827;
+            color: white;
+            padding: 12px 20px;
+            display: flex;
+            align-items: center;
+            gap: 18px;
+            flex-wrap: wrap;
+        }
 
-header p{
-    font-size:18px;
-    margin:10px 0 0;
-}
+        .logo {
+            font-size: 25px;
+            font-weight: bold;
+            white-space: nowrap;
+        }
 
-.container{
-    max-width:1150px;
-    margin:30px auto;
-    padding:20px;
-}
+        .subtitle {
+            opacity: .75;
+        }
 
-.page-title{
-    text-align:center;
-    margin-bottom:25px;
-}
+        #search {
+            margin-left: auto;
+            width: min(420px, 90vw);
+            padding: 11px 14px;
+            border-radius: 8px;
+            border: 1px solid #374151;
+            outline: none;
+        }
 
-.subject-grid,
-.chapter-grid,
-.mode-grid{
-    display:grid;
-    grid-template-columns:repeat(auto-fit,minmax(230px,1fr));
-    gap:20px;
-}
+        .container {
+            max-width: 1250px;
+            margin: auto;
+            padding: 25px 18px;
+        }
 
-.card{
-    background:white;
-    border-radius:15px;
-    padding:25px;
-    text-align:center;
-    box-shadow:0 4px 15px rgba(0,0,0,.10);
-    cursor:pointer;
-    transition:.25s;
-}
+        .home-title {
+            text-align: center;
+            margin-bottom: 30px;
+        }
 
-.card:hover{
-    transform:translateY(-5px);
-    box-shadow:0 8px 22px rgba(0,0,0,.16);
-}
+        .home-title h1 {
+            font-size: 34px;
+            margin-bottom: 8px;
+        }
 
-.subject-icon{
-    font-size:55px;
-}
+        .subjects {
+            display: grid;
+            grid-template-columns:
+                repeat(auto-fit, minmax(220px, 1fr));
+            gap: 18px;
+            margin-bottom: 30px;
+        }
 
-.card h2{
-    margin:12px 0;
-}
+        .subject {
+            border: none;
+            border-radius: 14px;
+            padding: 22px;
+            background: white;
+            box-shadow: 0 3px 15px rgba(0,0,0,.08);
+            cursor: pointer;
+            font-size: 18px;
+            font-weight: bold;
+            transition: .2s;
+        }
 
-.card p{
-    color:#666;
-    line-height:1.5;
-}
+        .subject:hover {
+            transform: translateY(-3px);
+        }
 
-.physics{
-    border-top:5px solid #1976d2;
-}
+        .chapter-grid {
+            display: grid;
+            grid-template-columns:
+                repeat(auto-fit, minmax(280px, 1fr));
+            gap: 16px;
+        }
 
-.chemistry{
-    border-top:5px solid #e53935;
-}
+        .chapter {
+            background: white;
+            border: 1px solid #e5e7eb;
+            border-radius: 12px;
+            padding: 18px;
+            cursor: pointer;
+            transition: .2s;
+        }
 
-.biology{
-    border-top:5px solid #43a047;
-}
+        .chapter:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(0,0,0,.08);
+        }
 
-.maths{
-    border-top:5px solid #8e24aa;
-}
+        .chapter h3 {
+            margin-top: 0;
+        }
 
-.chapter-card{
-    text-align:left;
-}
+        .topic-grid {
+            display: grid;
+            grid-template-columns:
+                repeat(auto-fit, minmax(280px, 1fr));
+            gap: 14px;
+        }
 
-.chapter-number{
-    display:inline-block;
-    background:#17365d;
-    color:white;
-    padding:6px 10px;
-    border-radius:20px;
-    font-size:13px;
-}
+        .topic {
+            background: white;
+            border: 1px solid #e5e7eb;
+            border-radius: 12px;
+            padding: 17px;
+            cursor: pointer;
+        }
 
-.mode-card{
-    text-align:center;
-}
+        .topic:hover {
+            box-shadow: 0 6px 20px rgba(0,0,0,.08);
+        }
 
-.mode-icon{
-    font-size:40px;
-}
+        .tabs {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            margin: 20px 0;
+        }
 
-.content-box{
-    background:white;
-    padding:30px;
-    border-radius:15px;
-    box-shadow:0 4px 15px rgba(0,0,0,.10);
-    line-height:1.7;
-}
+        .tabs button,
+        .back-button {
+            border: 1px solid #d1d5db;
+            background: white;
+            border-radius: 8px;
+            padding: 10px 14px;
+            cursor: pointer;
+        }
 
-.content-box h2{
-    color:#17365d;
-}
+        .tabs button:hover,
+        .back-button:hover {
+            background: #eef2ff;
+        }
 
-.content-box h3{
-    color:#28598f;
-}
+        .content {
+            background: white;
+            border-radius: 14px;
+            padding: 25px;
+            line-height: 1.7;
+            box-shadow: 0 3px 15px rgba(0,0,0,.05);
+        }
 
-.content-box li{
-    margin:8px 0;
-}
+        .formula {
+            background: #f3f4f6;
+            border-left: 5px solid #374151;
+            padding: 14px;
+            margin: 12px 0;
+            border-radius: 6px;
+        }
 
-.formula{
-    background:#eef5ff;
-    padding:15px;
-    margin:10px 0;
-    border-left:5px solid #1976d2;
-    border-radius:8px;
-    font-weight:bold;
-}
+        .formula-text {
+            font-family: "Courier New", monospace;
+            font-size: 18px;
+            margin-top: 7px;
+        }
 
-.question{
-    background:#fff;
-    padding:25px;
-    border-radius:15px;
-    box-shadow:0 3px 12px rgba(0,0,0,.1);
-    margin-bottom:20px;
-}
+        .example {
+            background: #f8fafc;
+            padding: 15px;
+            margin: 12px 0;
+            border-radius: 8px;
+        }
 
-.option{
-    display:block;
-    width:100%;
-    text-align:left;
-    margin:10px 0;
-    padding:14px;
-    background:#f1f4f8;
-    border:2px solid transparent;
-    border-radius:8px;
-    cursor:pointer;
-    font-size:16px;
-}
+        .derivation {
+            background: #fafafa;
+            border-left: 4px solid #6b7280;
+            padding: 15px;
+            margin: 10px 0;
+        }
 
-.option:hover{
-    border-color:#28598f;
-    background:#eaf2fb;
-}
+        .mcq {
+            margin-bottom: 28px;
+        }
 
-.correct{
-    background:#d4edda !important;
-    border-color:#28a745 !important;
-}
+        .option {
+            display: block;
+            width: 100%;
+            text-align: left;
+            padding: 11px;
+            margin: 7px 0;
+            border: 1px solid #d1d5db;
+            background: white;
+            border-radius: 7px;
+            cursor: pointer;
+        }
 
-.wrong{
-    background:#f8d7da !important;
-    border-color:#dc3545 !important;
-}
+        .option:hover {
+            background: #f3f4f6;
+        }
 
-.answer-box{
-    margin-top:15px;
-    padding:15px;
-    border-radius:8px;
-    background:#eef5ff;
-}
+        .answer {
+            margin-top: 10px;
+            padding: 12px;
+            border-radius: 7px;
+            background: #f3f4f6;
+        }
 
-button{
-    background:#17365d;
-    color:white;
-    border:none;
-    padding:12px 22px;
-    border-radius:8px;
-    cursor:pointer;
-    font-size:16px;
-    margin:5px;
-}
+        .visual {
+            max-width: 100%;
+            width: 100%;
+            max-height: 600px;
+            object-fit: contain;
+            border: 1px solid #e5e7eb;
+            border-radius: 10px;
+            background: white;
+        }
 
-button:hover{
-    background:#28598f;
-}
+        .error {
+            background: #fee2e2;
+            color: #991b1b;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
 
-.back{
-    text-align:center;
-    margin:25px 0;
-}
+        .loading {
+            padding: 30px;
+            text-align: center;
+            font-size: 18px;
+        }
 
-.search-box{
-    width:100%;
-    padding:15px;
-    border:2px solid #ddd;
-    border-radius:10px;
-    font-size:16px;
-    margin-bottom:25px;
-}
+        footer {
+            text-align: center;
+            padding: 30px;
+            color: #6b7280;
+        }
 
-.stats{
-    display:flex;
-    flex-wrap:wrap;
-    gap:15px;
-    justify-content:center;
-    margin:25px 0;
-}
+        @media (max-width: 700px) {
+            .subtitle {
+                display: none;
+            }
 
-.stat{
-    background:white;
-    padding:15px 25px;
-    border-radius:10px;
-    box-shadow:0 3px 10px rgba(0,0,0,.08);
-    text-align:center;
-}
+            #search {
+                margin-left: 0;
+                width: 100%;
+            }
 
-.stat strong{
-    display:block;
-    font-size:25px;
-    color:#17365d;
-}
+            .home-title h1 {
+                font-size: 27px;
+            }
 
-footer{
-    background:#17365d;
-    color:white;
-    text-align:center;
-    padding:25px;
-    margin-top:50px;
-}
-
-.hidden{
-    display:none;
-}
-
-@media(max-width:600px){
-
-    header h1{
-        font-size:30px;
-    }
-
-    .container{
-        padding:12px;
-    }
-
-    .card{
-        padding:20px;
-    }
-
-    .content-box{
-        padding:20px;
-    }
-}
-</style>
+            .content {
+                padding: 17px;
+            }
+        }
+    </style>
 </head>
 
 <body>
 
 <header>
-    <h1>📚 PCBM Learning Portal</h1>
-    <p>Physics • Chemistry • Biology • Mathematics</p>
+
+    <div class="logo">
+        📚 PCBM V2
+    </div>
+
+    <div class="subtitle">
+        NEET Complete Study Portal
+    </div>
+
+    <input
+        id="search"
+        type="search"
+        placeholder="Search Physics / Chemistry / Biology / Maths..."
+    >
+
 </header>
 
-<div class="container" id="app"></div>
+
+<main class="container">
+
+    <div id="app">
+
+        <div class="loading">
+            Loading PCBM V2...
+        </div>
+
+    </div>
+
+</main>
+
 
 <footer>
-    <p>PCBM Learning Portal © 2026</p>
-    <p>Learn • Practice • Improve • Succeed 🚀</p>
+    PCBM V2 • NEET Study Material
 </footer>
 
 
 <script>
 
-/* =========================================================
-   CHAPTER DATA
-========================================================= */
+const SUBJECTS = {
 
-const subjects = {
+    physics: "⚛ Physics",
 
-Physics:{
-    icon:"⚛️",
-    class:"physics",
-    description:"Theory • Concepts • Formulas • Numericals • MCQs",
-    chapters:[
-        "Units and Measurements",
-        "Motion in a Straight Line",
-        "Motion in a Plane",
-        "Laws of Motion",
-        "Work, Energy and Power",
-        "System of Particles and Rotational Motion",
-        "Gravitation",
-        "Mechanical Properties of Solids",
-        "Mechanical Properties of Fluids",
-        "Thermal Properties of Matter",
-        "Thermodynamics",
-        "Kinetic Theory",
-        "Oscillations",
-        "Waves",
-        "Electric Charges and Fields",
-        "Electrostatic Potential and Capacitance",
-        "Current Electricity",
-        "Moving Charges and Magnetism",
-        "Magnetism and Matter",
-        "Electromagnetic Induction",
-        "Alternating Current",
-        "Electromagnetic Waves",
-        "Ray Optics and Optical Instruments",
-        "Wave Optics",
-        "Dual Nature of Radiation and Matter",
-        "Atoms",
-        "Nuclei",
-        "Semiconductor Electronics"
-    ]
-},
+    chemistry: "🧪 Chemistry",
 
-Chemistry:{
-    icon:"🧪",
-    class:"chemistry",
-    description:"Physical • Organic • Inorganic • Reactions • MCQs",
-    chapters:[
-        "Some Basic Concepts of Chemistry",
-        "Structure of Atom",
-        "Classification of Elements",
-        "Chemical Bonding and Molecular Structure",
-        "Thermodynamics",
-        "Equilibrium",
-        "Redox Reactions",
-        "Organic Chemistry - Basic Principles",
-        "Hydrocarbons",
-        "Solutions",
-        "Electrochemistry",
-        "Chemical Kinetics",
-        "Surface Chemistry",
-        "General Principles of Metallurgy",
-        "p-Block Elements",
-        "d and f Block Elements",
-        "Coordination Compounds",
-        "Haloalkanes and Haloarenes",
-        "Alcohols, Phenols and Ethers",
-        "Aldehydes, Ketones and Carboxylic Acids",
-        "Amines",
-        "Biomolecules",
-        "Polymers",
-        "Chemistry in Everyday Life"
-    ]
-},
+    biology: "🧬 Biology",
 
-Biology:{
-    icon:"🧬",
-    class:"biology",
-    description:"Botany • Zoology • NCERT Points • Diagrams • MCQs",
-    chapters:[
-        "The Living World",
-        "Biological Classification",
-        "Plant Kingdom",
-        "Animal Kingdom",
-        "Morphology of Flowering Plants",
-        "Anatomy of Flowering Plants",
-        "Structural Organisation in Animals",
-        "Cell: The Unit of Life",
-        "Biomolecules",
-        "Cell Cycle and Cell Division",
-        "Transport in Plants",
-        "Mineral Nutrition",
-        "Photosynthesis in Plants",
-        "Respiration in Plants",
-        "Plant Growth and Development",
-        "Digestion and Absorption",
-        "Breathing and Exchange of Gases",
-        "Body Fluids and Circulation",
-        "Excretory Products and Elimination",
-        "Locomotion and Movement",
-        "Neural Control and Coordination",
-        "Chemical Coordination and Integration",
-        "Sexual Reproduction in Flowering Plants",
-        "Human Reproduction",
-        "Reproductive Health",
-        "Principles of Inheritance and Variation",
-        "Molecular Basis of Inheritance",
-        "Evolution",
-        "Human Health and Disease",
-        "Strategies for Enhancement in Food Production",
-        "Microbes in Human Welfare",
-        "Biotechnology: Principles and Processes",
-        "Biotechnology and its Applications",
-        "Organisms and Populations",
-        "Ecosystem",
-        "Biodiversity and Conservation",
-        "Environmental Issues"
-    ]
-},
-
-Mathematics:{
-    icon:"📐",
-    class:"maths",
-    description:"Theory • Formulas • Problems • Shortcuts • MCQs",
-    chapters:[
-        "Sets",
-        "Relations and Functions",
-        "Trigonometric Functions",
-        "Principle of Mathematical Induction",
-        "Complex Numbers",
-        "Linear Inequalities",
-        "Permutations and Combinations",
-        "Binomial Theorem",
-        "Sequences and Series",
-        "Straight Lines",
-        "Conic Sections",
-        "Introduction to Three Dimensional Geometry",
-        "Limits and Derivatives",
-        "Statistics",
-        "Probability",
-        "Relations and Functions",
-        "Inverse Trigonometric Functions",
-        "Matrices",
-        "Determinants",
-        "Continuity and Differentiability",
-        "Applications of Derivatives",
-        "Integrals",
-        "Applications of Integrals",
-        "Differential Equations",
-        "Vector Algebra",
-        "Three Dimensional Geometry",
-        "Linear Programming",
-        "Probability"
-    ]
-}
+    mathematics: "📐 Mathematics"
 
 };
 
 
-/* =========================================================
-   APPLICATION STATE
-========================================================= */
+let state = {
 
-let currentSubject = "";
-let currentChapter = "";
+    subject: null,
+
+    chapter: null,
+
+    topic: null,
+
+    data: null
+
+};
 
 
-/* =========================================================
+const app = document.getElementById("app");
+
+const search = document.getElementById("search");
+
+
+async function loadJSON(url) {
+
+    const response = await fetch(
+        url + "?v=" + Date.now()
+    );
+
+    if (!response.ok) {
+
+        throw new Error(
+            "Unable to load: " + url
+        );
+
+    }
+
+    return await response.json();
+
+}
+
+
+/* =========================
    HOME
-========================================================= */
+========================= */
 
-function showHome(){
+function showHome() {
 
-    let totalChapters = 0;
+    state = {
+        subject: null,
+        chapter: null,
+        topic: null,
+        data: null
+    };
 
-    Object.values(subjects).forEach(subject=>{
-        totalChapters += subject.chapters.length;
-    });
+    app.innerHTML = `
 
-    document.getElementById("app").innerHTML = `
+        <div class="home-title">
 
-        <div class="page-title">
-
-            <h2>🎓 Welcome to PCBM Learning Portal</h2>
+            <h1>
+                📚 PCBM V2
+            </h1>
 
             <p>
-                Select a subject to start learning.
+                Complete NEET Study Material
             </p>
 
         </div>
 
-        <div class="stats">
+        <div class="subjects">
 
-            <div class="stat">
-                <strong>4</strong>
-                Subjects
-            </div>
+            ${Object.entries(SUBJECTS)
+                .map(([key, name]) => `
 
-            <div class="stat">
-                <strong>${totalChapters}</strong>
-                Chapters
-            </div>
+                    <button
+                        class="subject"
+                        onclick="loadSubject('${key}')"
+                    >
 
-            <div class="stat">
-                <strong>∞</strong>
-                Practice
-            </div>
+                        ${name}
+
+                    </button>
+
+                `)
+                .join("")}
 
         </div>
 
-        <div class="subject-grid">
+    `;
 
-            ${Object.entries(subjects).map(([name,data])=>`
+}
 
-                <div class="card ${data.class}"
-                     onclick="showSubject('${name}')">
 
-                    <div class="subject-icon">
-                        ${data.icon}
+/* =========================
+   LOAD SUBJECT
+========================= */
+
+async function loadSubject(subject) {
+
+    try {
+
+        state.subject = subject;
+
+        app.innerHTML = `
+            <div class="loading">
+                Loading ${SUBJECTS[subject]}...
+            </div>
+        `;
+
+        const chapters =
+            await loadJSON(
+                `data/${subject}/chapters.json`
+            );
+
+
+        app.innerHTML = `
+
+            <button
+                class="back-button"
+                onclick="showHome()"
+            >
+                ← Home
+            </button>
+
+            <h1>
+                ${SUBJECTS[subject]}
+            </h1>
+
+            <p>
+                Select a chapter
+            </p>
+
+            <div class="chapter-grid">
+
+                ${chapters.map((chapter, index) => `
+
+                    <div
+                        class="chapter"
+                        onclick="
+                            loadChapter(
+                                '${subject}',
+                                '${chapter.id}'
+                            )
+                        "
+                    >
+
+                        <h3>
+                            ${index + 1}.
+                            ${chapter.name}
+                        </h3>
+
+                        <p>
+                            ${chapter.subchapters || 0}
+                            subchapters
+                        </p>
+
                     </div>
 
-                    <h2>${name}</h2>
+                `).join("")}
 
-                    <p>${data.description}</p>
+            </div>
 
-                    <p>
-                        <strong>
-                            ${data.chapters.length} Chapters
-                        </strong>
-                    </p>
+        `;
 
-                </div>
+    }
 
-            `).join("")}
+    catch(error) {
 
-        </div>
+        showError(error);
 
-        <div class="content-box" style="margin-top:30px;">
+    }
 
-            <h2>📚 What you can study</h2>
-
-            <ul>
-                <li>📖 Chapter-wise Theory</li>
-                <li>📌 Important Concepts</li>
-                <li>📐 Formula Sheets</li>
-                <li>💡 Solved Examples</li>
-                <li>❓ MCQs</li>
-                <li>🧠 Common Mistakes</li>
-                <li>🎯 Chapter Tests</li>
-            </ul>
-
-        </div>
-    `;
 }
 
 
-/* =========================================================
-   SUBJECT PAGE
-========================================================= */
+/* =========================
+   LOAD CHAPTER
+========================= */
 
-function showSubject(subject){
+async function loadChapter(subject, chapterId) {
 
-    currentSubject = subject;
+    try {
 
-    const data = subjects[subject];
+        app.innerHTML = `
+            <div class="loading">
+                Loading chapter...
+            </div>
+        `;
 
-    document.getElementById("app").innerHTML = `
 
-        <div class="page-title">
+        const data =
+            await loadJSON(
+                `data/${subject}/${chapterId}.json`
+            );
 
-            <h2>
-                ${data.icon} ${subject}
-            </h2>
 
-            <p>${data.description}</p>
+        state.subject = subject;
+
+        state.chapter = chapterId;
+
+        state.data = data;
+
+
+        const topics =
+            Array.isArray(data.subchapters)
+            ? data.subchapters
+            : [];
+
+
+        app.innerHTML = `
+
+            <button
+                class="back-button"
+                onclick="loadSubject('${subject}')"
+            >
+                ← Chapters
+            </button>
+
+            <h1>
+                ${escapeHTML(data.name || chapterId)}
+            </h1>
+
+            <p>
+                Select a subchapter
+            </p>
+
+            <div class="topic-grid">
+
+                ${topics.map((topic, index) => `
+
+                    <div
+                        class="topic"
+                        onclick="loadTopic(${index})"
+                    >
+
+                        <b>
+                            ${index + 1}.
+                            ${escapeHTML(topic.title || "Topic")}
+                        </b>
+
+                        <br>
+
+                        <small>
+                            Theory • Formula •
+                            Derivation • Example •
+                            Graph • Diagram •
+                            MCQ • Revision
+                        </small>
+
+                    </div>
+
+                `).join("")}
+
+            </div>
+
+        `;
+
+    }
+
+    catch(error) {
+
+        showError(error);
+
+    }
+
+}
+
+
+/* =========================
+   LOAD TOPIC
+========================= */
+
+function loadTopic(index) {
+
+    state.topic = index;
+
+    const topic =
+        state.data.subchapters[index];
+
+
+    app.innerHTML = `
+
+        <button
+            class="back-button"
+            onclick="
+                loadChapter(
+                    state.subject,
+                    state.chapter
+                )
+            "
+        >
+            ← Subchapters
+        </button>
+
+        <h1>
+            ${escapeHTML(topic.title)}
+        </h1>
+
+
+        <div class="tabs">
+
+            <button onclick="renderTab('Theory')">
+                📖 Theory
+            </button>
+
+            <button onclick="renderTab('Key Points')">
+                📌 Key Points
+            </button>
+
+            <button onclick="renderTab('Formula')">
+                📐 Formula
+            </button>
+
+            <button onclick="renderTab('Derivation')">
+                🧮 Derivation
+            </button>
+
+            <button onclick="renderTab('Examples')">
+                💡 Examples
+            </button>
+
+            <button onclick="renderTab('Graph')">
+                📊 Graph
+            </button>
+
+            <button onclick="renderTab('Diagram')">
+                🖼 Diagram
+            </button>
+
+            <button onclick="renderTab('MCQ')">
+                ❓ MCQ
+            </button>
+
+            <button onclick="renderTab('Quick Revision')">
+                ⚡ Quick Revision
+            </button>
 
         </div>
 
-        <input
-            class="search-box"
-            id="chapterSearch"
-            placeholder="🔍 Search chapter..."
-            oninput="filterChapters()"
+
+        <div
+            id="content"
+            class="content"
+        ></div>
+
+    `;
+
+
+    renderTab("Theory");
+
+}
+
+
+/* =========================
+   RENDER CONTENT
+========================= */
+
+function renderTab(tab) {
+
+    const topic =
+        state.data.subchapters[state.topic];
+
+    const content =
+        document.getElementById("content");
+
+
+    /* THEORY */
+
+    if (tab === "Theory") {
+
+        content.innerHTML = `
+
+            <h2>📖 Theory</h2>
+
+            <p>
+                ${formatText(
+                    topic.theory ||
+                    "Study material is not available yet."
+                )}
+            </p>
+
+        `;
+
+    }
+
+
+    /* KEY POINTS */
+
+    else if (tab === "Key Points") {
+
+        content.innerHTML = `
+
+            <h2>📌 Key Points</h2>
+
+            ${
+                createList(
+                    topic.key_points
+                )
+            }
+
+        `;
+
+    }
+
+
+    /* FORMULA */
+
+    else if (tab === "Formula") {
+
+        const formulas =
+            topic.formulas || [];
+
+
+        content.innerHTML = `
+
+            <h2>📐 Formula Sheet</h2>
+
+            ${
+                formulas.length
+                ?
+                formulas.map(formula => `
+
+                    <div class="formula">
+
+                        <b>
+                            ${escapeHTML(
+                                formula.name || "Formula"
+                            )}
+                        </b>
+
+                        <div class="formula-text">
+
+                            ${escapeHTML(
+                                formula.formula || ""
+                            )}
+
+                        </div>
+
+                        <small>
+
+                            Unit:
+                            ${escapeHTML(
+                                formula.unit || "-"
+                            )}
+
+                        </small>
+
+                    </div>
+
+                `).join("")
+                :
+                "<p>No formulas added yet.</p>"
+            }
+
+        `;
+
+    }
+
+
+    /* DERIVATION */
+
+    else if (tab === "Derivation") {
+
+        const derivations =
+            topic.derivations || [];
+
+
+        content.innerHTML = `
+
+            <h2>🧮 Derivation</h2>
+
+            ${
+                derivations.length
+                ?
+                derivations.map((step, i) => `
+
+                    <div class="derivation">
+
+                        <b>
+                            Step ${i + 1}
+                        </b>
+
+                        <p>
+                            ${formatText(step)}
+                        </p>
+
+                    </div>
+
+                `).join("")
+                :
+                `
+                <p>
+                    No derivation has been added
+                    to this topic yet.
+                </p>
+                `
+            }
+
+        `;
+
+    }
+
+
+    /* EXAMPLES */
+
+    else if (tab === "Examples") {
+
+        const examples =
+            topic.examples || [];
+
+
+        content.innerHTML = `
+
+            <h2>💡 Solved Examples</h2>
+
+            ${
+                examples.length
+                ?
+                examples.map(example => `
+
+                    <div class="example">
+
+                        <h3>
+                            ${escapeHTML(
+                                example.question || ""
+                            )}
+                        </h3>
+
+                        <p>
+                            ${formatText(
+                                example.solution || ""
+                            )}
+                        </p>
+
+                    </div>
+
+                `).join("")
+                :
+                "<p>No solved examples available.</p>"
+            }
+
+        `;
+
+    }
+
+
+    /* GRAPH */
+
+    else if (tab === "Graph") {
+
+        const path =
+            normaliseAssetPath(topic.graph);
+
+
+        content.innerHTML = `
+
+            <h2>📊 Graph</h2>
+
+            ${
+                path
+                ?
+                `
+                <img
+                    class="visual"
+                    src="${path}"
+                    alt="Physics graph"
+                    onerror="
+                        this.parentElement.innerHTML =
+                        '<div class=error>Graph file not found:<br>${path}</div>'
+                    "
+                >
+                `
+                :
+                `
+                <div class="error">
+                    No graph assigned to this topic.
+                </div>
+                `
+            }
+
+        `;
+
+    }
+
+
+    /* DIAGRAM */
+
+    else if (tab === "Diagram") {
+
+        const path =
+            normaliseAssetPath(topic.diagram);
+
+
+        content.innerHTML = `
+
+            <h2>🖼 Diagram</h2>
+
+            ${
+                path
+                ?
+                `
+                <img
+                    class="visual"
+                    src="${path}"
+                    alt="Physics diagram"
+                    onerror="
+                        this.parentElement.innerHTML =
+                        '<div class=error>Diagram file not found:<br>${path}</div>'
+                    "
+                >
+                `
+                :
+                `
+                <div class="error">
+                    No diagram assigned to this topic.
+                </div>
+                `
+            }
+
+        `;
+
+    }
+
+
+    /* MCQ */
+
+    else if (tab === "MCQ") {
+
+        const questions =
+            topic.mcqs || [];
+
+
+        content.innerHTML = `
+
+            <h2>❓ NEET MCQs</h2>
+
+            ${
+                questions.length
+                ?
+                questions.map(
+                    (question, qIndex) =>
+                        createMCQ(question, qIndex)
+                ).join("")
+                :
+                "<p>No MCQs available.</p>"
+            }
+
+        `;
+
+    }
+
+
+    /* QUICK REVISION */
+
+    else if (tab === "Quick Revision") {
+
+        const revision =
+            topic.revision ||
+            topic.quick_revision ||
+            [];
+
+
+        content.innerHTML = `
+
+            <h2>⚡ Quick Revision</h2>
+
+            ${
+                createList(revision)
+            }
+
+        `;
+
+    }
+
+}
+
+
+/* =========================
+   MCQ
+========================= */
+
+function createMCQ(question, qIndex) {
+
+    const questionText =
+        question.q ||
+        question.question ||
+        "Question";
+
+
+    const options =
+        question.options || [];
+
+
+    const answer =
+        Number.isInteger(question.answer)
+        ? question.answer
+        : 0;
+
+
+    return `
+
+        <div
+            class="mcq"
+            id="mcq-${qIndex}"
         >
 
-        <div class="chapter-grid" id="chapterGrid">
+            <h3>
+                Q${qIndex + 1}.
+                ${escapeHTML(questionText)}
+            </h3>
 
-            ${data.chapters.map((chapter,index)=>`
 
-                <div
-                    class="card chapter-card"
-                    data-name="${chapter.toLowerCase()}"
-                    onclick="showChapter('${escapeQuotes(chapter)}')">
-
-                    <span class="chapter-number">
-                        Chapter ${index+1}
-                    </span>
-
-                    <h2>${chapter}</h2>
-
-                    <p>
-                        📖 Theory &nbsp;
-                        ❓ MCQ &nbsp;
-                        📌 Notes
-                    </p>
-
-                </div>
-
-            `).join("")}
-
-        </div>
-
-        <div class="back">
-
-            <button onclick="showHome()">
-                ← Back to Subjects
-            </button>
-
-        </div>
-    `;
-}
-
-
-/* =========================================================
-   SEARCH
-========================================================= */
-
-function filterChapters(){
-
-    const search =
-        document.getElementById("chapterSearch")
-        .value
-        .toLowerCase();
-
-    document.querySelectorAll(".chapter-card")
-        .forEach(card=>{
-
-            card.style.display =
-                card.dataset.name.includes(search)
-                ? "block"
-                : "none";
-
-        });
-}
-
-
-/* =========================================================
-   CHAPTER PAGE
-========================================================= */
-
-function showChapter(chapter){
-
-    currentChapter = chapter;
-
-    const data = subjects[currentSubject];
-
-    document.getElementById("app").innerHTML = `
-
-        <div class="page-title">
-
-            <h2>
-                ${data.icon} ${chapter}
-            </h2>
-
-            <p>
-                ${currentSubject} • Chapter Study Center
-            </p>
-
-        </div>
-
-        <div class="mode-grid">
-
-            <div class="card mode-card"
-                 onclick="showTheory()">
-
-                <div class="mode-icon">📖</div>
-
-                <h2>Theory</h2>
-
-                <p>
-                    Learn the important concepts
-                    step-by-step.
-                </p>
-
-            </div>
-
-
-            <div class="card mode-card"
-                 onclick="showImportant()">
-
-                <div class="mode-icon">📌</div>
-
-                <h2>Important Points</h2>
-
-                <p>
-                    Quick revision points.
-                </p>
-
-            </div>
-
-
-            <div class="card mode-card"
-                 onclick="showFormula()">
-
-                <div class="mode-icon">📐</div>
-
-                <h2>Formula / Reactions</h2>
-
-                <p>
-                    Important formulas and reactions.
-                </p>
-
-            </div>
-
-
-            <div class="card mode-card"
-                 onclick="showExamples()">
-
-                <div class="mode-icon">💡</div>
-
-                <h2>Examples</h2>
-
-                <p>
-                    Solved questions and examples.
-                </p>
-
-            </div>
-
-
-            <div class="card mode-card"
-                 onclick="showMCQ()">
-
-                <div class="mode-icon">❓</div>
-
-                <h2>MCQs</h2>
-
-                <p>
-                    Practice multiple-choice questions.
-                </p>
-
-            </div>
-
-
-            <div class="card mode-card"
-                 onclick="showConceptTrap()">
-
-                <div class="mode-icon">🧠</div>
-
-                <h2>Concept Traps</h2>
-
-                <p>
-                    Avoid common mistakes.
-                </p>
-
-            </div>
-
-
-            <div class="card mode-card"
-                 onclick="showTest()">
-
-                <div class="mode-icon">🎯</div>
-
-                <h2>Chapter Test</h2>
-
-                <p>
-                    Test yourself.
-                </p>
-
-            </div>
-
-        </div>
-
-        <div class="back">
-
-            <button onclick="showSubject(currentSubject)">
-                ← Back to ${currentSubject}
-            </button>
-
-        </div>
-    `;
-}
-
-
-/* =========================================================
-   THEORY
-========================================================= */
-
-function showTheory(){
-
-    document.getElementById("app").innerHTML = `
-
-        <div class="content-box">
-
-            <h2>
-                📖 ${currentChapter} — Theory
-            </h2>
-
-            <h3>Introduction</h3>
-
-            <p>
-                This section is for the complete theory of
-                <strong>${currentChapter}</strong>.
-            </p>
-
-            <h3>Key Concepts</h3>
-
-            <ul>
-                <li>Understand the basic definitions.</li>
-                <li>Learn the fundamental concepts.</li>
-                <li>Study important principles.</li>
-                <li>Understand applications.</li>
-                <li>Practice questions after learning.</li>
-            </ul>
-
-            <h3>Study Strategy</h3>
-
-            <p>
-                Read the concept carefully, make short notes,
-                learn important formulas and then solve
-                practice questions.
-            </p>
-
-        </div>
-
-        ${backToChapter()}
-    `;
-}
-
-
-/* =========================================================
-   IMPORTANT POINTS
-========================================================= */
-
-function showImportant(){
-
-    document.getElementById("app").innerHTML = `
-
-        <div class="content-box">
-
-            <h2>
-                📌 ${currentChapter} — Important Points
-            </h2>
-
-            <ul>
-                <li>Know all important definitions.</li>
-                <li>Remember important laws and principles.</li>
-                <li>Understand the units and dimensions where applicable.</li>
-                <li>Revise diagrams and important processes.</li>
-                <li>Practice numerical/application-based questions.</li>
-                <li>Review previous questions before the test.</li>
-            </ul>
-
-            <h3>⭐ Quick Revision</h3>
-
-            <p>
-                Use this section for last-minute revision
-                before solving MCQs or taking a chapter test.
-            </p>
-
-        </div>
-
-        ${backToChapter()}
-    `;
-}
-
-
-/* =========================================================
-   FORMULAS
-========================================================= */
-
-function showFormula(){
-
-    let content = "";
-
-    if(currentSubject === "Physics"){
-
-        content = `
-
-            <div class="formula">
-                v = u + at
-            </div>
-
-            <div class="formula">
-                s = ut + ½at²
-            </div>
-
-            <div class="formula">
-                v² = u² + 2as
-            </div>
-
-            <div class="formula">
-                F = ma
-            </div>
-
-            <div class="formula">
-                W = F × s × cosθ
-            </div>
-
-        `;
-
-    }
-    else if(currentSubject === "Chemistry"){
-
-        content = `
-
-            <div class="formula">
-                Number of moles = Given mass / Molar mass
-            </div>
-
-            <div class="formula">
-                Molarity = Moles of solute / Volume in litres
-            </div>
-
-            <div class="formula">
-                pH = -log[H⁺]
-            </div>
-
-            <div class="formula">
-                ΔG = ΔH - TΔS
-            </div>
-
-        `;
-
-    }
-    else if(currentSubject === "Mathematics"){
-
-        content = `
-
-            <div class="formula">
-                (a+b)² = a² + 2ab + b²
-            </div>
-
-            <div class="formula">
-                sin²θ + cos²θ = 1
-            </div>
-
-            <div class="formula">
-                d/dx (xⁿ) = nxⁿ⁻¹
-            </div>
-
-            <div class="formula">
-                ∫xⁿ dx = xⁿ⁺¹/(n+1) + C
-            </div>
-
-        `;
-
-    }
-    else{
-
-        content = `
-
-            <div class="formula">
-                Photosynthesis:
-                6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂
-            </div>
-
-            <div class="formula">
-                Genotype → Phenotype
-            </div>
-
-            <div class="formula">
-                DNA → RNA → Protein
-            </div>
-
-        `;
-    }
-
-    document.getElementById("app").innerHTML = `
-
-        <div class="content-box">
-
-            <h2>
-                📐 ${currentChapter}
-            </h2>
-
-            <h3>Important Formula / Reaction Sheet</h3>
-
-            ${content}
-
-            <p>
-                💡 More chapter-specific formulas can be
-                added here later.
-            </p>
-
-        </div>
-
-        ${backToChapter()}
-    `;
-}
-
-
-/* =========================================================
-   EXAMPLES
-========================================================= */
-
-function showExamples(){
-
-    document.getElementById("app").innerHTML = `
-
-        <div class="content-box">
-
-            <h2>
-                💡 ${currentChapter} — Solved Examples
-            </h2>
-
-            <h3>Example 1</h3>
-
-            <p>
-                A student should first identify the given
-                information, select the appropriate concept,
-                apply the formula and check the final answer.
-            </p>
-
-            <h3>Solution Method</h3>
-
-            <ol>
-                <li>Read the question carefully.</li>
-                <li>Write the given information.</li>
-                <li>Identify the required quantity.</li>
-                <li>Select the correct formula/concept.</li>
-                <li>Solve step-by-step.</li>
-                <li>Check the answer and units.</li>
-            </ol>
-
-            <h3>⭐ Practice</h3>
-
-            <p>
-                Add your own solved examples for this chapter
-                inside this section.
-            </p>
-
-        </div>
-
-        ${backToChapter()}
-    `;
-}
-
-
-/* =========================================================
-   MCQ
-========================================================= */
-
-function showMCQ(){
-
-    let question = getMCQ(currentSubject,currentChapter);
-
-    document.getElementById("app").innerHTML = `
-
-        <div class="question">
-
-            <h2>
-                ❓ ${currentChapter} — MCQ
-            </h2>
-
-            <h3>${question.q}</h3>
-
-            ${question.options.map((option,index)=>`
+            ${options.map((option, index) => `
 
                 <button
                     class="option"
-                    onclick="checkMCQ(this,${index},${question.answer})">
+                    onclick="
+                        checkMCQ(
+                            ${qIndex},
+                            ${index},
+                            ${answer}
+                        )
+                    "
+                >
 
-                    ${String.fromCharCode(65+index)}.
-                    ${option}
+                    ${String.fromCharCode(65 + index)}.
+                    ${escapeHTML(option)}
 
                 </button>
 
             `).join("")}
 
-            <div id="answerBox"></div>
+
+            <div
+                id="answer-${qIndex}"
+            ></div>
 
         </div>
 
-        ${backToChapter()}
     `;
+
 }
 
 
-/* =========================================================
-   SAMPLE MCQ DATABASE
-========================================================= */
-
-function getMCQ(subject,chapter){
-
-    if(subject === "Physics"){
-
-        return {
-            q:"A body has initial velocity 10 m/s and acceleration 2 m/s². What is its velocity after 5 seconds?",
-            options:[
-                "15 m/s",
-                "20 m/s",
-                "25 m/s",
-                "30 m/s"
-            ],
-            answer:1
-        };
-
-    }
-
-    if(subject === "Chemistry"){
-
-        return {
-            q:"What is the SI unit of amount of substance?",
-            options:[
-                "Gram",
-                "Kilogram",
-                "Mole",
-                "Litre"
-            ],
-            answer:2
-        };
-
-    }
-
-    if(subject === "Biology"){
-
-        return {
-            q:"The basic structural and functional unit of life is:",
-            options:[
-                "Tissue",
-                "Cell",
-                "Organ",
-                "Organ system"
-            ],
-            answer:1
-        };
-
-    }
-
-    return {
-        q:"What is the derivative of x²?",
-        options:[
-            "x",
-            "2x",
-            "x²",
-            "2"
-        ],
-        answer:1
-    };
-}
-
-
-/* =========================================================
+/* =========================
    CHECK MCQ
-========================================================= */
+========================= */
 
-function checkMCQ(button,selected,correct){
+function checkMCQ(
+    questionIndex,
+    selected,
+    correct
+) {
 
-    const buttons =
-        document.querySelectorAll(".option");
+    const question =
+        state.data.subchapters[state.topic]
+        .mcqs[questionIndex];
 
-    buttons.forEach(b=>{
-        b.disabled=true;
-    });
 
-    if(selected === correct){
+    const answerBox =
+        document.getElementById(
+            `answer-${questionIndex}`
+        );
 
-        button.classList.add("correct");
 
-        document.getElementById("answerBox").innerHTML = `
+    if (selected === correct) {
 
-            <div class="answer-box">
+        answerBox.innerHTML = `
 
-                <strong>✅ Correct!</strong>
+            <div class="answer">
 
+                ✅ <b>Correct!</b>
+
+                <br><br>
+
+                ${
+                    escapeHTML(
+                        question.explanation || ""
+                    )
+                }
+
+            </div>
+
+        `;
+
+    }
+
+    else {
+
+        answerBox.innerHTML = `
+
+            <div class="answer">
+
+                ❌ <b>Incorrect</b>
+
+                <br>
+
+                Correct answer:
+                <b>
+                    ${String.fromCharCode(65 + correct)}
+                </b>
+
+                <br><br>
+
+                ${
+                    escapeHTML(
+                        question.explanation || ""
+                    )
+                }
+
+            </div>
+
+        `;
+
+    }
+
+}
+
+
+/* =========================
+   SEARCH
+========================= */
+
+search.addEventListener(
+    "input",
+    async function(event) {
+
+        const query =
+            event.target.value
+            .trim()
+            .toLowerCase();
+
+
+        if (!query) {
+
+            showHome();
+
+            return;
+
+        }
+
+
+        const results = [];
+
+
+        for (
+            const subject of Object.keys(SUBJECTS)
+        ) {
+
+            try {
+
+                const chapters =
+                    await loadJSON(
+                        `data/${subject}/chapters.json`
+                    );
+
+
+                chapters.forEach(chapter => {
+
+                    if (
+                        chapter.name
+                        .toLowerCase()
+                        .includes(query)
+                    ) {
+
+                        results.push({
+                            subject,
+                            chapter
+                        });
+
+                    }
+
+                });
+
+            }
+
+            catch(error) {
+
+                console.error(error);
+
+            }
+
+        }
+
+
+        app.innerHTML = `
+
+            <button
+                class="back-button"
+                onclick="showHome()"
+            >
+                ← Home
+            </button>
+
+            <h1>
+                🔎 Search Results
+            </h1>
+
+            ${
+                results.length
+                ?
+                `
+                <div class="chapter-grid">
+
+                    ${results.map(result => `
+
+                        <div
+                            class="chapter"
+                            onclick="
+                                loadChapter(
+                                    '${result.subject}',
+                                    '${result.chapter.id}'
+                                )
+                            "
+                        >
+
+                            <b>
+                                ${SUBJECTS[result.subject]}
+                            </b>
+
+                            <h3>
+                                ${escapeHTML(
+                                    result.chapter.name
+                                )}
+                            </h3>
+
+                        </div>
+
+                    `).join("")}
+
+                </div>
+                `
+                :
+                `
                 <p>
-                    Excellent. You selected the correct answer.
+                    No chapter found.
                 </p>
-
-            </div>
+                `
+            }
 
         `;
 
     }
-    else{
+);
 
-        button.classList.add("wrong");
 
-        buttons[correct].classList.add("correct");
+/* =========================
+   HELPERS
+========================= */
 
-        document.getElementById("answerBox").innerHTML = `
+function createList(items) {
 
-            <div class="answer-box">
+    if (!Array.isArray(items) || items.length === 0) {
 
-                <strong>❌ Incorrect</strong>
+        return "<p>No information available.</p>";
 
-                <p>
-                    The correct answer is
-                    <strong>
-                        ${buttons[correct].innerText}
-                    </strong>.
-                </p>
-
-            </div>
-
-        `;
     }
-}
 
-
-/* =========================================================
-   CONCEPT TRAPS
-========================================================= */
-
-function showConceptTrap(){
-
-    document.getElementById("app").innerHTML = `
-
-        <div class="content-box">
-
-            <h2>
-                🧠 ${currentChapter} — Concept Traps
-            </h2>
-
-            <h3>⚠️ Common Mistakes</h3>
-
-            <ul>
-                <li>Do not memorize without understanding.</li>
-                <li>Always check units in numerical questions.</li>
-                <li>Read every option carefully in MCQs.</li>
-                <li>Do not ignore negative signs.</li>
-                <li>Revise exceptions separately.</li>
-                <li>Understand diagrams and graphs where applicable.</li>
-            </ul>
-
-            <h3>🎯 Exam Tip</h3>
-
-            <p>
-                Questions often test concepts rather than
-                direct memorization. Focus on understanding
-                why an answer is correct.
-            </p>
-
-        </div>
-
-        ${backToChapter()}
-    `;
-}
-
-
-/* =========================================================
-   TEST
-========================================================= */
-
-function showTest(){
-
-    document.getElementById("app").innerHTML = `
-
-        <div class="question">
-
-            <h2>
-                🎯 ${currentChapter} — Chapter Test
-            </h2>
-
-            <p>
-                Test mode will contain multiple questions
-                from this chapter.
-            </p>
-
-            <hr>
-
-            <h3>
-                Question 1
-            </h3>
-
-            <p>
-                Which is the best approach when solving a
-                chapter-based question?
-            </p>
-
-            <button class="option"
-                onclick="testAnswer(this,true)">
-                A. Guess immediately
-            </button>
-
-            <button class="option"
-                onclick="testAnswer(this,false)">
-                B. Identify the concept first
-            </button>
-
-            <button class="option"
-                onclick="testAnswer(this,false)">
-                C. Skip all information
-            </button>
-
-            <button class="option"
-                onclick="testAnswer(this,false)">
-                D. Ignore units
-            </button>
-
-            <div id="testResult"></div>
-
-        </div>
-
-        ${backToChapter()}
-    `;
-}
-
-
-/* =========================================================
-   TEST ANSWER
-========================================================= */
-
-function testAnswer(button,correct){
-
-    const options =
-        document.querySelectorAll(".option");
-
-    options.forEach(b=>{
-        b.disabled=true;
-    });
-
-    if(correct){
-
-        button.classList.add("correct");
-
-        document.getElementById("testResult").innerHTML = `
-
-            <div class="answer-box">
-                ✅ Correct!
-            </div>
-
-        `;
-
-    }else{
-
-        button.classList.add("wrong");
-
-        document.getElementById("testResult").innerHTML = `
-
-            <div class="answer-box">
-                ❌ Incorrect. Review the chapter concepts.
-            </div>
-
-        `;
-    }
-}
-
-
-/* =========================================================
-   BACK BUTTON
-========================================================= */
-
-function backToChapter(){
 
     return `
 
-        <div class="back">
+        <ul>
 
-            <button onclick="showChapter(currentChapter)">
-                ← Back to Chapter
-            </button>
+            ${items.map(item => `
 
-            <button onclick="showSubject(currentSubject)">
-                ← Back to Chapters
+                <li>
+                    ${formatText(item)}
+                </li>
+
+            `).join("")}
+
+        </ul>
+
+    `;
+
+}
+
+
+function formatText(text) {
+
+    if (text === undefined || text === null) {
+
+        return "";
+
+    }
+
+    return escapeHTML(
+        String(text)
+    )
+    .replace(/\n/g, "<br>");
+
+}
+
+
+function escapeHTML(value) {
+
+    return String(value ?? "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+
+}
+
+
+function normaliseAssetPath(path) {
+
+    if (!path) return "";
+
+    path = String(path).replace(/\\/g, "/");
+
+    if (path.startsWith("http://") ||
+        path.startsWith("https://")) {
+
+        return path;
+
+    }
+
+    path = path.replace(/^\.?\//, "");
+
+    return path;
+
+}
+
+
+function showError(error) {
+
+    console.error(error);
+
+    app.innerHTML = `
+
+        <div class="error">
+
+            <h2>
+                ⚠️ Unable to load content
+            </h2>
+
+            <p>
+                ${escapeHTML(error.message)}
+            </p>
+
+            <p>
+                Check that the JSON file exists
+                inside the repository.
+            </p>
+
+            <button
+                class="back-button"
+                onclick="showHome()"
+            >
+                ← Return Home
             </button>
 
         </div>
 
     `;
-}
-
-
-/* =========================================================
-   ESCAPE QUOTES
-========================================================= */
-
-function escapeQuotes(text){
-
-    return text
-        .replace(/\\/g,"\\\\")
-        .replace(/'/g,"\\'");
 
 }
 
 
-/* =========================================================
-   START APP
-========================================================= */
+/* =========================
+   START APPLICATION
+========================= */
 
 showHome();
 
