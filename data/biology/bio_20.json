@@ -1,0 +1,217 @@
+{
+  "id": "bio_20",
+  "name": "Human Reproduction",
+  "order": 20,
+  "subchapters": [
+    {
+      "id": "bio_20_01",
+      "title": "Male reproductive system",
+      "theory": "Male reproductive system: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Male reproductive system",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Male reproductive system",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_20_01.svg",
+      "graph": "assets/biology/graphs/bio_20_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Male reproductive system?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Male reproductive system",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_20_02",
+      "title": "Female reproductive system",
+      "theory": "Female reproductive system: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Female reproductive system",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Female reproductive system",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_20_02.svg",
+      "graph": "assets/biology/graphs/bio_20_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Female reproductive system?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Female reproductive system",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_20_03",
+      "title": "Gametogenesis",
+      "theory": "Gametogenesis: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Gametogenesis",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Gametogenesis",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_20_03.svg",
+      "graph": "assets/biology/graphs/bio_20_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Gametogenesis?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Gametogenesis",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_20_04",
+      "title": "Menstrual cycle",
+      "theory": "Menstrual cycle: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Menstrual cycle",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Menstrual cycle",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_20_04.svg",
+      "graph": "assets/biology/graphs/bio_20_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Menstrual cycle?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Menstrual cycle",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_20_05",
+      "title": "Fertilization",
+      "theory": "Fertilization: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Fertilization",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Fertilization",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_20_05.svg",
+      "graph": "assets/biology/graphs/bio_20_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Fertilization?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Fertilization",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

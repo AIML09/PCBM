@@ -1,0 +1,217 @@
+{
+  "id": "bio_10",
+  "name": "Photosynthesis",
+  "order": 10,
+  "subchapters": [
+    {
+      "id": "bio_10_01",
+      "title": "Light reaction",
+      "theory": "Light reaction: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Light reaction",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Light reaction",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_10_01.svg",
+      "graph": "assets/biology/graphs/bio_10_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Light reaction?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Light reaction",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_10_02",
+      "title": "Electron transport",
+      "theory": "Electron transport: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Electron transport",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Electron transport",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_10_02.svg",
+      "graph": "assets/biology/graphs/bio_10_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Electron transport?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Electron transport",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_10_03",
+      "title": "Photophosphorylation",
+      "theory": "Photophosphorylation: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Photophosphorylation",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Photophosphorylation",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_10_03.svg",
+      "graph": "assets/biology/graphs/bio_10_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Photophosphorylation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Photophosphorylation",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_10_04",
+      "title": "Calvin cycle",
+      "theory": "Calvin cycle: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Calvin cycle",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Calvin cycle",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_10_04.svg",
+      "graph": "assets/biology/graphs/bio_10_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Calvin cycle?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Calvin cycle",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_10_05",
+      "title": "Photorespiration",
+      "theory": "Photorespiration: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Photorespiration",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Photorespiration",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_10_05.svg",
+      "graph": "assets/biology/graphs/bio_10_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Photorespiration?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Photorespiration",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

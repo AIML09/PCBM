@@ -1,0 +1,133 @@
+{
+  "id": "bio_28",
+  "name": "Organisms & Populations",
+  "order": 28,
+  "subchapters": [
+    {
+      "id": "bio_28_01",
+      "title": "Population attributes",
+      "theory": "Population attributes: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Population attributes",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Population attributes",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_28_01.svg",
+      "graph": "assets/biology/graphs/bio_28_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Population attributes?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Population attributes",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_28_02",
+      "title": "Growth models",
+      "theory": "Growth models: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Growth models",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Growth models",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_28_02.svg",
+      "graph": "assets/biology/graphs/bio_28_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Growth models?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Growth models",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_28_03",
+      "title": "Interactions",
+      "theory": "Interactions: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Interactions",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Interactions",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_28_03.svg",
+      "graph": "assets/biology/graphs/bio_28_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Interactions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Interactions",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

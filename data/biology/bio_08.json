@@ -1,0 +1,217 @@
+{
+  "id": "bio_08",
+  "name": "Biomolecules",
+  "order": 8,
+  "subchapters": [
+    {
+      "id": "bio_08_01",
+      "title": "Carbohydrates",
+      "theory": "Carbohydrates: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Carbohydrates",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Carbohydrates",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_08_01.svg",
+      "graph": "assets/biology/graphs/bio_08_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Carbohydrates?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Carbohydrates",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_08_02",
+      "title": "Proteins",
+      "theory": "Proteins: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Proteins",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Proteins",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_08_02.svg",
+      "graph": "assets/biology/graphs/bio_08_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Proteins?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Proteins",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_08_03",
+      "title": "Lipids",
+      "theory": "Lipids: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Lipids",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Lipids",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_08_03.svg",
+      "graph": "assets/biology/graphs/bio_08_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Lipids?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Lipids",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_08_04",
+      "title": "Nucleic acids",
+      "theory": "Nucleic acids: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Nucleic acids",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Nucleic acids",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_08_04.svg",
+      "graph": "assets/biology/graphs/bio_08_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Nucleic acids?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Nucleic acids",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_08_05",
+      "title": "Enzymes",
+      "theory": "Enzymes: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Enzymes",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Enzymes",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_08_05.svg",
+      "graph": "assets/biology/graphs/bio_08_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Enzymes?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Enzymes",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

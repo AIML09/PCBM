@@ -1,0 +1,133 @@
+{
+  "id": "bio_19",
+  "name": "Chemical Coordination & Integration",
+  "order": 19,
+  "subchapters": [
+    {
+      "id": "bio_19_01",
+      "title": "Endocrine glands",
+      "theory": "Endocrine glands: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Endocrine glands",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Endocrine glands",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_19_01.svg",
+      "graph": "assets/biology/graphs/bio_19_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Endocrine glands?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Endocrine glands",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_19_02",
+      "title": "Hormones",
+      "theory": "Hormones: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Hormones",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Hormones",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_19_02.svg",
+      "graph": "assets/biology/graphs/bio_19_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Hormones?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Hormones",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_19_03",
+      "title": "Mechanisms of hormone action",
+      "theory": "Mechanisms of hormone action: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Mechanisms of hormone action",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Mechanisms of hormone action",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_19_03.svg",
+      "graph": "assets/biology/graphs/bio_19_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Mechanisms of hormone action?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Mechanisms of hormone action",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

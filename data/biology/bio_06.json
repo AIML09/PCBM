@@ -1,0 +1,175 @@
+{
+  "id": "bio_06",
+  "name": "Anatomy of Flowering Plants",
+  "order": 6,
+  "subchapters": [
+    {
+      "id": "bio_06_01",
+      "title": "Plant tissues",
+      "theory": "Plant tissues: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Plant tissues",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Plant tissues",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_06_01.svg",
+      "graph": "assets/biology/graphs/bio_06_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Plant tissues?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Plant tissues",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_06_02",
+      "title": "Root anatomy",
+      "theory": "Root anatomy: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Root anatomy",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Root anatomy",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_06_02.svg",
+      "graph": "assets/biology/graphs/bio_06_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Root anatomy?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Root anatomy",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_06_03",
+      "title": "Stem anatomy",
+      "theory": "Stem anatomy: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Stem anatomy",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Stem anatomy",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_06_03.svg",
+      "graph": "assets/biology/graphs/bio_06_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Stem anatomy?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Stem anatomy",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_06_04",
+      "title": "Leaf anatomy",
+      "theory": "Leaf anatomy: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Leaf anatomy",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Leaf anatomy",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_06_04.svg",
+      "graph": "assets/biology/graphs/bio_06_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Leaf anatomy?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Leaf anatomy",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

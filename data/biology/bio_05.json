@@ -1,0 +1,301 @@
+{
+  "id": "bio_05",
+  "name": "Morphology of Flowering Plants",
+  "order": 5,
+  "subchapters": [
+    {
+      "id": "bio_05_01",
+      "title": "Root",
+      "theory": "Root: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Root",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Root",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_05_01.svg",
+      "graph": "assets/biology/graphs/bio_05_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Root?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Root",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_05_02",
+      "title": "Stem",
+      "theory": "Stem: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Stem",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Stem",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_05_02.svg",
+      "graph": "assets/biology/graphs/bio_05_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Stem?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Stem",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_05_03",
+      "title": "Leaf",
+      "theory": "Leaf: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Leaf",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Leaf",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_05_03.svg",
+      "graph": "assets/biology/graphs/bio_05_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Leaf?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Leaf",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_05_04",
+      "title": "Inflorescence",
+      "theory": "Inflorescence: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Inflorescence",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Inflorescence",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_05_04.svg",
+      "graph": "assets/biology/graphs/bio_05_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Inflorescence?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Inflorescence",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_05_05",
+      "title": "Flower",
+      "theory": "Flower: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Flower",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Flower",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_05_05.svg",
+      "graph": "assets/biology/graphs/bio_05_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Flower?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Flower",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_05_06",
+      "title": "Fruit",
+      "theory": "Fruit: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Fruit",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Fruit",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_05_06.svg",
+      "graph": "assets/biology/graphs/bio_05_06.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Fruit?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Fruit",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_05_07",
+      "title": "Seed",
+      "theory": "Seed: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Seed",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Seed",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_05_07.svg",
+      "graph": "assets/biology/graphs/bio_05_07.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Seed?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Seed",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

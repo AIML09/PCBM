@@ -1,0 +1,175 @@
+{
+  "id": "bio_17",
+  "name": "Locomotion & Movement",
+  "order": 17,
+  "subchapters": [
+    {
+      "id": "bio_17_01",
+      "title": "Muscles",
+      "theory": "Muscles: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Muscles",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Muscles",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_17_01.svg",
+      "graph": "assets/biology/graphs/bio_17_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Muscles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Muscles",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_17_02",
+      "title": "Skeletal system",
+      "theory": "Skeletal system: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Skeletal system",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Skeletal system",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_17_02.svg",
+      "graph": "assets/biology/graphs/bio_17_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Skeletal system?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Skeletal system",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_17_03",
+      "title": "Muscle contraction",
+      "theory": "Muscle contraction: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Muscle contraction",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Muscle contraction",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_17_03.svg",
+      "graph": "assets/biology/graphs/bio_17_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Muscle contraction?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Muscle contraction",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_17_04",
+      "title": "Joints",
+      "theory": "Joints: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Joints",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Joints",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_17_04.svg",
+      "graph": "assets/biology/graphs/bio_17_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Joints?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Joints",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

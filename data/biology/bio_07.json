@@ -1,0 +1,217 @@
+{
+  "id": "bio_07",
+  "name": "Cell: Structure & Function",
+  "order": 7,
+  "subchapters": [
+    {
+      "id": "bio_07_01",
+      "title": "Cell theory",
+      "theory": "Cell theory: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Cell theory",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Cell theory",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_07_01.svg",
+      "graph": "assets/biology/graphs/bio_07_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Cell theory?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Cell theory",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_07_02",
+      "title": "Prokaryotic cell",
+      "theory": "Prokaryotic cell: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Prokaryotic cell",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Prokaryotic cell",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_07_02.svg",
+      "graph": "assets/biology/graphs/bio_07_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Prokaryotic cell?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Prokaryotic cell",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_07_03",
+      "title": "Eukaryotic cell",
+      "theory": "Eukaryotic cell: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Eukaryotic cell",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Eukaryotic cell",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_07_03.svg",
+      "graph": "assets/biology/graphs/bio_07_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Eukaryotic cell?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Eukaryotic cell",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_07_04",
+      "title": "Cell organelles",
+      "theory": "Cell organelles: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Cell organelles",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Cell organelles",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_07_04.svg",
+      "graph": "assets/biology/graphs/bio_07_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Cell organelles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Cell organelles",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_07_05",
+      "title": "Membrane transport",
+      "theory": "Membrane transport: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Membrane transport",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Membrane transport",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_07_05.svg",
+      "graph": "assets/biology/graphs/bio_07_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Membrane transport?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Membrane transport",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

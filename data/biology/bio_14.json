@@ -1,0 +1,175 @@
+{
+  "id": "bio_14",
+  "name": "Breathing & Exchange of Gases",
+  "order": 14,
+  "subchapters": [
+    {
+      "id": "bio_14_01",
+      "title": "Respiratory system",
+      "theory": "Respiratory system: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Respiratory system",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Respiratory system",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_14_01.svg",
+      "graph": "assets/biology/graphs/bio_14_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Respiratory system?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Respiratory system",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_14_02",
+      "title": "Mechanism of breathing",
+      "theory": "Mechanism of breathing: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Mechanism of breathing",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Mechanism of breathing",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_14_02.svg",
+      "graph": "assets/biology/graphs/bio_14_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Mechanism of breathing?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Mechanism of breathing",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_14_03",
+      "title": "Gas exchange",
+      "theory": "Gas exchange: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Gas exchange",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Gas exchange",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_14_03.svg",
+      "graph": "assets/biology/graphs/bio_14_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Gas exchange?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Gas exchange",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_14_04",
+      "title": "Transport of gases",
+      "theory": "Transport of gases: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Transport of gases",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Transport of gases",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_14_04.svg",
+      "graph": "assets/biology/graphs/bio_14_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Transport of gases?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Transport of gases",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

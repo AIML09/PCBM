@@ -1,0 +1,175 @@
+{
+  "id": "bio_13",
+  "name": "Human Digestion & Absorption",
+  "order": 13,
+  "subchapters": [
+    {
+      "id": "bio_13_01",
+      "title": "Digestive system",
+      "theory": "Digestive system: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Digestive system",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Digestive system",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_13_01.svg",
+      "graph": "assets/biology/graphs/bio_13_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Digestive system?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Digestive system",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_13_02",
+      "title": "Digestion",
+      "theory": "Digestion: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Digestion",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Digestion",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_13_02.svg",
+      "graph": "assets/biology/graphs/bio_13_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Digestion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Digestion",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_13_03",
+      "title": "Absorption",
+      "theory": "Absorption: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Absorption",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Absorption",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_13_03.svg",
+      "graph": "assets/biology/graphs/bio_13_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Absorption?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Absorption",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_13_04",
+      "title": "Disorders",
+      "theory": "Disorders: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Disorders",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Disorders",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_13_04.svg",
+      "graph": "assets/biology/graphs/bio_13_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Disorders?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Disorders",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

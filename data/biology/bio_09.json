@@ -1,0 +1,133 @@
+{
+  "id": "bio_09",
+  "name": "Cell Cycle & Cell Division",
+  "order": 9,
+  "subchapters": [
+    {
+      "id": "bio_09_01",
+      "title": "Cell cycle",
+      "theory": "Cell cycle: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Cell cycle",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Cell cycle",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_09_01.svg",
+      "graph": "assets/biology/graphs/bio_09_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Cell cycle?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Cell cycle",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_09_02",
+      "title": "Mitosis",
+      "theory": "Mitosis: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Mitosis",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Mitosis",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_09_02.svg",
+      "graph": "assets/biology/graphs/bio_09_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Mitosis?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Mitosis",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_09_03",
+      "title": "Meiosis",
+      "theory": "Meiosis: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Meiosis",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Meiosis",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_09_03.svg",
+      "graph": "assets/biology/graphs/bio_09_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Meiosis?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Meiosis",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

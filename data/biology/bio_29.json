@@ -1,0 +1,175 @@
+{
+  "id": "bio_29",
+  "name": "Ecosystem",
+  "order": 29,
+  "subchapters": [
+    {
+      "id": "bio_29_01",
+      "title": "Energy flow",
+      "theory": "Energy flow: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Energy flow",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Energy flow",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_29_01.svg",
+      "graph": "assets/biology/graphs/bio_29_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Energy flow?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Energy flow",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_29_02",
+      "title": "Food chains",
+      "theory": "Food chains: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Food chains",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Food chains",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_29_02.svg",
+      "graph": "assets/biology/graphs/bio_29_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Food chains?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Food chains",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_29_03",
+      "title": "Ecological pyramids",
+      "theory": "Ecological pyramids: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Ecological pyramids",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Ecological pyramids",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_29_03.svg",
+      "graph": "assets/biology/graphs/bio_29_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Ecological pyramids?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Ecological pyramids",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_29_04",
+      "title": "Nutrient cycles",
+      "theory": "Nutrient cycles: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Nutrient cycles",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Nutrient cycles",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_29_04.svg",
+      "graph": "assets/biology/graphs/bio_29_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Nutrient cycles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Nutrient cycles",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

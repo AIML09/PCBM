@@ -1,0 +1,259 @@
+{
+  "id": "bio_02",
+  "name": "Biological Classification",
+  "order": 2,
+  "subchapters": [
+    {
+      "id": "bio_02_01",
+      "title": "Five kingdom concept",
+      "theory": "Five kingdom concept: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Five kingdom concept",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Five kingdom concept",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_02_01.svg",
+      "graph": "assets/biology/graphs/bio_02_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Five kingdom concept?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Five kingdom concept",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_02_02",
+      "title": "Monera",
+      "theory": "Monera: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Monera",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Monera",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_02_02.svg",
+      "graph": "assets/biology/graphs/bio_02_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Monera?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Monera",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_02_03",
+      "title": "Protista",
+      "theory": "Protista: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Protista",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Protista",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_02_03.svg",
+      "graph": "assets/biology/graphs/bio_02_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Protista?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Protista",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_02_04",
+      "title": "Fungi",
+      "theory": "Fungi: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Fungi",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Fungi",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_02_04.svg",
+      "graph": "assets/biology/graphs/bio_02_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Fungi?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Fungi",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_02_05",
+      "title": "Plantae",
+      "theory": "Plantae: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Plantae",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Plantae",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_02_05.svg",
+      "graph": "assets/biology/graphs/bio_02_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Plantae?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Plantae",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_02_06",
+      "title": "Animalia",
+      "theory": "Animalia: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Animalia",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Animalia",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_02_06.svg",
+      "graph": "assets/biology/graphs/bio_02_06.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Animalia?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Animalia",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

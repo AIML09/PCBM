@@ -1,0 +1,217 @@
+{
+  "id": "bio_15",
+  "name": "Body Fluids & Circulation",
+  "order": 15,
+  "subchapters": [
+    {
+      "id": "bio_15_01",
+      "title": "Blood",
+      "theory": "Blood: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Blood",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Blood",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_15_01.svg",
+      "graph": "assets/biology/graphs/bio_15_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Blood?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Blood",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_15_02",
+      "title": "Heart",
+      "theory": "Heart: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Heart",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Heart",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_15_02.svg",
+      "graph": "assets/biology/graphs/bio_15_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Heart?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Heart",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_15_03",
+      "title": "Cardiac cycle",
+      "theory": "Cardiac cycle: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Cardiac cycle",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Cardiac cycle",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_15_03.svg",
+      "graph": "assets/biology/graphs/bio_15_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Cardiac cycle?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Cardiac cycle",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_15_04",
+      "title": "ECG",
+      "theory": "ECG: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of ECG",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on ECG",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_15_04.svg",
+      "graph": "assets/biology/graphs/bio_15_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes ECG?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: ECG",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_15_05",
+      "title": "Double circulation",
+      "theory": "Double circulation: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Double circulation",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Double circulation",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_15_05.svg",
+      "graph": "assets/biology/graphs/bio_15_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Double circulation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Double circulation",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

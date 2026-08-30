@@ -1,0 +1,175 @@
+{
+  "id": "bio_26",
+  "name": "Microbes in Human Welfare",
+  "order": 26,
+  "subchapters": [
+    {
+      "id": "bio_26_01",
+      "title": "Fermentation",
+      "theory": "Fermentation: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Fermentation",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Fermentation",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_26_01.svg",
+      "graph": "assets/biology/graphs/bio_26_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Fermentation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Fermentation",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_26_02",
+      "title": "Antibiotics",
+      "theory": "Antibiotics: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Antibiotics",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Antibiotics",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_26_02.svg",
+      "graph": "assets/biology/graphs/bio_26_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Antibiotics?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Antibiotics",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_26_03",
+      "title": "Sewage treatment",
+      "theory": "Sewage treatment: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Sewage treatment",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Sewage treatment",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_26_03.svg",
+      "graph": "assets/biology/graphs/bio_26_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Sewage treatment?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Sewage treatment",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_26_04",
+      "title": "Biofertilizers",
+      "theory": "Biofertilizers: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Biofertilizers",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Biofertilizers",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_26_04.svg",
+      "graph": "assets/biology/graphs/bio_26_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Biofertilizers?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Biofertilizers",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

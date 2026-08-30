@@ -1,0 +1,217 @@
+{
+  "id": "bio_23",
+  "name": "Molecular Basis of Inheritance",
+  "order": 23,
+  "subchapters": [
+    {
+      "id": "bio_23_01",
+      "title": "DNA",
+      "theory": "DNA: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of DNA",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on DNA",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_23_01.svg",
+      "graph": "assets/biology/graphs/bio_23_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes DNA?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: DNA",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_23_02",
+      "title": "Replication",
+      "theory": "Replication: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Replication",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Replication",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_23_02.svg",
+      "graph": "assets/biology/graphs/bio_23_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Replication?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Replication",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_23_03",
+      "title": "Transcription",
+      "theory": "Transcription: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Transcription",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Transcription",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_23_03.svg",
+      "graph": "assets/biology/graphs/bio_23_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Transcription?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Transcription",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_23_04",
+      "title": "Translation",
+      "theory": "Translation: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Translation",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Translation",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_23_04.svg",
+      "graph": "assets/biology/graphs/bio_23_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Translation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Translation",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_23_05",
+      "title": "Genetic code",
+      "theory": "Genetic code: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Genetic code",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Genetic code",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_23_05.svg",
+      "graph": "assets/biology/graphs/bio_23_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Genetic code?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Genetic code",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

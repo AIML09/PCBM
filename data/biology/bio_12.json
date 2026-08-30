@@ -1,0 +1,175 @@
+{
+  "id": "bio_12",
+  "name": "Plant Growth & Development",
+  "order": 12,
+  "subchapters": [
+    {
+      "id": "bio_12_01",
+      "title": "Plant hormones",
+      "theory": "Plant hormones: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Plant hormones",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Plant hormones",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_12_01.svg",
+      "graph": "assets/biology/graphs/bio_12_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Plant hormones?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Plant hormones",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_12_02",
+      "title": "Growth phases",
+      "theory": "Growth phases: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Growth phases",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Growth phases",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_12_02.svg",
+      "graph": "assets/biology/graphs/bio_12_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Growth phases?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Growth phases",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_12_03",
+      "title": "Photoperiodism",
+      "theory": "Photoperiodism: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Photoperiodism",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Photoperiodism",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_12_03.svg",
+      "graph": "assets/biology/graphs/bio_12_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Photoperiodism?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Photoperiodism",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_12_04",
+      "title": "Vernalization",
+      "theory": "Vernalization: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Vernalization",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Vernalization",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_12_04.svg",
+      "graph": "assets/biology/graphs/bio_12_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Vernalization?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Vernalization",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

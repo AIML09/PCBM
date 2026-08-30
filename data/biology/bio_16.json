@@ -1,0 +1,175 @@
+{
+  "id": "bio_16",
+  "name": "Excretory Products & Elimination",
+  "order": 16,
+  "subchapters": [
+    {
+      "id": "bio_16_01",
+      "title": "Kidney",
+      "theory": "Kidney: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Kidney",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Kidney",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_16_01.svg",
+      "graph": "assets/biology/graphs/bio_16_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Kidney?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Kidney",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_16_02",
+      "title": "Urine formation",
+      "theory": "Urine formation: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Urine formation",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Urine formation",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_16_02.svg",
+      "graph": "assets/biology/graphs/bio_16_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Urine formation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Urine formation",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_16_03",
+      "title": "Osmoregulation",
+      "theory": "Osmoregulation: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Osmoregulation",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Osmoregulation",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_16_03.svg",
+      "graph": "assets/biology/graphs/bio_16_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Osmoregulation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Osmoregulation",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_16_04",
+      "title": "Dialysis",
+      "theory": "Dialysis: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Dialysis",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Dialysis",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_16_04.svg",
+      "graph": "assets/biology/graphs/bio_16_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Dialysis?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Dialysis",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

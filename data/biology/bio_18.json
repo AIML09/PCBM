@@ -1,0 +1,217 @@
+{
+  "id": "bio_18",
+  "name": "Neural Control & Coordination",
+  "order": 18,
+  "subchapters": [
+    {
+      "id": "bio_18_01",
+      "title": "Neuron",
+      "theory": "Neuron: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Neuron",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Neuron",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_18_01.svg",
+      "graph": "assets/biology/graphs/bio_18_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Neuron?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Neuron",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_18_02",
+      "title": "Nerve impulse",
+      "theory": "Nerve impulse: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Nerve impulse",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Nerve impulse",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_18_02.svg",
+      "graph": "assets/biology/graphs/bio_18_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Nerve impulse?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Nerve impulse",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_18_03",
+      "title": "Brain",
+      "theory": "Brain: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Brain",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Brain",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_18_03.svg",
+      "graph": "assets/biology/graphs/bio_18_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Brain?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Brain",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_18_04",
+      "title": "Spinal cord",
+      "theory": "Spinal cord: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Spinal cord",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Spinal cord",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_18_04.svg",
+      "graph": "assets/biology/graphs/bio_18_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Spinal cord?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Spinal cord",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_18_05",
+      "title": "Reflex action",
+      "theory": "Reflex action: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Reflex action",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Reflex action",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_18_05.svg",
+      "graph": "assets/biology/graphs/bio_18_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Reflex action?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Reflex action",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

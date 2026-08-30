@@ -1,0 +1,182 @@
+[
+  {
+    "id": "bio_01",
+    "name": "The Living World",
+    "file": "bio_01.json",
+    "subchapters": 4
+  },
+  {
+    "id": "bio_02",
+    "name": "Biological Classification",
+    "file": "bio_02.json",
+    "subchapters": 6
+  },
+  {
+    "id": "bio_03",
+    "name": "Plant Kingdom",
+    "file": "bio_03.json",
+    "subchapters": 5
+  },
+  {
+    "id": "bio_04",
+    "name": "Animal Kingdom",
+    "file": "bio_04.json",
+    "subchapters": 3
+  },
+  {
+    "id": "bio_05",
+    "name": "Morphology of Flowering Plants",
+    "file": "bio_05.json",
+    "subchapters": 7
+  },
+  {
+    "id": "bio_06",
+    "name": "Anatomy of Flowering Plants",
+    "file": "bio_06.json",
+    "subchapters": 4
+  },
+  {
+    "id": "bio_07",
+    "name": "Cell: Structure & Function",
+    "file": "bio_07.json",
+    "subchapters": 5
+  },
+  {
+    "id": "bio_08",
+    "name": "Biomolecules",
+    "file": "bio_08.json",
+    "subchapters": 5
+  },
+  {
+    "id": "bio_09",
+    "name": "Cell Cycle & Cell Division",
+    "file": "bio_09.json",
+    "subchapters": 3
+  },
+  {
+    "id": "bio_10",
+    "name": "Photosynthesis",
+    "file": "bio_10.json",
+    "subchapters": 5
+  },
+  {
+    "id": "bio_11",
+    "name": "Respiration in Plants",
+    "file": "bio_11.json",
+    "subchapters": 4
+  },
+  {
+    "id": "bio_12",
+    "name": "Plant Growth & Development",
+    "file": "bio_12.json",
+    "subchapters": 4
+  },
+  {
+    "id": "bio_13",
+    "name": "Human Digestion & Absorption",
+    "file": "bio_13.json",
+    "subchapters": 4
+  },
+  {
+    "id": "bio_14",
+    "name": "Breathing & Exchange of Gases",
+    "file": "bio_14.json",
+    "subchapters": 4
+  },
+  {
+    "id": "bio_15",
+    "name": "Body Fluids & Circulation",
+    "file": "bio_15.json",
+    "subchapters": 5
+  },
+  {
+    "id": "bio_16",
+    "name": "Excretory Products & Elimination",
+    "file": "bio_16.json",
+    "subchapters": 4
+  },
+  {
+    "id": "bio_17",
+    "name": "Locomotion & Movement",
+    "file": "bio_17.json",
+    "subchapters": 4
+  },
+  {
+    "id": "bio_18",
+    "name": "Neural Control & Coordination",
+    "file": "bio_18.json",
+    "subchapters": 5
+  },
+  {
+    "id": "bio_19",
+    "name": "Chemical Coordination & Integration",
+    "file": "bio_19.json",
+    "subchapters": 3
+  },
+  {
+    "id": "bio_20",
+    "name": "Human Reproduction",
+    "file": "bio_20.json",
+    "subchapters": 5
+  },
+  {
+    "id": "bio_21",
+    "name": "Reproductive Health",
+    "file": "bio_21.json",
+    "subchapters": 4
+  },
+  {
+    "id": "bio_22",
+    "name": "Principles of Inheritance",
+    "file": "bio_22.json",
+    "subchapters": 5
+  },
+  {
+    "id": "bio_23",
+    "name": "Molecular Basis of Inheritance",
+    "file": "bio_23.json",
+    "subchapters": 5
+  },
+  {
+    "id": "bio_24",
+    "name": "Evolution",
+    "file": "bio_24.json",
+    "subchapters": 4
+  },
+  {
+    "id": "bio_25",
+    "name": "Human Health & Disease",
+    "file": "bio_25.json",
+    "subchapters": 5
+  },
+  {
+    "id": "bio_26",
+    "name": "Microbes in Human Welfare",
+    "file": "bio_26.json",
+    "subchapters": 4
+  },
+  {
+    "id": "bio_27",
+    "name": "Biotechnology",
+    "file": "bio_27.json",
+    "subchapters": 5
+  },
+  {
+    "id": "bio_28",
+    "name": "Organisms & Populations",
+    "file": "bio_28.json",
+    "subchapters": 3
+  },
+  {
+    "id": "bio_29",
+    "name": "Ecosystem",
+    "file": "bio_29.json",
+    "subchapters": 4
+  },
+  {
+    "id": "bio_30",
+    "name": "Biodiversity & Conservation",
+    "file": "bio_30.json",
+    "subchapters": 4
+  }
+]

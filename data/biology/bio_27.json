@@ -1,0 +1,217 @@
+{
+  "id": "bio_27",
+  "name": "Biotechnology",
+  "order": 27,
+  "subchapters": [
+    {
+      "id": "bio_27_01",
+      "title": "Recombinant DNA",
+      "theory": "Recombinant DNA: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Recombinant DNA",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Recombinant DNA",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_27_01.svg",
+      "graph": "assets/biology/graphs/bio_27_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Recombinant DNA?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Recombinant DNA",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_27_02",
+      "title": "Vectors",
+      "theory": "Vectors: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Vectors",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Vectors",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_27_02.svg",
+      "graph": "assets/biology/graphs/bio_27_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Vectors?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Vectors",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_27_03",
+      "title": "PCR",
+      "theory": "PCR: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of PCR",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on PCR",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_27_03.svg",
+      "graph": "assets/biology/graphs/bio_27_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes PCR?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: PCR",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_27_04",
+      "title": "Bioreactors",
+      "theory": "Bioreactors: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Bioreactors",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Bioreactors",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_27_04.svg",
+      "graph": "assets/biology/graphs/bio_27_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Bioreactors?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Bioreactors",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_27_05",
+      "title": "Applications",
+      "theory": "Applications: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Applications",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Applications",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_27_05.svg",
+      "graph": "assets/biology/graphs/bio_27_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Applications?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Applications",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

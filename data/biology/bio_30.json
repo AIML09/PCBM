@@ -1,0 +1,175 @@
+{
+  "id": "bio_30",
+  "name": "Biodiversity & Conservation",
+  "order": 30,
+  "subchapters": [
+    {
+      "id": "bio_30_01",
+      "title": "Biodiversity",
+      "theory": "Biodiversity: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Biodiversity",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Biodiversity",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_30_01.svg",
+      "graph": "assets/biology/graphs/bio_30_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Biodiversity?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Biodiversity",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_30_02",
+      "title": "Threats",
+      "theory": "Threats: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Threats",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Threats",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_30_02.svg",
+      "graph": "assets/biology/graphs/bio_30_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Threats?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Threats",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_30_03",
+      "title": "Conservation",
+      "theory": "Conservation: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Conservation",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Conservation",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_30_03.svg",
+      "graph": "assets/biology/graphs/bio_30_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Conservation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Conservation",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_30_04",
+      "title": "Hotspots",
+      "theory": "Hotspots: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Hotspots",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Hotspots",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_30_04.svg",
+      "graph": "assets/biology/graphs/bio_30_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Hotspots?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Hotspots",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

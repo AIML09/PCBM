@@ -1,0 +1,133 @@
+{
+  "id": "bio_04",
+  "name": "Animal Kingdom",
+  "order": 4,
+  "subchapters": [
+    {
+      "id": "bio_04_01",
+      "title": "Basis of classification",
+      "theory": "Basis of classification: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Basis of classification",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Basis of classification",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_04_01.svg",
+      "graph": "assets/biology/graphs/bio_04_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Basis of classification?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Basis of classification",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_04_02",
+      "title": "Non-chordates",
+      "theory": "Non-chordates: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Non-chordates",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Non-chordates",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_04_02.svg",
+      "graph": "assets/biology/graphs/bio_04_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Non-chordates?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Non-chordates",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_04_03",
+      "title": "Chordates",
+      "theory": "Chordates: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Chordates",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Chordates",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_04_03.svg",
+      "graph": "assets/biology/graphs/bio_04_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Chordates?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Chordates",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

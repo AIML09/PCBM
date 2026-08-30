@@ -1,0 +1,217 @@
+{
+  "id": "bio_25",
+  "name": "Human Health & Disease",
+  "order": 25,
+  "subchapters": [
+    {
+      "id": "bio_25_01",
+      "title": "Pathogens",
+      "theory": "Pathogens: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Pathogens",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Pathogens",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_25_01.svg",
+      "graph": "assets/biology/graphs/bio_25_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Pathogens?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Pathogens",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_25_02",
+      "title": "Immunity",
+      "theory": "Immunity: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Immunity",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Immunity",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_25_02.svg",
+      "graph": "assets/biology/graphs/bio_25_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Immunity?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Immunity",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_25_03",
+      "title": "Vaccines",
+      "theory": "Vaccines: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Vaccines",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Vaccines",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_25_03.svg",
+      "graph": "assets/biology/graphs/bio_25_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Vaccines?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Vaccines",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_25_04",
+      "title": "Cancer",
+      "theory": "Cancer: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Cancer",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Cancer",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_25_04.svg",
+      "graph": "assets/biology/graphs/bio_25_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Cancer?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Cancer",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_25_05",
+      "title": "AIDS",
+      "theory": "AIDS: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of AIDS",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on AIDS",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_25_05.svg",
+      "graph": "assets/biology/graphs/bio_25_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes AIDS?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: AIDS",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": "bio_24",
+  "name": "Evolution",
+  "order": 24,
+  "subchapters": [
+    {
+      "id": "bio_24_01",
+      "title": "Evidence",
+      "theory": "Evidence: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Evidence",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Evidence",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_24_01.svg",
+      "graph": "assets/biology/graphs/bio_24_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Evidence?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Evidence",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_24_02",
+      "title": "Natural selection",
+      "theory": "Natural selection: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Natural selection",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Natural selection",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_24_02.svg",
+      "graph": "assets/biology/graphs/bio_24_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Natural selection?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Natural selection",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_24_03",
+      "title": "Hardy-Weinberg principle",
+      "theory": "Hardy-Weinberg principle: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Hardy-Weinberg principle",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Hardy-Weinberg principle",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_24_03.svg",
+      "graph": "assets/biology/graphs/bio_24_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Hardy-Weinberg principle?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Hardy-Weinberg principle",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_24_04",
+      "title": "Human evolution",
+      "theory": "Human evolution: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Human evolution",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Human evolution",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_24_04.svg",
+      "graph": "assets/biology/graphs/bio_24_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Human evolution?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Human evolution",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

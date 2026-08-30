@@ -1,0 +1,217 @@
+{
+  "id": "bio_03",
+  "name": "Plant Kingdom",
+  "order": 3,
+  "subchapters": [
+    {
+      "id": "bio_03_01",
+      "title": "Algae",
+      "theory": "Algae: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Algae",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Algae",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_03_01.svg",
+      "graph": "assets/biology/graphs/bio_03_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Algae?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Algae",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_03_02",
+      "title": "Bryophytes",
+      "theory": "Bryophytes: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Bryophytes",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Bryophytes",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_03_02.svg",
+      "graph": "assets/biology/graphs/bio_03_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Bryophytes?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Bryophytes",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_03_03",
+      "title": "Pteridophytes",
+      "theory": "Pteridophytes: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Pteridophytes",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Pteridophytes",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_03_03.svg",
+      "graph": "assets/biology/graphs/bio_03_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Pteridophytes?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Pteridophytes",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_03_04",
+      "title": "Gymnosperms",
+      "theory": "Gymnosperms: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Gymnosperms",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Gymnosperms",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_03_04.svg",
+      "graph": "assets/biology/graphs/bio_03_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Gymnosperms?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Gymnosperms",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_03_05",
+      "title": "Angiosperms",
+      "theory": "Angiosperms: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Angiosperms",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Angiosperms",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_03_05.svg",
+      "graph": "assets/biology/graphs/bio_03_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Angiosperms?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Angiosperms",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

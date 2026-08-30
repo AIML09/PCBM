@@ -1,0 +1,175 @@
+{
+  "id": "bio_21",
+  "name": "Reproductive Health",
+  "order": 21,
+  "subchapters": [
+    {
+      "id": "bio_21_01",
+      "title": "Contraception",
+      "theory": "Contraception: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Contraception",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Contraception",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_21_01.svg",
+      "graph": "assets/biology/graphs/bio_21_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Contraception?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Contraception",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_21_02",
+      "title": "STIs",
+      "theory": "STIs: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of STIs",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on STIs",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_21_02.svg",
+      "graph": "assets/biology/graphs/bio_21_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes STIs?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: STIs",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_21_03",
+      "title": "Infertility",
+      "theory": "Infertility: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Infertility",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Infertility",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_21_03.svg",
+      "graph": "assets/biology/graphs/bio_21_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Infertility?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Infertility",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_21_04",
+      "title": "Assisted reproduction",
+      "theory": "Assisted reproduction: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Assisted reproduction",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Assisted reproduction",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_21_04.svg",
+      "graph": "assets/biology/graphs/bio_21_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Assisted reproduction?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Assisted reproduction",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

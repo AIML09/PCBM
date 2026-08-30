@@ -1,0 +1,217 @@
+{
+  "id": "bio_22",
+  "name": "Principles of Inheritance",
+  "order": 22,
+  "subchapters": [
+    {
+      "id": "bio_22_01",
+      "title": "Mendelism",
+      "theory": "Mendelism: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Mendelism",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Mendelism",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_22_01.svg",
+      "graph": "assets/biology/graphs/bio_22_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Mendelism?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Mendelism",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_22_02",
+      "title": "Monohybrid cross",
+      "theory": "Monohybrid cross: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Monohybrid cross",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Monohybrid cross",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_22_02.svg",
+      "graph": "assets/biology/graphs/bio_22_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Monohybrid cross?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Monohybrid cross",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_22_03",
+      "title": "Dihybrid cross",
+      "theory": "Dihybrid cross: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Dihybrid cross",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Dihybrid cross",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_22_03.svg",
+      "graph": "assets/biology/graphs/bio_22_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Dihybrid cross?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Dihybrid cross",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_22_04",
+      "title": "Linkage",
+      "theory": "Linkage: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Linkage",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Linkage",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_22_04.svg",
+      "graph": "assets/biology/graphs/bio_22_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Linkage?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Linkage",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_22_05",
+      "title": "Sex determination",
+      "theory": "Sex determination: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Sex determination",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Sex determination",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_22_05.svg",
+      "graph": "assets/biology/graphs/bio_22_05.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Sex determination?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Sex determination",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}

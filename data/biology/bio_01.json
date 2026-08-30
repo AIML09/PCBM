@@ -1,0 +1,175 @@
+{
+  "id": "bio_01",
+  "name": "The Living World",
+  "order": 1,
+  "subchapters": [
+    {
+      "id": "bio_01_01",
+      "title": "Characteristics of life",
+      "theory": "Characteristics of life: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Characteristics of life",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Characteristics of life",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_01_01.svg",
+      "graph": "assets/biology/graphs/bio_01_01.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Characteristics of life?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Characteristics of life",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_01_02",
+      "title": "Taxonomy",
+      "theory": "Taxonomy: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Taxonomy",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Taxonomy",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_01_02.svg",
+      "graph": "assets/biology/graphs/bio_01_02.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Taxonomy?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Taxonomy",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_01_03",
+      "title": "Nomenclature",
+      "theory": "Nomenclature: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Nomenclature",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Nomenclature",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_01_03.svg",
+      "graph": "assets/biology/graphs/bio_01_03.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Nomenclature?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Nomenclature",
+        "Remember the definitions, formulas and common applications."
+      ]
+    },
+    {
+      "id": "bio_01_04",
+      "title": "Taxonomic hierarchy",
+      "theory": "Taxonomic hierarchy: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "key_points": [
+        "Definition and core idea of Taxonomic hierarchy",
+        "Important relationships and applications",
+        "Exam-focused observations"
+      ],
+      "formulas": [
+        {
+          "name": "Core relation",
+          "formula": "Add the relevant formula here",
+          "unit": "As applicable"
+        }
+      ],
+      "examples": [
+        {
+          "question": "Worked example on Taxonomic hierarchy",
+          "solution": "Step-by-step solution placeholder."
+        }
+      ],
+      "diagram": "assets/biology/diagrams/bio_01_04.svg",
+      "graph": "assets/biology/graphs/bio_01_04.svg",
+      "mcqs": [
+        {
+          "q": "Which statement best describes Taxonomic hierarchy?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "answer": 0,
+          "explanation": "Explanation will be shown here."
+        }
+      ],
+      "revision": [
+        "Quick revision: Taxonomic hierarchy",
+        "Remember the definitions, formulas and common applications."
+      ]
+    }
+  ]
+}
