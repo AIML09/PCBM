@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="450" viewBox="0 0 900 450">
+<rect x="10" y="10" width="880" height="430" rx="20" fill="none" stroke="currentColor" stroke-width="3"/>
+<text x="450" y="190" text-anchor="middle" font-family="Arial" font-size="34">Covalent bond</text>
+<text x="450" y="245" text-anchor="middle" font-family="Arial" font-size="22">Diagram — replace with topic-specific visual</text>
+<path d="M120 350 C250 220, 400 380, 560 250 S760 250, 820 130" fill="none" stroke="currentColor" stroke-width="4"/>
+</svg>
