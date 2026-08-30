@@ -6,253 +6,307 @@
     {
       "id": "phy_14_01",
       "title": "Lorentz force",
-      "theory": "Lorentz force: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Lorentz force is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Lorentz force",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Lorentz force and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Lorentz force",
+          "formula": "F = q(E + v×B)",
+          "unit": "N"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Lorentz force",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Lorentz force: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Lorentz force. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_14_01.svg",
       "graph": "assets/physics/graphs/phy_14_01.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Lorentz force?",
+          "q": "Which statement is most appropriate for Lorentz force?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Lorentz force, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Lorentz force",
-        "Remember the definitions, formulas and common applications."
+        "Define Lorentz force and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: F = q(E + v×B)"
       ]
     },
     {
       "id": "phy_14_02",
       "title": "Biot-Savart law",
-      "theory": "Biot-Savart law: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Biot-Savart law is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Biot-Savart law",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Biot-Savart law and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Biot-Savart law",
+          "formula": "dB = (μ0/4π) I dl×r̂/r^2",
+          "unit": "T"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Biot-Savart law",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Biot-Savart law: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Biot-Savart law. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_14_02.svg",
       "graph": "assets/physics/graphs/phy_14_02.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Biot-Savart law?",
+          "q": "Which statement is most appropriate for Biot-Savart law?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Biot-Savart law, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Biot-Savart law",
-        "Remember the definitions, formulas and common applications."
+        "Define Biot-Savart law and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: dB = (μ0/4π) I dl×r̂/r^2"
       ]
     },
     {
       "id": "phy_14_03",
-      "title": "Ampere law",
-      "theory": "Ampere law: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Ampere's law",
+      "theory": "Ampere's law is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Ampere law",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Ampere's law and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Ampere law",
+          "formula": "∮B·dl = μ0 I_enclosed",
+          "unit": "T m"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Ampere law",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Ampere's law: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Ampere's law. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_14_03.svg",
       "graph": "assets/physics/graphs/phy_14_03.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Ampere law?",
+          "q": "Which statement is most appropriate for Ampere's law?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Ampere's law, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Ampere law",
-        "Remember the definitions, formulas and common applications."
+        "Define Ampere's law and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: ∮B·dl = μ0 I_enclosed"
       ]
     },
     {
       "id": "phy_14_04",
-      "title": "Motion in magnetic field",
-      "theory": "Motion in magnetic field: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Motion of charged particle in magnetic field",
+      "theory": "Motion of charged particle in magnetic field is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Motion in magnetic field",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Motion of charged particle in magnetic field and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Charge quantisation",
+          "formula": "q = ne",
+          "unit": "C"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Motion in magnetic field",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Motion of charged particle in magnetic field: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Motion of charged particle in magnetic field. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_14_04.svg",
       "graph": "assets/physics/graphs/phy_14_04.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Motion in magnetic field?",
+          "q": "Which statement is most appropriate for Motion of charged particle in magnetic field?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Motion of charged particle in magnetic field, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Motion in magnetic field",
-        "Remember the definitions, formulas and common applications."
+        "Define Motion of charged particle in magnetic field and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: q = ne"
       ]
     },
     {
       "id": "phy_14_05",
-      "title": "Cyclotron",
-      "theory": "Cyclotron: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Moving coil galvanometer",
+      "theory": "Moving coil galvanometer is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Cyclotron",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Moving coil galvanometer and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Topic relation",
+          "formula": "Use the defining law and SI variables for this topic.",
+          "unit": "SI units"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Cyclotron",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Moving coil galvanometer: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Moving coil galvanometer. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_14_05.svg",
       "graph": "assets/physics/graphs/phy_14_05.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Cyclotron?",
+          "q": "Which statement is most appropriate for Moving coil galvanometer?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Moving coil galvanometer, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Cyclotron",
-        "Remember the definitions, formulas and common applications."
+        "Define Moving coil galvanometer and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: Use the defining law and SI variables for this topic."
       ]
     },
     {
       "id": "phy_14_06",
-      "title": "Galvanometer",
-      "theory": "Galvanometer: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Magnetic materials",
+      "theory": "Magnetic materials is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Galvanometer",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Magnetic materials and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Force on current",
+          "formula": "F = BIL sinθ",
+          "unit": "N"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Galvanometer",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Magnetic materials: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Magnetic materials. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_14_06.svg",
       "graph": "assets/physics/graphs/phy_14_06.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Galvanometer?",
+          "q": "Which statement is most appropriate for Magnetic materials?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Magnetic materials, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Galvanometer",
-        "Remember the definitions, formulas and common applications."
+        "Define Magnetic materials and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: F = BIL sinθ"
       ]
     }
   ]

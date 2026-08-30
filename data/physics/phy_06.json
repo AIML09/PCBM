@@ -6,253 +6,312 @@
     {
       "id": "phy_06_01",
       "title": "Newton's law of gravitation",
-      "theory": "Newton's law of gravitation: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Newton's law of gravitation is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Newton's law of gravitation",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Newton's law of gravitation and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Newton's second law",
+          "formula": "F = ma",
+          "unit": "N"
+        },
+        {
+          "name": "Momentum",
+          "formula": "p = mv",
+          "unit": "kg m s^-1"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Newton's law of gravitation",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Newton's law of gravitation: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Newton's law of gravitation. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_06_01.svg",
       "graph": "assets/physics/graphs/phy_06_01.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Newton's law of gravitation?",
+          "q": "Which statement is most appropriate for Newton's law of gravitation?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Newton's law of gravitation, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Newton's law of gravitation",
-        "Remember the definitions, formulas and common applications."
+        "Define Newton's law of gravitation and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: F = ma"
       ]
     },
     {
       "id": "phy_06_02",
       "title": "Gravitational field",
-      "theory": "Gravitational field: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Gravitational field is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Gravitational field",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Gravitational field and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Newton's law",
+          "formula": "F = GMm/r^2",
+          "unit": "N"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Gravitational field",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Gravitational field: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Gravitational field. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_06_02.svg",
       "graph": "assets/physics/graphs/phy_06_02.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Gravitational field?",
+          "q": "Which statement is most appropriate for Gravitational field?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Gravitational field, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Gravitational field",
-        "Remember the definitions, formulas and common applications."
+        "Define Gravitational field and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: F = GMm/r^2"
       ]
     },
     {
       "id": "phy_06_03",
       "title": "Potential and potential energy",
-      "theory": "Potential and potential energy: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Potential and potential energy is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Potential and potential energy",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Potential and potential energy and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Gravitational potential energy near Earth",
+          "formula": "U = mgh",
+          "unit": "J"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Potential and potential energy",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Potential and potential energy: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Potential and potential energy. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_06_03.svg",
       "graph": "assets/physics/graphs/phy_06_03.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Potential and potential energy?",
+          "q": "Which statement is most appropriate for Potential and potential energy?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Potential and potential energy, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Potential and potential energy",
-        "Remember the definitions, formulas and common applications."
+        "Define Potential and potential energy and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: U = mgh"
       ]
     },
     {
       "id": "phy_06_04",
       "title": "Satellites",
-      "theory": "Satellites: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Satellites is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Satellites",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Satellites and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Topic relation",
+          "formula": "Use the defining law and SI variables for this topic.",
+          "unit": "SI units"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Satellites",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Satellites: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Satellites. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_06_04.svg",
       "graph": "assets/physics/graphs/phy_06_04.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Satellites?",
+          "q": "Which statement is most appropriate for Satellites?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Satellites, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Satellites",
-        "Remember the definitions, formulas and common applications."
+        "Define Satellites and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: Use the defining law and SI variables for this topic."
       ]
     },
     {
       "id": "phy_06_05",
       "title": "Escape velocity",
-      "theory": "Escape velocity: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Escape velocity is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Escape velocity",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Escape velocity and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Escape velocity",
+          "formula": "v_e = sqrt(2GM/R)",
+          "unit": "m s^-1"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Escape velocity",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Escape velocity: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Escape velocity. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_06_05.svg",
       "graph": "assets/physics/graphs/phy_06_05.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Escape velocity?",
+          "q": "Which statement is most appropriate for Escape velocity?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Escape velocity, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Escape velocity",
-        "Remember the definitions, formulas and common applications."
+        "Define Escape velocity and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: v_e = sqrt(2GM/R)"
       ]
     },
     {
       "id": "phy_06_06",
       "title": "Kepler's laws",
-      "theory": "Kepler's laws: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Kepler's laws is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Kepler's laws",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Kepler's laws and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Third law",
+          "formula": "T^2 ∝ r^3",
+          "unit": "s^2/m^3"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Kepler's laws",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Kepler's laws: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Kepler's laws. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_06_06.svg",
       "graph": "assets/physics/graphs/phy_06_06.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Kepler's laws?",
+          "q": "Which statement is most appropriate for Kepler's laws?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Kepler's laws, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Kepler's laws",
-        "Remember the definitions, formulas and common applications."
+        "Define Kepler's laws and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: T^2 ∝ r^3"
       ]
     }
   ]

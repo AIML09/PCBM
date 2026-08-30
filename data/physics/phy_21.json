@@ -6,169 +6,210 @@
     {
       "id": "phy_21_01",
       "title": "Rutherford model",
-      "theory": "Rutherford model: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Rutherford model is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Rutherford model",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Rutherford model and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Coulomb scattering",
+          "formula": "F = kZe^2/r^2",
+          "unit": "N"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Rutherford model",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Rutherford model: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Rutherford model. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_21_01.svg",
       "graph": "assets/physics/graphs/phy_21_01.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Rutherford model?",
+          "q": "Which statement is most appropriate for Rutherford model?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Rutherford model, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Rutherford model",
-        "Remember the definitions, formulas and common applications."
+        "Define Rutherford model and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: F = kZe^2/r^2"
       ]
     },
     {
       "id": "phy_21_02",
       "title": "Bohr model",
-      "theory": "Bohr model: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Bohr model is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Bohr model",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Bohr model and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Bohr radius",
+          "formula": "r_n = n^2 a0/Z",
+          "unit": "m"
+        },
+        {
+          "name": "Energy",
+          "formula": "E_n = −13.6 Z^2/n^2 eV",
+          "unit": "eV"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Bohr model",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Bohr model: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Bohr model. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_21_02.svg",
       "graph": "assets/physics/graphs/phy_21_02.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Bohr model?",
+          "q": "Which statement is most appropriate for Bohr model?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Bohr model, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Bohr model",
-        "Remember the definitions, formulas and common applications."
+        "Define Bohr model and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: r_n = n^2 a0/Z"
       ]
     },
     {
       "id": "phy_21_03",
       "title": "Hydrogen spectrum",
-      "theory": "Hydrogen spectrum: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Hydrogen spectrum is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Hydrogen spectrum",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Hydrogen spectrum and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Topic relation",
+          "formula": "Use the defining law and SI variables for this topic.",
+          "unit": "SI units"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Hydrogen spectrum",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Hydrogen spectrum: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Hydrogen spectrum. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_21_03.svg",
       "graph": "assets/physics/graphs/phy_21_03.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Hydrogen spectrum?",
+          "q": "Which statement is most appropriate for Hydrogen spectrum?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Hydrogen spectrum, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Hydrogen spectrum",
-        "Remember the definitions, formulas and common applications."
+        "Define Hydrogen spectrum and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: Use the defining law and SI variables for this topic."
       ]
     },
     {
       "id": "phy_21_04",
-      "title": "Energy levels",
-      "theory": "Energy levels: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Energy levels and transitions",
+      "theory": "Energy levels and transitions is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Energy levels",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Energy levels and transitions and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Topic relation",
+          "formula": "Use the defining law and SI variables for this topic.",
+          "unit": "SI units"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Energy levels",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Energy levels and transitions: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Energy levels and transitions. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_21_04.svg",
       "graph": "assets/physics/graphs/phy_21_04.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Energy levels?",
+          "q": "Which statement is most appropriate for Energy levels and transitions?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Energy levels and transitions, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Energy levels",
-        "Remember the definitions, formulas and common applications."
+        "Define Energy levels and transitions and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: Use the defining law and SI variables for this topic."
       ]
     }
   ]

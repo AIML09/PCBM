@@ -6,127 +6,154 @@
     {
       "id": "phy_17_01",
       "title": "Displacement current",
-      "theory": "Displacement current: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Displacement current is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Displacement current",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Displacement current and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Current",
+          "formula": "I = Q/t",
+          "unit": "A"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Displacement current",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Displacement current: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Displacement current. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_17_01.svg",
       "graph": "assets/physics/graphs/phy_17_01.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Displacement current?",
+          "q": "Which statement is most appropriate for Displacement current?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Displacement current, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Displacement current",
-        "Remember the definitions, formulas and common applications."
+        "Define Displacement current and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: I = Q/t"
       ]
     },
     {
       "id": "phy_17_02",
-      "title": "EM spectrum",
-      "theory": "EM spectrum: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Electromagnetic waves",
+      "theory": "Electromagnetic waves is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of EM spectrum",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Electromagnetic waves and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Wave speed",
+          "formula": "v = fλ",
+          "unit": "m s^-1"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on EM spectrum",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Electromagnetic waves: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Electromagnetic waves. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_17_02.svg",
       "graph": "assets/physics/graphs/phy_17_02.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes EM spectrum?",
+          "q": "Which statement is most appropriate for Electromagnetic waves?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Electromagnetic waves, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: EM spectrum",
-        "Remember the definitions, formulas and common applications."
+        "Define Electromagnetic waves and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: v = fλ"
       ]
     },
     {
       "id": "phy_17_03",
-      "title": "Properties and applications",
-      "theory": "Properties and applications: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Electromagnetic spectrum",
+      "theory": "Electromagnetic spectrum is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Properties and applications",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Electromagnetic spectrum and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Force on current",
+          "formula": "F = BIL sinθ",
+          "unit": "N"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Properties and applications",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Electromagnetic spectrum: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Electromagnetic spectrum. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_17_03.svg",
       "graph": "assets/physics/graphs/phy_17_03.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Properties and applications?",
+          "q": "Which statement is most appropriate for Electromagnetic spectrum?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Electromagnetic spectrum, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Properties and applications",
-        "Remember the definitions, formulas and common applications."
+        "Define Electromagnetic spectrum and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: F = BIL sinθ"
       ]
     }
   ]

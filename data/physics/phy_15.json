@@ -6,253 +6,312 @@
     {
       "id": "phy_15_01",
       "title": "Magnetic flux",
-      "theory": "Magnetic flux: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Magnetic flux is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Magnetic flux",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Magnetic flux and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Force on current",
+          "formula": "F = BIL sinθ",
+          "unit": "N"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Magnetic flux",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Magnetic flux: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Magnetic flux. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_15_01.svg",
       "graph": "assets/physics/graphs/phy_15_01.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Magnetic flux?",
+          "q": "Which statement is most appropriate for Magnetic flux?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Magnetic flux, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Magnetic flux",
-        "Remember the definitions, formulas and common applications."
+        "Define Magnetic flux and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: F = BIL sinθ"
       ]
     },
     {
       "id": "phy_15_02",
-      "title": "Faraday law",
-      "theory": "Faraday law: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Faraday's law",
+      "theory": "Faraday's law is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Faraday law",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Faraday's law and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Faraday law",
+          "formula": "ε = −dΦ/dt",
+          "unit": "V"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Faraday law",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Faraday's law: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Faraday's law. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_15_02.svg",
       "graph": "assets/physics/graphs/phy_15_02.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Faraday law?",
+          "q": "Which statement is most appropriate for Faraday's law?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Faraday's law, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Faraday law",
-        "Remember the definitions, formulas and common applications."
+        "Define Faraday's law and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: ε = −dΦ/dt"
       ]
     },
     {
       "id": "phy_15_03",
-      "title": "Lenz law",
-      "theory": "Lenz law: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Lenz's law",
+      "theory": "Lenz's law is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Lenz law",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Lenz's law and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Induced emf",
+          "formula": "ε = −dΦ/dt",
+          "unit": "V"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Lenz law",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Lenz's law: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Lenz's law. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_15_03.svg",
       "graph": "assets/physics/graphs/phy_15_03.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Lenz law?",
+          "q": "Which statement is most appropriate for Lenz's law?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Lenz's law, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Lenz law",
-        "Remember the definitions, formulas and common applications."
+        "Define Lenz's law and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: ε = −dΦ/dt"
       ]
     },
     {
       "id": "phy_15_04",
-      "title": "Self induction",
-      "theory": "Self induction: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Motional emf",
+      "theory": "Motional emf is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Self induction",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Motional emf and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Topic relation",
+          "formula": "Use the defining law and SI variables for this topic.",
+          "unit": "SI units"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Self induction",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Motional emf: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Motional emf. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_15_04.svg",
       "graph": "assets/physics/graphs/phy_15_04.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Self induction?",
+          "q": "Which statement is most appropriate for Motional emf?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Motional emf, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Self induction",
-        "Remember the definitions, formulas and common applications."
+        "Define Motional emf and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: Use the defining law and SI variables for this topic."
       ]
     },
     {
       "id": "phy_15_05",
-      "title": "Mutual induction",
-      "theory": "Mutual induction: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Self and mutual inductance",
+      "theory": "Self and mutual inductance is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Mutual induction",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Self and mutual inductance and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Inductor emf",
+          "formula": "ε = −L di/dt",
+          "unit": "V"
+        },
+        {
+          "name": "Stored energy",
+          "formula": "U = 1/2 LI^2",
+          "unit": "J"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Mutual induction",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Self and mutual inductance: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Self and mutual inductance. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_15_05.svg",
       "graph": "assets/physics/graphs/phy_15_05.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Mutual induction?",
+          "q": "Which statement is most appropriate for Self and mutual inductance?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Self and mutual inductance, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Mutual induction",
-        "Remember the definitions, formulas and common applications."
+        "Define Self and mutual inductance and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: ε = −L di/dt"
       ]
     },
     {
       "id": "phy_15_06",
-      "title": "AC generator",
-      "theory": "AC generator: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Energy stored in an inductor",
+      "theory": "Energy stored in an inductor is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of AC generator",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Energy stored in an inductor and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Topic relation",
+          "formula": "Use the defining law and SI variables for this topic.",
+          "unit": "SI units"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on AC generator",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Energy stored in an inductor: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Energy stored in an inductor. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_15_06.svg",
       "graph": "assets/physics/graphs/phy_15_06.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes AC generator?",
+          "q": "Which statement is most appropriate for Energy stored in an inductor?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Energy stored in an inductor, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: AC generator",
-        "Remember the definitions, formulas and common applications."
+        "Define Energy stored in an inductor and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: Use the defining law and SI variables for this topic."
       ]
     }
   ]

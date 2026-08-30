@@ -6,253 +6,307 @@
     {
       "id": "phy_16_01",
       "title": "AC voltage and current",
-      "theory": "AC voltage and current: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "AC voltage and current is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of AC voltage and current",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define AC voltage and current and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Current",
+          "formula": "I = Q/t",
+          "unit": "A"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on AC voltage and current",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on AC voltage and current: identify the governing relation and the correct unit.",
+          "solution": "Start by defining AC voltage and current. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_16_01.svg",
       "graph": "assets/physics/graphs/phy_16_01.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes AC voltage and current?",
+          "q": "Which statement is most appropriate for AC voltage and current?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For AC voltage and current, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: AC voltage and current",
-        "Remember the definitions, formulas and common applications."
+        "Define AC voltage and current and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: I = Q/t"
       ]
     },
     {
       "id": "phy_16_02",
-      "title": "RMS values",
-      "theory": "RMS values: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "RMS and average values",
+      "theory": "RMS and average values is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of RMS values",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define RMS and average values and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "RMS speed",
+          "formula": "v_rms = sqrt(3RT/M)",
+          "unit": "m s^-1"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on RMS values",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on RMS and average values: identify the governing relation and the correct unit.",
+          "solution": "Start by defining RMS and average values. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_16_02.svg",
       "graph": "assets/physics/graphs/phy_16_02.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes RMS values?",
+          "q": "Which statement is most appropriate for RMS and average values?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For RMS and average values, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: RMS values",
-        "Remember the definitions, formulas and common applications."
+        "Define RMS and average values and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: v_rms = sqrt(3RT/M)"
       ]
     },
     {
       "id": "phy_16_03",
-      "title": "Reactance",
-      "theory": "Reactance: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Phasors and phase difference",
+      "theory": "Phasors and phase difference is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Reactance",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Phasors and phase difference and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Topic relation",
+          "formula": "Use the defining law and SI variables for this topic.",
+          "unit": "SI units"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Reactance",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Phasors and phase difference: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Phasors and phase difference. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_16_03.svg",
       "graph": "assets/physics/graphs/phy_16_03.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Reactance?",
+          "q": "Which statement is most appropriate for Phasors and phase difference?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Phasors and phase difference, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Reactance",
-        "Remember the definitions, formulas and common applications."
+        "Define Phasors and phase difference and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: Use the defining law and SI variables for this topic."
       ]
     },
     {
       "id": "phy_16_04",
-      "title": "Impedance",
-      "theory": "Impedance: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "AC circuit with RLC",
+      "theory": "AC circuit with RLC is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Impedance",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define AC circuit with RLC and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Topic relation",
+          "formula": "Use the defining law and SI variables for this topic.",
+          "unit": "SI units"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Impedance",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on AC circuit with RLC: identify the governing relation and the correct unit.",
+          "solution": "Start by defining AC circuit with RLC. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_16_04.svg",
       "graph": "assets/physics/graphs/phy_16_04.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Impedance?",
+          "q": "Which statement is most appropriate for AC circuit with RLC?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For AC circuit with RLC, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Impedance",
-        "Remember the definitions, formulas and common applications."
+        "Define AC circuit with RLC and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: Use the defining law and SI variables for this topic."
       ]
     },
     {
       "id": "phy_16_05",
       "title": "Resonance",
-      "theory": "Resonance: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Resonance is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Resonance",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Resonance and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Series RLC resonance",
+          "formula": "ω0 = 1/sqrt(LC)",
+          "unit": "rad s^-1"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Resonance",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Resonance: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Resonance. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_16_05.svg",
       "graph": "assets/physics/graphs/phy_16_05.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Resonance?",
+          "q": "Which statement is most appropriate for Resonance?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Resonance, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Resonance",
-        "Remember the definitions, formulas and common applications."
+        "Define Resonance and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: ω0 = 1/sqrt(LC)"
       ]
     },
     {
       "id": "phy_16_06",
       "title": "Transformer",
-      "theory": "Transformer: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Transformer is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Transformer",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Transformer and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Transformer ratio",
+          "formula": "Vs/Vp = Ns/Np",
+          "unit": "dimensionless"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Transformer",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Transformer: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Transformer. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_16_06.svg",
       "graph": "assets/physics/graphs/phy_16_06.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Transformer?",
+          "q": "Which statement is most appropriate for Transformer?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Transformer, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Transformer",
-        "Remember the definitions, formulas and common applications."
+        "Define Transformer and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: Vs/Vp = Ns/Np"
       ]
     }
   ]

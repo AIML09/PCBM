@@ -6,211 +6,261 @@
     {
       "id": "phy_22_01",
       "title": "Nuclear size",
-      "theory": "Nuclear size: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Nuclear size is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Nuclear size",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Nuclear size and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Mass-energy equivalence",
+          "formula": "E = mc^2",
+          "unit": "J"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Nuclear size",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Nuclear size: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Nuclear size. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_22_01.svg",
       "graph": "assets/physics/graphs/phy_22_01.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Nuclear size?",
+          "q": "Which statement is most appropriate for Nuclear size?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Nuclear size, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Nuclear size",
-        "Remember the definitions, formulas and common applications."
+        "Define Nuclear size and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: E = mc^2"
       ]
     },
     {
       "id": "phy_22_02",
-      "title": "Mass defect",
-      "theory": "Mass defect: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Mass defect and binding energy",
+      "theory": "Mass defect and binding energy is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Mass defect",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Mass defect and binding energy and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Topic relation",
+          "formula": "Use the defining law and SI variables for this topic.",
+          "unit": "SI units"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Mass defect",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Mass defect and binding energy: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Mass defect and binding energy. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_22_02.svg",
       "graph": "assets/physics/graphs/phy_22_02.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Mass defect?",
+          "q": "Which statement is most appropriate for Mass defect and binding energy?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Mass defect and binding energy, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Mass defect",
-        "Remember the definitions, formulas and common applications."
+        "Define Mass defect and binding energy and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: Use the defining law and SI variables for this topic."
       ]
     },
     {
       "id": "phy_22_03",
-      "title": "Binding energy",
-      "theory": "Binding energy: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Radioactive decay",
+      "theory": "Radioactive decay is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Binding energy",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Radioactive decay and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Decay law",
+          "formula": "N = N0 e^(−λt)",
+          "unit": "count"
+        },
+        {
+          "name": "Half life",
+          "formula": "T_1/2 = ln2/λ",
+          "unit": "s"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Binding energy",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Radioactive decay: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Radioactive decay. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_22_03.svg",
       "graph": "assets/physics/graphs/phy_22_03.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Binding energy?",
+          "q": "Which statement is most appropriate for Radioactive decay?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Radioactive decay, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Binding energy",
-        "Remember the definitions, formulas and common applications."
+        "Define Radioactive decay and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: N = N0 e^(−λt)"
       ]
     },
     {
       "id": "phy_22_04",
-      "title": "Radioactivity",
-      "theory": "Radioactivity: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Nuclear reactions",
+      "theory": "Nuclear reactions is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Radioactivity",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Nuclear reactions and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Mass-energy equivalence",
+          "formula": "E = mc^2",
+          "unit": "J"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Radioactivity",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Nuclear reactions: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Nuclear reactions. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_22_04.svg",
       "graph": "assets/physics/graphs/phy_22_04.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Radioactivity?",
+          "q": "Which statement is most appropriate for Nuclear reactions?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Nuclear reactions, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Radioactivity",
-        "Remember the definitions, formulas and common applications."
+        "Define Nuclear reactions and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: E = mc^2"
       ]
     },
     {
       "id": "phy_22_05",
-      "title": "Nuclear reactions",
-      "theory": "Nuclear reactions: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Nuclear fission and fusion",
+      "theory": "Nuclear fission and fusion is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Nuclear reactions",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Nuclear fission and fusion and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Mass-energy equivalence",
+          "formula": "E = mc^2",
+          "unit": "J"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Nuclear reactions",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Nuclear fission and fusion: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Nuclear fission and fusion. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_22_05.svg",
       "graph": "assets/physics/graphs/phy_22_05.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Nuclear reactions?",
+          "q": "Which statement is most appropriate for Nuclear fission and fusion?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Nuclear fission and fusion, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Nuclear reactions",
-        "Remember the definitions, formulas and common applications."
+        "Define Nuclear fission and fusion and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: E = mc^2"
       ]
     }
   ]

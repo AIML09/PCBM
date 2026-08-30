@@ -6,253 +6,307 @@
     {
       "id": "phy_11_01",
       "title": "Wave motion",
-      "theory": "Wave motion: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Wave motion is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Wave motion",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Wave motion and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Wave speed",
+          "formula": "v = fλ",
+          "unit": "m s^-1"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Wave motion",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Wave motion: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Wave motion. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_11_01.svg",
       "graph": "assets/physics/graphs/phy_11_01.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Wave motion?",
+          "q": "Which statement is most appropriate for Wave motion?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Wave motion, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Wave motion",
-        "Remember the definitions, formulas and common applications."
+        "Define Wave motion and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: v = fλ"
       ]
     },
     {
       "id": "phy_11_02",
       "title": "Progressive waves",
-      "theory": "Progressive waves: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Progressive waves is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Progressive waves",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Progressive waves and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Wave speed",
+          "formula": "v = fλ",
+          "unit": "m s^-1"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Progressive waves",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Progressive waves: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Progressive waves. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_11_02.svg",
       "graph": "assets/physics/graphs/phy_11_02.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Progressive waves?",
+          "q": "Which statement is most appropriate for Progressive waves?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Progressive waves, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Progressive waves",
-        "Remember the definitions, formulas and common applications."
+        "Define Progressive waves and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: v = fλ"
       ]
     },
     {
       "id": "phy_11_03",
-      "title": "Superposition",
-      "theory": "Superposition: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Superposition and interference",
+      "theory": "Superposition and interference is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Superposition",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Superposition and interference and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Fringe width",
+          "formula": "β = λD/d",
+          "unit": "m"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Superposition",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Superposition and interference: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Superposition and interference. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_11_03.svg",
       "graph": "assets/physics/graphs/phy_11_03.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Superposition?",
+          "q": "Which statement is most appropriate for Superposition and interference?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Superposition and interference, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Superposition",
-        "Remember the definitions, formulas and common applications."
+        "Define Superposition and interference and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: β = λD/d"
       ]
     },
     {
       "id": "phy_11_04",
       "title": "Standing waves",
-      "theory": "Standing waves: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Standing waves is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Standing waves",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Standing waves and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Wave speed",
+          "formula": "v = fλ",
+          "unit": "m s^-1"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Standing waves",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Standing waves: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Standing waves. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_11_04.svg",
       "graph": "assets/physics/graphs/phy_11_04.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Standing waves?",
+          "q": "Which statement is most appropriate for Standing waves?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Standing waves, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Standing waves",
-        "Remember the definitions, formulas and common applications."
+        "Define Standing waves and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: v = fλ"
       ]
     },
     {
       "id": "phy_11_05",
-      "title": "Beats",
-      "theory": "Beats: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Waves on strings",
+      "theory": "Waves on strings is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Beats",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Waves on strings and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Wave speed",
+          "formula": "v = fλ",
+          "unit": "m s^-1"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Beats",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Waves on strings: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Waves on strings. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_11_05.svg",
       "graph": "assets/physics/graphs/phy_11_05.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Beats?",
+          "q": "Which statement is most appropriate for Waves on strings?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Waves on strings, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Beats",
-        "Remember the definitions, formulas and common applications."
+        "Define Waves on strings and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: v = fλ"
       ]
     },
     {
       "id": "phy_11_06",
-      "title": "Doppler effect",
-      "theory": "Doppler effect: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Sound waves and beats",
+      "theory": "Sound waves and beats is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Doppler effect",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Sound waves and beats and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Wave speed",
+          "formula": "v = fλ",
+          "unit": "m s^-1"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Doppler effect",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Sound waves and beats: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Sound waves and beats. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_11_06.svg",
       "graph": "assets/physics/graphs/phy_11_06.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Doppler effect?",
+          "q": "Which statement is most appropriate for Sound waves and beats?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Sound waves and beats, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Doppler effect",
-        "Remember the definitions, formulas and common applications."
+        "Define Sound waves and beats and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: v = fλ"
       ]
     }
   ]

@@ -6,295 +6,363 @@
     {
       "id": "phy_13_01",
       "title": "Electric current",
-      "theory": "Electric current: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Electric current is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Electric current",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Electric current and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Current",
+          "formula": "I = Q/t",
+          "unit": "A"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Electric current",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Electric current: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Electric current. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_13_01.svg",
       "graph": "assets/physics/graphs/phy_13_01.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Electric current?",
+          "q": "Which statement is most appropriate for Electric current?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Electric current, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Electric current",
-        "Remember the definitions, formulas and common applications."
+        "Define Electric current and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: I = Q/t"
       ]
     },
     {
       "id": "phy_13_02",
       "title": "Drift velocity",
-      "theory": "Drift velocity: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Drift velocity is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Drift velocity",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Drift velocity and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Current density",
+          "formula": "J = ne v_d",
+          "unit": "A m^-2"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Drift velocity",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Drift velocity: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Drift velocity. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_13_02.svg",
       "graph": "assets/physics/graphs/phy_13_02.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Drift velocity?",
+          "q": "Which statement is most appropriate for Drift velocity?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Drift velocity, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Drift velocity",
-        "Remember the definitions, formulas and common applications."
+        "Define Drift velocity and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: J = ne v_d"
       ]
     },
     {
       "id": "phy_13_03",
-      "title": "Ohm's law",
-      "theory": "Ohm's law: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Resistance and resistivity",
+      "theory": "Resistance and resistivity is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Ohm's law",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Resistance and resistivity and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Ohm's law",
+          "formula": "V = IR",
+          "unit": "V"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Ohm's law",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Resistance and resistivity: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Resistance and resistivity. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_13_03.svg",
       "graph": "assets/physics/graphs/phy_13_03.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Ohm's law?",
+          "q": "Which statement is most appropriate for Resistance and resistivity?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Resistance and resistivity, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Ohm's law",
-        "Remember the definitions, formulas and common applications."
+        "Define Resistance and resistivity and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: V = IR"
       ]
     },
     {
       "id": "phy_13_04",
-      "title": "Resistance",
-      "theory": "Resistance: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Cells and combinations",
+      "theory": "Cells and combinations is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Resistance",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Cells and combinations and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Topic relation",
+          "formula": "Use the defining law and SI variables for this topic.",
+          "unit": "SI units"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Resistance",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Cells and combinations: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Cells and combinations. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_13_04.svg",
       "graph": "assets/physics/graphs/phy_13_04.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Resistance?",
+          "q": "Which statement is most appropriate for Cells and combinations?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Cells and combinations, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Resistance",
-        "Remember the definitions, formulas and common applications."
+        "Define Cells and combinations and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: Use the defining law and SI variables for this topic."
       ]
     },
     {
       "id": "phy_13_05",
-      "title": "Kirchhoff laws",
-      "theory": "Kirchhoff laws: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Kirchhoff's laws",
+      "theory": "Kirchhoff's laws is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Kirchhoff laws",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Kirchhoff's laws and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Junction rule",
+          "formula": "ΣI = 0",
+          "unit": "A"
+        },
+        {
+          "name": "Loop rule",
+          "formula": "ΣΔV = 0",
+          "unit": "V"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Kirchhoff laws",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Kirchhoff's laws: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Kirchhoff's laws. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_13_05.svg",
       "graph": "assets/physics/graphs/phy_13_05.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Kirchhoff laws?",
+          "q": "Which statement is most appropriate for Kirchhoff's laws?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Kirchhoff's laws, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Kirchhoff laws",
-        "Remember the definitions, formulas and common applications."
+        "Define Kirchhoff's laws and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: ΣI = 0"
       ]
     },
     {
       "id": "phy_13_06",
       "title": "Wheatstone bridge",
-      "theory": "Wheatstone bridge: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Wheatstone bridge is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Wheatstone bridge",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Wheatstone bridge and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Latent heat",
+          "formula": "Q = mL",
+          "unit": "J"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Wheatstone bridge",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Wheatstone bridge: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Wheatstone bridge. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_13_06.svg",
       "graph": "assets/physics/graphs/phy_13_06.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Wheatstone bridge?",
+          "q": "Which statement is most appropriate for Wheatstone bridge?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Wheatstone bridge, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Wheatstone bridge",
-        "Remember the definitions, formulas and common applications."
+        "Define Wheatstone bridge and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: Q = mL"
       ]
     },
     {
       "id": "phy_13_07",
-      "title": "Potentiometer",
-      "theory": "Potentiometer: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Meter bridge and potentiometer",
+      "theory": "Meter bridge and potentiometer is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Potentiometer",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Meter bridge and potentiometer and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Topic relation",
+          "formula": "Use the defining law and SI variables for this topic.",
+          "unit": "SI units"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Potentiometer",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Meter bridge and potentiometer: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Meter bridge and potentiometer. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_13_07.svg",
       "graph": "assets/physics/graphs/phy_13_07.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Potentiometer?",
+          "q": "Which statement is most appropriate for Meter bridge and potentiometer?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Meter bridge and potentiometer, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Potentiometer",
-        "Remember the definitions, formulas and common applications."
+        "Define Meter bridge and potentiometer and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: Use the defining law and SI variables for this topic."
       ]
     }
   ]

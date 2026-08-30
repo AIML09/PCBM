@@ -6,295 +6,334 @@
     {
       "id": "phy_01_01",
       "title": "Physical quantities and units",
-      "theory": "Physical quantities and units: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "A physical quantity is a measurable property expressed as a numerical value multiplied by a unit. SI uses seven base quantities: length, mass, time, electric current, thermodynamic temperature, amount of substance and luminous intensity. Derived quantities are formed algebraically from base quantities.",
       "key_points": [
-        "Definition and core idea of Physical quantities and units",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "A measurement has magnitude and unit.",
+        "SI base units are m, kg, s, A, K, mol and cd.",
+        "Units must be consistent before using equations."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Dimensional form",
+          "formula": "[Q] = M^a L^b T^c ...",
+          "unit": "dimensionless/depends on Q"
         }
       ],
-      "examples": [
-        {
-          "question": "Worked example on Physical quantities and units",
-          "solution": "Step-by-step solution placeholder."
-        }
+      "derivations": [
+        "Choose the appropriate base quantities for the quantity.",
+        "Write its defining relation in SI base quantities.",
+        "Collect powers of M, L, T and other dimensions."
       ],
+      "examples": "A length of 2.50 m is written with a numerical value and the unit metre; the unit does not change the physical quantity.",
       "diagram": "assets/physics/diagrams/phy_01_01.svg",
       "graph": "assets/physics/graphs/phy_01_01.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Physical quantities and units?",
+          "q": "Which statement is correct about Physical quantities and units?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "A measurement has magnitude and unit.",
+            "The topic has no measurable physical quantities.",
+            "SI units are never required in numerical problems.",
+            "The governing physical law can be ignored."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "The correct choice follows from the definition and governing principles of Physical quantities and units."
         }
       ],
       "revision": [
-        "Quick revision: Physical quantities and units",
-        "Remember the definitions, formulas and common applications."
+        "A measurement has magnitude and unit.",
+        "SI base units are m, kg, s, A, K, mol and cd.",
+        "Units must be consistent before using equations.",
+        "Core formula: [Q] = M^a L^b T^c ..."
       ]
     },
     {
       "id": "phy_01_02",
       "title": "SI units",
-      "theory": "SI units: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "The SI system provides a coherent set of units. Base units generate derived units such as newton, joule, pascal and watt. Prefixes such as kilo, milli and micro represent powers of ten.",
       "key_points": [
-        "Definition and core idea of SI units",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Newton is kg m s^-2.",
+        "Joule is kg m^2 s^-2.",
+        "Prefixes must be converted before calculation."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
-        }
-      ],
-      "examples": [
+          "name": "Force",
+          "formula": "1 N = 1 kg m s^-2",
+          "unit": "N"
+        },
         {
-          "question": "Worked example on SI units",
-          "solution": "Step-by-step solution placeholder."
+          "name": "Energy",
+          "formula": "1 J = 1 kg m^2 s^-2",
+          "unit": "J"
         }
       ],
+      "derivations": [
+        "Start from the SI definition of the derived quantity.",
+        "Substitute the base units.",
+        "Simplify the powers of base units."
+      ],
+      "examples": "Convert 5 cm to SI: 5 cm = 5×10^-2 m = 0.05 m.",
       "diagram": "assets/physics/diagrams/phy_01_02.svg",
       "graph": "assets/physics/graphs/phy_01_02.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes SI units?",
+          "q": "Which statement is correct about SI units?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Newton is kg m s^-2.",
+            "The topic has no measurable physical quantities.",
+            "SI units are never required in numerical problems.",
+            "The governing physical law can be ignored."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "The correct choice follows from the definition and governing principles of SI units."
         }
       ],
       "revision": [
-        "Quick revision: SI units",
-        "Remember the definitions, formulas and common applications."
+        "Newton is kg m s^-2.",
+        "Joule is kg m^2 s^-2.",
+        "Prefixes must be converted before calculation.",
+        "Core formula: 1 N = 1 kg m s^-2"
       ]
     },
     {
       "id": "phy_01_03",
       "title": "Dimensions and dimensional analysis",
-      "theory": "Dimensions and dimensional analysis: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Dimensional analysis represents a quantity using powers of fundamental dimensions. It checks dimensional consistency, helps derive relations up to a dimensionless constant, and converts units. It cannot determine numerical constants such as 2 or π.",
       "key_points": [
-        "Definition and core idea of Dimensions and dimensional analysis",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Every term added in a physical equation must have the same dimensions.",
+        "A dimensionally correct equation is not necessarily physically correct.",
+        "Arguments of trigonometric functions must be dimensionless."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
-        }
-      ],
-      "examples": [
+          "name": "Velocity",
+          "formula": "[v] = LT^-1",
+          "unit": "m s^-1"
+        },
         {
-          "question": "Worked example on Dimensions and dimensional analysis",
-          "solution": "Step-by-step solution placeholder."
+          "name": "Force",
+          "formula": "[F] = MLT^-2",
+          "unit": "N"
         }
       ],
+      "derivations": [
+        "Write the proposed relation.",
+        "Replace each variable by its dimensions.",
+        "Equate powers of each fundamental dimension."
+      ],
+      "examples": "For s = ut + 1/2 at^2, both ut and at^2 have dimensions of length, so the equation is dimensionally consistent.",
       "diagram": "assets/physics/diagrams/phy_01_03.svg",
       "graph": "assets/physics/graphs/phy_01_03.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Dimensions and dimensional analysis?",
+          "q": "Which statement is correct about Dimensions and dimensional analysis?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Every term added in a physical equation must have the same dimensions.",
+            "The topic has no measurable physical quantities.",
+            "SI units are never required in numerical problems.",
+            "The governing physical law can be ignored."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "The correct choice follows from the definition and governing principles of Dimensions and dimensional analysis."
         }
       ],
       "revision": [
-        "Quick revision: Dimensions and dimensional analysis",
-        "Remember the definitions, formulas and common applications."
+        "Every term added in a physical equation must have the same dimensions.",
+        "A dimensionally correct equation is not necessarily physically correct.",
+        "Arguments of trigonometric functions must be dimensionless.",
+        "Core formula: [v] = LT^-1"
       ]
     },
     {
       "id": "phy_01_04",
       "title": "Significant figures",
-      "theory": "Significant figures: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Significant figures indicate the precision justified by a measurement. Non-zero digits are significant; captive zeros are significant; leading zeros are not. In multiplication and division, the result is limited by the least number of significant figures; in addition and subtraction, by the least decimal places.",
       "key_points": [
-        "Definition and core idea of Significant figures",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Zeros between non-zero digits are significant.",
+        "Trailing zeros after a decimal point are significant.",
+        "Do not round intermediate values too early."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Percentage uncertainty",
+          "formula": "% uncertainty = (absolute uncertainty/measured value)×100",
+          "unit": "%"
         }
       ],
-      "examples": [
-        {
-          "question": "Worked example on Significant figures",
-          "solution": "Step-by-step solution placeholder."
-        }
+      "derivations": [
+        "Count significant digits according to the measurement rules.",
+        "Perform the operation without premature rounding.",
+        "Round the final answer to the required precision."
       ],
+      "examples": "2.50 has three significant figures, while 0.00250 also has three significant figures.",
       "diagram": "assets/physics/diagrams/phy_01_04.svg",
       "graph": "assets/physics/graphs/phy_01_04.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Significant figures?",
+          "q": "Which statement is correct about Significant figures?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Zeros between non-zero digits are significant.",
+            "The topic has no measurable physical quantities.",
+            "SI units are never required in numerical problems.",
+            "The governing physical law can be ignored."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "The correct choice follows from the definition and governing principles of Significant figures."
         }
       ],
       "revision": [
-        "Quick revision: Significant figures",
-        "Remember the definitions, formulas and common applications."
+        "Zeros between non-zero digits are significant.",
+        "Trailing zeros after a decimal point are significant.",
+        "Do not round intermediate values too early.",
+        "Core formula: % uncertainty = (absolute uncertainty/measured value)×100"
       ]
     },
     {
       "id": "phy_01_05",
       "title": "Errors in measurement",
-      "theory": "Errors in measurement: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Measurement error is the difference between a measured value and the accepted or true value. Random errors vary between trials; systematic errors shift measurements in a consistent way. Uncertainty is often expressed as absolute, relative or percentage uncertainty.",
       "key_points": [
-        "Definition and core idea of Errors in measurement",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Absolute error has the same unit as the measured quantity.",
+        "Relative error is dimensionless.",
+        "For addition/subtraction, absolute uncertainties add; for products/quotients, fractional uncertainties add approximately."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
-        }
-      ],
-      "examples": [
+          "name": "Relative error",
+          "formula": "Δx/x",
+          "unit": "dimensionless"
+        },
         {
-          "question": "Worked example on Errors in measurement",
-          "solution": "Step-by-step solution placeholder."
+          "name": "Percentage error",
+          "formula": "(Δx/x)×100",
+          "unit": "%"
         }
       ],
+      "derivations": [
+        "Find the absolute uncertainty in each measured quantity.",
+        "Convert to fractional uncertainty when products or powers are involved.",
+        "Multiply by 100 for percentage uncertainty."
+      ],
+      "examples": "If l = 10.0 ± 0.1 cm, percentage uncertainty = (0.1/10.0)×100 = 1%.",
       "diagram": "assets/physics/diagrams/phy_01_05.svg",
       "graph": "assets/physics/graphs/phy_01_05.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Errors in measurement?",
+          "q": "Which statement is correct about Errors in measurement?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Absolute error has the same unit as the measured quantity.",
+            "The topic has no measurable physical quantities.",
+            "SI units are never required in numerical problems.",
+            "The governing physical law can be ignored."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "The correct choice follows from the definition and governing principles of Errors in measurement."
         }
       ],
       "revision": [
-        "Quick revision: Errors in measurement",
-        "Remember the definitions, formulas and common applications."
+        "Absolute error has the same unit as the measured quantity.",
+        "Relative error is dimensionless.",
+        "For addition/subtraction, absolute uncertainties add; for products/quotients, fractional uncertainties add approximately.",
+        "Core formula: Δx/x"
       ]
     },
     {
       "id": "phy_01_06",
       "title": "Vernier calipers",
-      "theory": "Vernier calipers: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "A Vernier caliper measures external diameter, internal diameter and depth more precisely than a simple scale. Its least count is the difference between one main-scale division and one Vernier-scale division. A corrected reading must account for zero error.",
       "key_points": [
-        "Definition and core idea of Vernier calipers",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Least count = 1 MSD − 1 VSD.",
+        "Reading = main-scale reading + Vernier coincidence × least count.",
+        "Zero correction is the negative of zero error."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
-        }
-      ],
-      "examples": [
+          "name": "Reading",
+          "formula": "MSR + VC×LC",
+          "unit": "same unit as scale"
+        },
         {
-          "question": "Worked example on Vernier calipers",
-          "solution": "Step-by-step solution placeholder."
+          "name": "Least count",
+          "formula": "1 MSD − 1 VSD",
+          "unit": "length"
         }
       ],
+      "derivations": [
+        "Read the main scale just before the Vernier zero.",
+        "Find the coinciding Vernier division.",
+        "Multiply the coincidence by least count and apply zero correction."
+      ],
+      "examples": "If MSR = 2.3 cm, VC = 6 and LC = 0.01 cm, observed reading = 2.36 cm before zero correction.",
       "diagram": "assets/physics/diagrams/phy_01_06.svg",
       "graph": "assets/physics/graphs/phy_01_06.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Vernier calipers?",
+          "q": "Which statement is correct about Vernier calipers?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Least count = 1 MSD − 1 VSD.",
+            "The topic has no measurable physical quantities.",
+            "SI units are never required in numerical problems.",
+            "The governing physical law can be ignored."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "The correct choice follows from the definition and governing principles of Vernier calipers."
         }
       ],
       "revision": [
-        "Quick revision: Vernier calipers",
-        "Remember the definitions, formulas and common applications."
+        "Least count = 1 MSD − 1 VSD.",
+        "Reading = main-scale reading + Vernier coincidence × least count.",
+        "Zero correction is the negative of zero error.",
+        "Core formula: MSR + VC×LC"
       ]
     },
     {
       "id": "phy_01_07",
       "title": "Screw gauge",
-      "theory": "Screw gauge: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "A screw gauge uses the pitch of a screw and a circular scale to measure small thicknesses and diameters. Pitch is the axial distance moved in one complete rotation. Least count equals pitch divided by the number of circular-scale divisions.",
       "key_points": [
-        "Definition and core idea of Screw gauge",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Pitch = distance moved/number of rotations.",
+        "Least count = pitch/number of circular divisions.",
+        "Apply zero correction to the observed reading."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
-        }
-      ],
-      "examples": [
+          "name": "Reading",
+          "formula": "Pitch scale reading + circular coincidence×LC",
+          "unit": "length"
+        },
         {
-          "question": "Worked example on Screw gauge",
-          "solution": "Step-by-step solution placeholder."
+          "name": "Least count",
+          "formula": "Pitch/number of divisions",
+          "unit": "length"
         }
       ],
+      "derivations": [
+        "Determine pitch from one or more rotations.",
+        "Calculate least count.",
+        "Add pitch-scale and circular-scale readings and apply zero correction."
+      ],
+      "examples": "Pitch 1 mm with 100 circular divisions gives LC = 0.01 mm.",
       "diagram": "assets/physics/diagrams/phy_01_07.svg",
       "graph": "assets/physics/graphs/phy_01_07.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Screw gauge?",
+          "q": "Which statement is correct about Screw gauge?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Pitch = distance moved/number of rotations.",
+            "The topic has no measurable physical quantities.",
+            "SI units are never required in numerical problems.",
+            "The governing physical law can be ignored."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "The correct choice follows from the definition and governing principles of Screw gauge."
         }
       ],
       "revision": [
-        "Quick revision: Screw gauge",
-        "Remember the definitions, formulas and common applications."
+        "Pitch = distance moved/number of rotations.",
+        "Least count = pitch/number of circular divisions.",
+        "Apply zero correction to the observed reading.",
+        "Core formula: Pitch scale reading + circular coincidence×LC"
       ]
     }
   ]

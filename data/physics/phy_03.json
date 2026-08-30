@@ -6,253 +6,332 @@
     {
       "id": "phy_03_01",
       "title": "Newton's laws",
-      "theory": "Newton's laws: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Newton's laws is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Newton's laws",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Newton's laws and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Newton's second law",
+          "formula": "F = ma",
+          "unit": "N"
+        },
+        {
+          "name": "Momentum",
+          "formula": "p = mv",
+          "unit": "kg m s^-1"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Newton's laws",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Newton's laws: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Newton's laws. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_03_01.svg",
       "graph": "assets/physics/graphs/phy_03_01.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Newton's laws?",
+          "q": "Which statement is most appropriate for Newton's laws?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Newton's laws, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Newton's laws",
-        "Remember the definitions, formulas and common applications."
+        "Define Newton's laws and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: F = ma"
       ]
     },
     {
       "id": "phy_03_02",
       "title": "Free body diagrams",
-      "theory": "Free body diagrams: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Free body diagrams is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Free body diagrams",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Free body diagrams and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Topic relation",
+          "formula": "Use the defining law and SI variables for this topic.",
+          "unit": "SI units"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Free body diagrams",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Free body diagrams: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Free body diagrams. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_03_02.svg",
       "graph": "assets/physics/graphs/phy_03_02.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Free body diagrams?",
+          "q": "Which statement is most appropriate for Free body diagrams?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Free body diagrams, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Free body diagrams",
-        "Remember the definitions, formulas and common applications."
+        "Define Free body diagrams and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: Use the defining law and SI variables for this topic."
       ]
     },
     {
       "id": "phy_03_03",
       "title": "Friction",
-      "theory": "Friction: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Friction is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Friction",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Friction and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Limiting friction",
+          "formula": "f_max = μ_s N",
+          "unit": "N"
+        },
+        {
+          "name": "Kinetic friction",
+          "formula": "f_k = μ_k N",
+          "unit": "N"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Friction",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Friction: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Friction. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_03_03.svg",
       "graph": "assets/physics/graphs/phy_03_03.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Friction?",
+          "q": "Which statement is most appropriate for Friction?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Friction, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Friction",
-        "Remember the definitions, formulas and common applications."
+        "Define Friction and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: f_max = μ_s N"
       ]
     },
     {
       "id": "phy_03_04",
       "title": "Circular motion",
-      "theory": "Circular motion: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Circular motion is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Circular motion",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Circular motion and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Centripetal acceleration",
+          "formula": "a_c = v^2/r = ω^2r",
+          "unit": "m s^-2"
+        },
+        {
+          "name": "Centripetal force",
+          "formula": "F_c = mv^2/r",
+          "unit": "N"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Circular motion",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Circular motion: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Circular motion. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_03_04.svg",
       "graph": "assets/physics/graphs/phy_03_04.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Circular motion?",
+          "q": "Which statement is most appropriate for Circular motion?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Circular motion, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Circular motion",
-        "Remember the definitions, formulas and common applications."
+        "Define Circular motion and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: a_c = v^2/r = ω^2r"
       ]
     },
     {
       "id": "phy_03_05",
       "title": "Momentum and impulse",
-      "theory": "Momentum and impulse: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Momentum and impulse is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Momentum and impulse",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Momentum and impulse and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Momentum",
+          "formula": "p = mv",
+          "unit": "kg m s^-1"
+        },
+        {
+          "name": "Impulse",
+          "formula": "J = Δp",
+          "unit": "N s"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Momentum and impulse",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Momentum and impulse: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Momentum and impulse. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_03_05.svg",
       "graph": "assets/physics/graphs/phy_03_05.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Momentum and impulse?",
+          "q": "Which statement is most appropriate for Momentum and impulse?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Momentum and impulse, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Momentum and impulse",
-        "Remember the definitions, formulas and common applications."
+        "Define Momentum and impulse and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: p = mv"
       ]
     },
     {
       "id": "phy_03_06",
       "title": "Applications of Newton's laws",
-      "theory": "Applications of Newton's laws: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Applications of Newton's laws is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Applications of Newton's laws",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Applications of Newton's laws and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Newton's second law",
+          "formula": "F = ma",
+          "unit": "N"
+        },
+        {
+          "name": "Momentum",
+          "formula": "p = mv",
+          "unit": "kg m s^-1"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Applications of Newton's laws",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Applications of Newton's laws: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Applications of Newton's laws. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_03_06.svg",
       "graph": "assets/physics/graphs/phy_03_06.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Applications of Newton's laws?",
+          "q": "Which statement is most appropriate for Applications of Newton's laws?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Applications of Newton's laws, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Applications of Newton's laws",
-        "Remember the definitions, formulas and common applications."
+        "Define Applications of Newton's laws and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: F = ma"
       ]
     }
   ]

@@ -6,211 +6,256 @@
     {
       "id": "phy_09_01",
       "title": "Ideal gas",
-      "theory": "Ideal gas: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Ideal gas is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Ideal gas",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Ideal gas and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Ideal gas equation",
+          "formula": "PV = nRT",
+          "unit": "J"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Ideal gas",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Ideal gas: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Ideal gas. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_09_01.svg",
       "graph": "assets/physics/graphs/phy_09_01.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Ideal gas?",
+          "q": "Which statement is most appropriate for Ideal gas?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Ideal gas, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Ideal gas",
-        "Remember the definitions, formulas and common applications."
+        "Define Ideal gas and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: PV = nRT"
       ]
     },
     {
       "id": "phy_09_02",
-      "title": "Pressure and temperature",
-      "theory": "Pressure and temperature: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Kinetic interpretation of pressure",
+      "theory": "Kinetic interpretation of pressure is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Pressure and temperature",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Kinetic interpretation of pressure and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Kinetic energy",
+          "formula": "K = 1/2 mv^2",
+          "unit": "J"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Pressure and temperature",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Kinetic interpretation of pressure: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Kinetic interpretation of pressure. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_09_02.svg",
       "graph": "assets/physics/graphs/phy_09_02.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Pressure and temperature?",
+          "q": "Which statement is most appropriate for Kinetic interpretation of pressure?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Kinetic interpretation of pressure, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Pressure and temperature",
-        "Remember the definitions, formulas and common applications."
+        "Define Kinetic interpretation of pressure and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: K = 1/2 mv^2"
       ]
     },
     {
       "id": "phy_09_03",
-      "title": "Kinetic interpretation",
-      "theory": "Kinetic interpretation: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Temperature and molecular motion",
+      "theory": "Temperature and molecular motion is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Kinetic interpretation",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Temperature and molecular motion and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Heat transfer",
+          "formula": "Q = mcΔT",
+          "unit": "J"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Kinetic interpretation",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Temperature and molecular motion: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Temperature and molecular motion. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_09_03.svg",
       "graph": "assets/physics/graphs/phy_09_03.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Kinetic interpretation?",
+          "q": "Which statement is most appropriate for Temperature and molecular motion?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Temperature and molecular motion, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Kinetic interpretation",
-        "Remember the definitions, formulas and common applications."
+        "Define Temperature and molecular motion and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: Q = mcΔT"
       ]
     },
     {
       "id": "phy_09_04",
-      "title": "Degrees of freedom",
-      "theory": "Degrees of freedom: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "RMS speed and molecular speeds",
+      "theory": "RMS speed and molecular speeds is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Degrees of freedom",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define RMS speed and molecular speeds and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "RMS speed",
+          "formula": "v_rms = sqrt(3RT/M)",
+          "unit": "m s^-1"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Degrees of freedom",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on RMS speed and molecular speeds: identify the governing relation and the correct unit.",
+          "solution": "Start by defining RMS speed and molecular speeds. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_09_04.svg",
       "graph": "assets/physics/graphs/phy_09_04.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Degrees of freedom?",
+          "q": "Which statement is most appropriate for RMS speed and molecular speeds?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For RMS speed and molecular speeds, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Degrees of freedom",
-        "Remember the definitions, formulas and common applications."
+        "Define RMS speed and molecular speeds and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: v_rms = sqrt(3RT/M)"
       ]
     },
     {
       "id": "phy_09_05",
-      "title": "Mean free path",
-      "theory": "Mean free path: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Degrees of freedom and equipartition",
+      "theory": "Degrees of freedom and equipartition is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Mean free path",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Degrees of freedom and equipartition and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Topic relation",
+          "formula": "Use the defining law and SI variables for this topic.",
+          "unit": "SI units"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Mean free path",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Degrees of freedom and equipartition: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Degrees of freedom and equipartition. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_09_05.svg",
       "graph": "assets/physics/graphs/phy_09_05.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Mean free path?",
+          "q": "Which statement is most appropriate for Degrees of freedom and equipartition?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Degrees of freedom and equipartition, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Mean free path",
-        "Remember the definitions, formulas and common applications."
+        "Define Degrees of freedom and equipartition and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: Use the defining law and SI variables for this topic."
       ]
     }
   ]

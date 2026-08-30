@@ -6,337 +6,403 @@
     {
       "id": "phy_02_01",
       "title": "Motion in one dimension",
-      "theory": "Motion in one dimension: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "One-dimensional motion describes an object's position along a single coordinate axis. Position is specified by x(t); velocity is the rate of change of position and acceleration is the rate of change of velocity.",
       "key_points": [
-        "Definition and core idea of Motion in one dimension",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Velocity is a vector; speed is its magnitude.",
+        "Average velocity uses displacement, not total distance.",
+        "Acceleration can be opposite to velocity."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
-        }
-      ],
-      "examples": [
+          "name": "Average velocity",
+          "formula": "Δx/Δt",
+          "unit": "m s^-1"
+        },
         {
-          "question": "Worked example on Motion in one dimension",
-          "solution": "Step-by-step solution placeholder."
+          "name": "Acceleration",
+          "formula": "dv/dt",
+          "unit": "m s^-2"
         }
       ],
+      "derivations": [
+        "Define position x(t).",
+        "Differentiate x(t) with respect to time to obtain velocity.",
+        "Differentiate velocity to obtain acceleration."
+      ],
+      "examples": "If x = 4t^2, v = dx/dt = 8t and a = 8 m s^-2.",
       "diagram": "assets/physics/diagrams/phy_02_01.svg",
       "graph": "assets/physics/graphs/phy_02_01.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Motion in one dimension?",
+          "q": "Which statement is correct about Motion in one dimension?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Velocity is a vector; speed is its magnitude.",
+            "The topic has no measurable physical quantities.",
+            "SI units are never required in numerical problems.",
+            "The governing physical law can be ignored."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "The correct choice follows from the definition and governing principles of Motion in one dimension."
         }
       ],
       "revision": [
-        "Quick revision: Motion in one dimension",
-        "Remember the definitions, formulas and common applications."
+        "Velocity is a vector; speed is its magnitude.",
+        "Average velocity uses displacement, not total distance.",
+        "Acceleration can be opposite to velocity.",
+        "Core formula: Δx/Δt"
       ]
     },
     {
       "id": "phy_02_02",
       "title": "Position, distance and displacement",
-      "theory": "Position, distance and displacement: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Position gives the location relative to an origin. Distance is the total path length and is a scalar. Displacement is the directed change in position and is a vector. Distance is always greater than or equal to the magnitude of displacement.",
       "key_points": [
-        "Definition and core idea of Position, distance and displacement",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Distance is path dependent.",
+        "Displacement depends only on initial and final positions.",
+        "For a closed trip, displacement can be zero while distance is non-zero."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
-        }
-      ],
-      "examples": [
+          "name": "Displacement",
+          "formula": "Δx = x_f − x_i",
+          "unit": "m"
+        },
         {
-          "question": "Worked example on Position, distance and displacement",
-          "solution": "Step-by-step solution placeholder."
+          "name": "Average speed",
+          "formula": "total distance/total time",
+          "unit": "m s^-1"
         }
       ],
+      "derivations": [
+        "Mark initial and final positions.",
+        "Calculate final minus initial coordinate for displacement.",
+        "Add all path segments for distance."
+      ],
+      "examples": "A runner completing one 400 m lap has distance 400 m but displacement 0.",
       "diagram": "assets/physics/diagrams/phy_02_02.svg",
       "graph": "assets/physics/graphs/phy_02_02.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Position, distance and displacement?",
+          "q": "Which statement is correct about Position, distance and displacement?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Distance is path dependent.",
+            "The topic has no measurable physical quantities.",
+            "SI units are never required in numerical problems.",
+            "The governing physical law can be ignored."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "The correct choice follows from the definition and governing principles of Position, distance and displacement."
         }
       ],
       "revision": [
-        "Quick revision: Position, distance and displacement",
-        "Remember the definitions, formulas and common applications."
+        "Distance is path dependent.",
+        "Displacement depends only on initial and final positions.",
+        "For a closed trip, displacement can be zero while distance is non-zero.",
+        "Core formula: Δx = x_f − x_i"
       ]
     },
     {
       "id": "phy_02_03",
       "title": "Speed and velocity",
-      "theory": "Speed and velocity: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Speed is the scalar rate of change of distance; velocity is the vector rate of change of displacement. Instantaneous velocity is dx/dt, while instantaneous speed is the magnitude of velocity.",
       "key_points": [
-        "Definition and core idea of Speed and velocity",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Average speed = total distance/total time.",
+        "Average velocity = displacement/total time.",
+        "Uniform circular motion has constant speed but changing velocity."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
-        }
-      ],
-      "examples": [
+          "name": "Speed",
+          "formula": "distance/time",
+          "unit": "m s^-1"
+        },
         {
-          "question": "Worked example on Speed and velocity",
-          "solution": "Step-by-step solution placeholder."
+          "name": "Velocity",
+          "formula": "displacement/time",
+          "unit": "m s^-1"
         }
       ],
+      "derivations": [
+        "Calculate total path and total time for average speed.",
+        "Use net displacement for average velocity.",
+        "For instantaneous values use derivatives."
+      ],
+      "examples": "A particle moving at constant speed around a circle has nonzero acceleration because its velocity direction changes.",
       "diagram": "assets/physics/diagrams/phy_02_03.svg",
       "graph": "assets/physics/graphs/phy_02_03.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Speed and velocity?",
+          "q": "Which statement is correct about Speed and velocity?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Average speed = total distance/total time.",
+            "The topic has no measurable physical quantities.",
+            "SI units are never required in numerical problems.",
+            "The governing physical law can be ignored."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "The correct choice follows from the definition and governing principles of Speed and velocity."
         }
       ],
       "revision": [
-        "Quick revision: Speed and velocity",
-        "Remember the definitions, formulas and common applications."
+        "Average speed = total distance/total time.",
+        "Average velocity = displacement/total time.",
+        "Uniform circular motion has constant speed but changing velocity.",
+        "Core formula: distance/time"
       ]
     },
     {
       "id": "phy_02_04",
       "title": "Acceleration",
-      "theory": "Acceleration: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Acceleration measures how rapidly velocity changes. It may change the magnitude, direction, or both. Uniform acceleration means constant acceleration vector.",
       "key_points": [
-        "Definition and core idea of Acceleration",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Acceleration is a vector.",
+        "Negative acceleration does not always mean slowing down; direction of velocity matters.",
+        "For constant acceleration, kinematic equations apply."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
-        }
-      ],
-      "examples": [
+          "name": "Acceleration",
+          "formula": "Δv/Δt",
+          "unit": "m s^-2"
+        },
         {
-          "question": "Worked example on Acceleration",
-          "solution": "Step-by-step solution placeholder."
+          "name": "Tangential acceleration",
+          "formula": "dv/dt",
+          "unit": "m s^-2"
         }
       ],
+      "derivations": [
+        "Find the change in velocity vector.",
+        "Divide by time interval for average acceleration.",
+        "Use dv/dt for instantaneous acceleration."
+      ],
+      "examples": "Velocity changing from 10 to 20 m/s in 5 s gives average acceleration 2 m/s^2.",
       "diagram": "assets/physics/diagrams/phy_02_04.svg",
       "graph": "assets/physics/graphs/phy_02_04.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Acceleration?",
+          "q": "Which statement is correct about Acceleration?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Acceleration is a vector.",
+            "The topic has no measurable physical quantities.",
+            "SI units are never required in numerical problems.",
+            "The governing physical law can be ignored."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "The correct choice follows from the definition and governing principles of Acceleration."
         }
       ],
       "revision": [
-        "Quick revision: Acceleration",
-        "Remember the definitions, formulas and common applications."
+        "Acceleration is a vector.",
+        "Negative acceleration does not always mean slowing down; direction of velocity matters.",
+        "For constant acceleration, kinematic equations apply.",
+        "Core formula: Δv/Δt"
       ]
     },
     {
       "id": "phy_02_05",
       "title": "Equations of motion",
-      "theory": "Equations of motion: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "For constant acceleration, the kinematic equations connect displacement, initial velocity, final velocity and time. They follow directly from a = dv/dt and the definition of velocity.",
       "key_points": [
-        "Definition and core idea of Equations of motion",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "v = u + at.",
+        "s = ut + 1/2 at^2.",
+        "v^2 = u^2 + 2as."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
-        }
-      ],
-      "examples": [
+          "name": "First equation",
+          "formula": "v = u + at",
+          "unit": "m s^-1"
+        },
         {
-          "question": "Worked example on Equations of motion",
-          "solution": "Step-by-step solution placeholder."
+          "name": "Second equation",
+          "formula": "s = ut + 1/2at^2",
+          "unit": "m"
+        },
+        {
+          "name": "Third equation",
+          "formula": "v^2 = u^2 + 2as",
+          "unit": "m^2 s^-2"
         }
       ],
+      "derivations": [
+        "Integrate a = dv/dt for v = u + at.",
+        "Use v = dx/dt and integrate velocity to obtain displacement.",
+        "Eliminate time to obtain v^2 = u^2 + 2as."
+      ],
+      "examples": "From rest with a = 2 m/s^2 for 5 s: v = 10 m/s and s = 25 m.",
       "diagram": "assets/physics/diagrams/phy_02_05.svg",
       "graph": "assets/physics/graphs/phy_02_05.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Equations of motion?",
+          "q": "Which statement is correct about Equations of motion?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "v = u + at.",
+            "The topic has no measurable physical quantities.",
+            "SI units are never required in numerical problems.",
+            "The governing physical law can be ignored."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "The correct choice follows from the definition and governing principles of Equations of motion."
         }
       ],
       "revision": [
-        "Quick revision: Equations of motion",
-        "Remember the definitions, formulas and common applications."
+        "v = u + at.",
+        "s = ut + 1/2 at^2.",
+        "v^2 = u^2 + 2as.",
+        "Core formula: v = u + at"
       ]
     },
     {
       "id": "phy_02_06",
       "title": "Motion graphs",
-      "theory": "Motion graphs: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Graphs provide a visual description of motion. The slope of an x-t graph is velocity; the slope of a v-t graph is acceleration; area under a v-t graph gives displacement.",
       "key_points": [
-        "Definition and core idea of Motion graphs",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Slope of x-t = velocity.",
+        "Slope of v-t = acceleration.",
+        "Area under v-t = displacement."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
-        }
-      ],
-      "examples": [
+          "name": "Velocity",
+          "formula": "slope of x-t graph",
+          "unit": "m s^-1"
+        },
         {
-          "question": "Worked example on Motion graphs",
-          "solution": "Step-by-step solution placeholder."
+          "name": "Acceleration",
+          "formula": "slope of v-t graph",
+          "unit": "m s^-2"
+        },
+        {
+          "name": "Displacement",
+          "formula": "area under v-t graph",
+          "unit": "m"
         }
       ],
+      "derivations": [
+        "Identify the graph axes.",
+        "Use slope for rate quantities.",
+        "Use area under v-t or a-t graphs for accumulated quantities."
+      ],
+      "examples": "A horizontal v-t line represents constant velocity; its area is v×t.",
       "diagram": "assets/physics/diagrams/phy_02_06.svg",
       "graph": "assets/physics/graphs/phy_02_06.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Motion graphs?",
+          "q": "Which statement is correct about Motion graphs?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Slope of x-t = velocity.",
+            "The topic has no measurable physical quantities.",
+            "SI units are never required in numerical problems.",
+            "The governing physical law can be ignored."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "The correct choice follows from the definition and governing principles of Motion graphs."
         }
       ],
       "revision": [
-        "Quick revision: Motion graphs",
-        "Remember the definitions, formulas and common applications."
+        "Slope of x-t = velocity.",
+        "Slope of v-t = acceleration.",
+        "Area under v-t = displacement.",
+        "Core formula: slope of x-t graph"
       ]
     },
     {
       "id": "phy_02_07",
       "title": "Projectile motion",
-      "theory": "Projectile motion: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Projectile motion is two-dimensional motion under uniform gravitational acceleration when air resistance is neglected. Horizontal motion has constant velocity, while vertical motion has acceleration −g.",
       "key_points": [
-        "Definition and core idea of Projectile motion",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "u_x = u cosθ and u_y = u sinθ.",
+        "Time of flight T = 2u sinθ/g for same-level projection and landing.",
+        "Range R = u^2 sin2θ/g; maximum at 45°."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
-        }
-      ],
-      "examples": [
+          "name": "Time of flight",
+          "formula": "T = 2u sinθ/g",
+          "unit": "s"
+        },
         {
-          "question": "Worked example on Projectile motion",
-          "solution": "Step-by-step solution placeholder."
+          "name": "Maximum height",
+          "formula": "H = u^2 sin^2θ/(2g)",
+          "unit": "m"
+        },
+        {
+          "name": "Range",
+          "formula": "R = u^2 sin2θ/g",
+          "unit": "m"
         }
       ],
+      "derivations": [
+        "Resolve initial velocity into horizontal and vertical components.",
+        "Use y = u_y t − 1/2gt^2 and set y=0 for flight time.",
+        "Use x = u_x T to obtain range."
+      ],
+      "examples": "For u=20 m/s, θ=30°, g=10 m/s², T=2 s.",
       "diagram": "assets/physics/diagrams/phy_02_07.svg",
       "graph": "assets/physics/graphs/phy_02_07.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Projectile motion?",
+          "q": "Which statement is correct about Projectile motion?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "u_x = u cosθ and u_y = u sinθ.",
+            "The topic has no measurable physical quantities.",
+            "SI units are never required in numerical problems.",
+            "The governing physical law can be ignored."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "The correct choice follows from the definition and governing principles of Projectile motion."
         }
       ],
       "revision": [
-        "Quick revision: Projectile motion",
-        "Remember the definitions, formulas and common applications."
+        "u_x = u cosθ and u_y = u sinθ.",
+        "Time of flight T = 2u sinθ/g for same-level projection and landing.",
+        "Range R = u^2 sin2θ/g; maximum at 45°.",
+        "Core formula: T = 2u sinθ/g"
       ]
     },
     {
       "id": "phy_02_08",
       "title": "Relative motion",
-      "theory": "Relative motion: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Relative velocity describes motion as seen from another moving reference object. The relative velocity of A with respect to B is the vector difference v_A − v_B.",
       "key_points": [
-        "Definition and core idea of Relative motion",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Relative velocity is frame dependent.",
+        "For collinear motion use signed velocities.",
+        "For perpendicular velocities use vector addition/subtraction."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Relative velocity",
+          "formula": "v_AB = v_A − v_B",
+          "unit": "m s^-1"
         }
       ],
-      "examples": [
-        {
-          "question": "Worked example on Relative motion",
-          "solution": "Step-by-step solution placeholder."
-        }
+      "derivations": [
+        "Choose the reference object.",
+        "Assign consistent velocity vectors.",
+        "Subtract the reference velocity from the object's velocity."
       ],
+      "examples": "If two cars move in the same direction at 20 and 15 m/s, the faster car has relative speed 5 m/s.",
       "diagram": "assets/physics/diagrams/phy_02_08.svg",
       "graph": "assets/physics/graphs/phy_02_08.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Relative motion?",
+          "q": "Which statement is correct about Relative motion?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Relative velocity is frame dependent.",
+            "The topic has no measurable physical quantities.",
+            "SI units are never required in numerical problems.",
+            "The governing physical law can be ignored."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "The correct choice follows from the definition and governing principles of Relative motion."
         }
       ],
       "revision": [
-        "Quick revision: Relative motion",
-        "Remember the definitions, formulas and common applications."
+        "Relative velocity is frame dependent.",
+        "For collinear motion use signed velocities.",
+        "For perpendicular velocities use vector addition/subtraction.",
+        "Core formula: v_AB = v_A − v_B"
       ]
     }
   ]

@@ -6,253 +6,317 @@
     {
       "id": "phy_05_01",
       "title": "Centre of mass",
-      "theory": "Centre of mass: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Centre of mass is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Centre of mass",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Centre of mass and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Topic relation",
+          "formula": "Use the defining law and SI variables for this topic.",
+          "unit": "SI units"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Centre of mass",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Centre of mass: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Centre of mass. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_05_01.svg",
       "graph": "assets/physics/graphs/phy_05_01.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Centre of mass?",
+          "q": "Which statement is most appropriate for Centre of mass?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Centre of mass, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Centre of mass",
-        "Remember the definitions, formulas and common applications."
+        "Define Centre of mass and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: Use the defining law and SI variables for this topic."
       ]
     },
     {
       "id": "phy_05_02",
       "title": "Linear momentum",
-      "theory": "Linear momentum: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Linear momentum is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Linear momentum",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Linear momentum and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Momentum",
+          "formula": "p = mv",
+          "unit": "kg m s^-1"
+        },
+        {
+          "name": "Impulse",
+          "formula": "J = Δp",
+          "unit": "N s"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Linear momentum",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Linear momentum: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Linear momentum. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_05_02.svg",
       "graph": "assets/physics/graphs/phy_05_02.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Linear momentum?",
+          "q": "Which statement is most appropriate for Linear momentum?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Linear momentum, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Linear momentum",
-        "Remember the definitions, formulas and common applications."
+        "Define Linear momentum and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: p = mv"
       ]
     },
     {
       "id": "phy_05_03",
       "title": "Torque",
-      "theory": "Torque: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Torque is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Torque",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Torque and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Torque",
+          "formula": "τ = rF sinθ",
+          "unit": "N m"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Torque",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Torque: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Torque. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_05_03.svg",
       "graph": "assets/physics/graphs/phy_05_03.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Torque?",
+          "q": "Which statement is most appropriate for Torque?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Torque, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Torque",
-        "Remember the definitions, formulas and common applications."
+        "Define Torque and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: τ = rF sinθ"
       ]
     },
     {
       "id": "phy_05_04",
       "title": "Angular momentum",
-      "theory": "Angular momentum: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Angular momentum is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Angular momentum",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Angular momentum and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Momentum",
+          "formula": "p = mv",
+          "unit": "kg m s^-1"
+        },
+        {
+          "name": "Impulse",
+          "formula": "J = Δp",
+          "unit": "N s"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Angular momentum",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Angular momentum: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Angular momentum. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_05_04.svg",
       "graph": "assets/physics/graphs/phy_05_04.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Angular momentum?",
+          "q": "Which statement is most appropriate for Angular momentum?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Angular momentum, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Angular momentum",
-        "Remember the definitions, formulas and common applications."
+        "Define Angular momentum and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: p = mv"
       ]
     },
     {
       "id": "phy_05_05",
       "title": "Moment of inertia",
-      "theory": "Moment of inertia: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Moment of inertia is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Moment of inertia",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Moment of inertia and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Rotational analogue",
+          "formula": "τ = Iα",
+          "unit": "N m"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Moment of inertia",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Moment of inertia: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Moment of inertia. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_05_05.svg",
       "graph": "assets/physics/graphs/phy_05_05.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Moment of inertia?",
+          "q": "Which statement is most appropriate for Moment of inertia?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Moment of inertia, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Moment of inertia",
-        "Remember the definitions, formulas and common applications."
+        "Define Moment of inertia and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: τ = Iα"
       ]
     },
     {
       "id": "phy_05_06",
       "title": "Rolling motion",
-      "theory": "Rolling motion: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Rolling motion is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Rolling motion",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Rolling motion and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Rolling condition",
+          "formula": "v = ωR",
+          "unit": "m s^-1"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Rolling motion",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Rolling motion: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Rolling motion. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_05_06.svg",
       "graph": "assets/physics/graphs/phy_05_06.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Rolling motion?",
+          "q": "Which statement is most appropriate for Rolling motion?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Rolling motion, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Rolling motion",
-        "Remember the definitions, formulas and common applications."
+        "Define Rolling motion and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: v = ωR"
       ]
     }
   ]

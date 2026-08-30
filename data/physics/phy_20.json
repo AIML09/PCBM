@@ -6,169 +6,205 @@
     {
       "id": "phy_20_01",
       "title": "Photoelectric effect",
-      "theory": "Photoelectric effect: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Photoelectric effect is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Photoelectric effect",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Photoelectric effect and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Einstein equation",
+          "formula": "hν = φ + K_max",
+          "unit": "J"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Photoelectric effect",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Photoelectric effect: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Photoelectric effect. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_20_01.svg",
       "graph": "assets/physics/graphs/phy_20_01.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Photoelectric effect?",
+          "q": "Which statement is most appropriate for Photoelectric effect?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Photoelectric effect, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Photoelectric effect",
-        "Remember the definitions, formulas and common applications."
+        "Define Photoelectric effect and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: hν = φ + K_max"
       ]
     },
     {
       "id": "phy_20_02",
-      "title": "Einstein equation",
-      "theory": "Einstein equation: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Einstein's photoelectric equation",
+      "theory": "Einstein's photoelectric equation is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Einstein equation",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Einstein's photoelectric equation and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Einstein equation",
+          "formula": "hν = φ + K_max",
+          "unit": "J"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Einstein equation",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Einstein's photoelectric equation: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Einstein's photoelectric equation. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_20_02.svg",
       "graph": "assets/physics/graphs/phy_20_02.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Einstein equation?",
+          "q": "Which statement is most appropriate for Einstein's photoelectric equation?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Einstein's photoelectric equation, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Einstein equation",
-        "Remember the definitions, formulas and common applications."
+        "Define Einstein's photoelectric equation and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: hν = φ + K_max"
       ]
     },
     {
       "id": "phy_20_03",
       "title": "Matter waves",
-      "theory": "Matter waves: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Matter waves is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Matter waves",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Matter waves and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Wave speed",
+          "formula": "v = fλ",
+          "unit": "m s^-1"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Matter waves",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Matter waves: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Matter waves. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_20_03.svg",
       "graph": "assets/physics/graphs/phy_20_03.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Matter waves?",
+          "q": "Which statement is most appropriate for Matter waves?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Matter waves, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Matter waves",
-        "Remember the definitions, formulas and common applications."
+        "Define Matter waves and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: v = fλ"
       ]
     },
     {
       "id": "phy_20_04",
       "title": "de Broglie wavelength",
-      "theory": "de Broglie wavelength: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "de Broglie wavelength is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of de Broglie wavelength",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define de Broglie wavelength and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Wave speed",
+          "formula": "v = fλ",
+          "unit": "m s^-1"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on de Broglie wavelength",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on de Broglie wavelength: identify the governing relation and the correct unit.",
+          "solution": "Start by defining de Broglie wavelength. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_20_04.svg",
       "graph": "assets/physics/graphs/phy_20_04.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes de Broglie wavelength?",
+          "q": "Which statement is most appropriate for de Broglie wavelength?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For de Broglie wavelength, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: de Broglie wavelength",
-        "Remember the definitions, formulas and common applications."
+        "Define de Broglie wavelength and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: v = fλ"
       ]
     }
   ]

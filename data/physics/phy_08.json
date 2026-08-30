@@ -6,253 +6,307 @@
     {
       "id": "phy_08_01",
       "title": "Temperature and heat",
-      "theory": "Temperature and heat: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Temperature and heat is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Temperature and heat",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Temperature and heat and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Heat transfer",
+          "formula": "Q = mcΔT",
+          "unit": "J"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Temperature and heat",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Temperature and heat: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Temperature and heat. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_08_01.svg",
       "graph": "assets/physics/graphs/phy_08_01.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Temperature and heat?",
+          "q": "Which statement is most appropriate for Temperature and heat?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Temperature and heat, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Temperature and heat",
-        "Remember the definitions, formulas and common applications."
+        "Define Temperature and heat and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: Q = mcΔT"
       ]
     },
     {
       "id": "phy_08_02",
-      "title": "Zeroth law",
-      "theory": "Zeroth law: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Thermal expansion and calorimetry",
+      "theory": "Thermal expansion and calorimetry is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Zeroth law",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Thermal expansion and calorimetry and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Topic relation",
+          "formula": "Use the defining law and SI variables for this topic.",
+          "unit": "SI units"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Zeroth law",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Thermal expansion and calorimetry: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Thermal expansion and calorimetry. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_08_02.svg",
       "graph": "assets/physics/graphs/phy_08_02.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Zeroth law?",
+          "q": "Which statement is most appropriate for Thermal expansion and calorimetry?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Thermal expansion and calorimetry, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Zeroth law",
-        "Remember the definitions, formulas and common applications."
+        "Define Thermal expansion and calorimetry and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: Use the defining law and SI variables for this topic."
       ]
     },
     {
       "id": "phy_08_03",
-      "title": "First law",
-      "theory": "First law: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Zeroth law of thermodynamics",
+      "theory": "Zeroth law of thermodynamics is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of First law",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Zeroth law of thermodynamics and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "First law",
+          "formula": "ΔQ = ΔU + W",
+          "unit": "J"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on First law",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Zeroth law of thermodynamics: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Zeroth law of thermodynamics. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_08_03.svg",
       "graph": "assets/physics/graphs/phy_08_03.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes First law?",
+          "q": "Which statement is most appropriate for Zeroth law of thermodynamics?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Zeroth law of thermodynamics, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: First law",
-        "Remember the definitions, formulas and common applications."
+        "Define Zeroth law of thermodynamics and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: ΔQ = ΔU + W"
       ]
     },
     {
       "id": "phy_08_04",
-      "title": "Second law",
-      "theory": "Second law: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "First law and thermodynamic processes",
+      "theory": "First law and thermodynamic processes is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Second law",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define First law and thermodynamic processes and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "First law",
+          "formula": "ΔQ = ΔU + W",
+          "unit": "J"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Second law",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on First law and thermodynamic processes: identify the governing relation and the correct unit.",
+          "solution": "Start by defining First law and thermodynamic processes. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_08_04.svg",
       "graph": "assets/physics/graphs/phy_08_04.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Second law?",
+          "q": "Which statement is most appropriate for First law and thermodynamic processes?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For First law and thermodynamic processes, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Second law",
-        "Remember the definitions, formulas and common applications."
+        "Define First law and thermodynamic processes and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: ΔQ = ΔU + W"
       ]
     },
     {
       "id": "phy_08_05",
-      "title": "Thermodynamic processes",
-      "theory": "Thermodynamic processes: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Second law of thermodynamics",
+      "theory": "Second law of thermodynamics is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Thermodynamic processes",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Second law of thermodynamics and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "First law",
+          "formula": "ΔQ = ΔU + W",
+          "unit": "J"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Thermodynamic processes",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Second law of thermodynamics: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Second law of thermodynamics. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_08_05.svg",
       "graph": "assets/physics/graphs/phy_08_05.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Thermodynamic processes?",
+          "q": "Which statement is most appropriate for Second law of thermodynamics?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Second law of thermodynamics, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Thermodynamic processes",
-        "Remember the definitions, formulas and common applications."
+        "Define Second law of thermodynamics and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: ΔQ = ΔU + W"
       ]
     },
     {
       "id": "phy_08_06",
       "title": "Heat engines and refrigerators",
-      "theory": "Heat engines and refrigerators: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Heat engines and refrigerators is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Heat engines and refrigerators",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Heat engines and refrigerators and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Latent heat",
+          "formula": "Q = mL",
+          "unit": "J"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Heat engines and refrigerators",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Heat engines and refrigerators: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Heat engines and refrigerators. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_08_06.svg",
       "graph": "assets/physics/graphs/phy_08_06.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Heat engines and refrigerators?",
+          "q": "Which statement is most appropriate for Heat engines and refrigerators?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Heat engines and refrigerators, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Heat engines and refrigerators",
-        "Remember the definitions, formulas and common applications."
+        "Define Heat engines and refrigerators and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: Q = mL"
       ]
     }
   ]

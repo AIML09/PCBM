@@ -6,253 +6,317 @@
     {
       "id": "phy_07_01",
       "title": "Elasticity",
-      "theory": "Elasticity: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Elasticity is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Elasticity",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Elasticity and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Topic relation",
+          "formula": "Use the defining law and SI variables for this topic.",
+          "unit": "SI units"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Elasticity",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Elasticity: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Elasticity. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_07_01.svg",
       "graph": "assets/physics/graphs/phy_07_01.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Elasticity?",
+          "q": "Which statement is most appropriate for Elasticity?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Elasticity, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Elasticity",
-        "Remember the definitions, formulas and common applications."
+        "Define Elasticity and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: Use the defining law and SI variables for this topic."
       ]
     },
     {
       "id": "phy_07_02",
       "title": "Stress and strain",
-      "theory": "Stress and strain: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Stress and strain is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Stress and strain",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Stress and strain and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Stress",
+          "formula": "σ = F/A",
+          "unit": "Pa"
+        },
+        {
+          "name": "Strain",
+          "formula": "ε = ΔL/L",
+          "unit": "dimensionless"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Stress and strain",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Stress and strain: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Stress and strain. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_07_02.svg",
       "graph": "assets/physics/graphs/phy_07_02.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Stress and strain?",
+          "q": "Which statement is most appropriate for Stress and strain?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Stress and strain, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Stress and strain",
-        "Remember the definitions, formulas and common applications."
+        "Define Stress and strain and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: σ = F/A"
       ]
     },
     {
       "id": "phy_07_03",
       "title": "Fluid pressure",
-      "theory": "Fluid pressure: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Fluid pressure is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Fluid pressure",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Fluid pressure and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Pressure",
+          "formula": "P = F/A",
+          "unit": "Pa"
+        },
+        {
+          "name": "Hydrostatic pressure",
+          "formula": "P = P0 + ρgh",
+          "unit": "Pa"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Fluid pressure",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Fluid pressure: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Fluid pressure. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_07_03.svg",
       "graph": "assets/physics/graphs/phy_07_03.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Fluid pressure?",
+          "q": "Which statement is most appropriate for Fluid pressure?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Fluid pressure, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Fluid pressure",
-        "Remember the definitions, formulas and common applications."
+        "Define Fluid pressure and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: P = F/A"
       ]
     },
     {
       "id": "phy_07_04",
       "title": "Viscosity",
-      "theory": "Viscosity: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Viscosity is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Viscosity",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Viscosity and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Stokes drag",
+          "formula": "F = 6πηrv",
+          "unit": "N"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Viscosity",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Viscosity: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Viscosity. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_07_04.svg",
       "graph": "assets/physics/graphs/phy_07_04.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Viscosity?",
+          "q": "Which statement is most appropriate for Viscosity?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Viscosity, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Viscosity",
-        "Remember the definitions, formulas and common applications."
+        "Define Viscosity and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: F = 6πηrv"
       ]
     },
     {
       "id": "phy_07_05",
       "title": "Surface tension",
-      "theory": "Surface tension: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Surface tension is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Surface tension",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Surface tension and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Surface tension",
+          "formula": "T = F/l",
+          "unit": "N m^-1"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Surface tension",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Surface tension: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Surface tension. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_07_05.svg",
       "graph": "assets/physics/graphs/phy_07_05.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Surface tension?",
+          "q": "Which statement is most appropriate for Surface tension?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Surface tension, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Surface tension",
-        "Remember the definitions, formulas and common applications."
+        "Define Surface tension and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: T = F/l"
       ]
     },
     {
       "id": "phy_07_06",
       "title": "Bernoulli principle",
-      "theory": "Bernoulli principle: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Bernoulli principle is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Bernoulli principle",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Bernoulli principle and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Bernoulli equation",
+          "formula": "P + 1/2ρv^2 + ρgh = constant",
+          "unit": "Pa"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Bernoulli principle",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Bernoulli principle: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Bernoulli principle. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_07_06.svg",
       "graph": "assets/physics/graphs/phy_07_06.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Bernoulli principle?",
+          "q": "Which statement is most appropriate for Bernoulli principle?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Bernoulli principle, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Bernoulli principle",
-        "Remember the definitions, formulas and common applications."
+        "Define Bernoulli principle and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: P + 1/2ρv^2 + ρgh = constant"
       ]
     }
   ]

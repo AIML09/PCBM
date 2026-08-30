@@ -6,295 +6,358 @@
     {
       "id": "phy_23_01",
       "title": "Intrinsic and extrinsic semiconductors",
-      "theory": "Intrinsic and extrinsic semiconductors: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Intrinsic and extrinsic semiconductors is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Intrinsic and extrinsic semiconductors",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Intrinsic and extrinsic semiconductors and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Conductivity",
+          "formula": "σ = neμ_e + peμ_h",
+          "unit": "S m^-1"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Intrinsic and extrinsic semiconductors",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Intrinsic and extrinsic semiconductors: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Intrinsic and extrinsic semiconductors. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_23_01.svg",
       "graph": "assets/physics/graphs/phy_23_01.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Intrinsic and extrinsic semiconductors?",
+          "q": "Which statement is most appropriate for Intrinsic and extrinsic semiconductors?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Intrinsic and extrinsic semiconductors, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Intrinsic and extrinsic semiconductors",
-        "Remember the definitions, formulas and common applications."
+        "Define Intrinsic and extrinsic semiconductors and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: σ = neμ_e + peμ_h"
       ]
     },
     {
       "id": "phy_23_02",
-      "title": "PN junction",
-      "theory": "PN junction: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "p-n junction",
+      "theory": "p-n junction is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of PN junction",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define p-n junction and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Topic relation",
+          "formula": "Use the defining law and SI variables for this topic.",
+          "unit": "SI units"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on PN junction",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on p-n junction: identify the governing relation and the correct unit.",
+          "solution": "Start by defining p-n junction. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_23_02.svg",
       "graph": "assets/physics/graphs/phy_23_02.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes PN junction?",
+          "q": "Which statement is most appropriate for p-n junction?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For p-n junction, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: PN junction",
-        "Remember the definitions, formulas and common applications."
+        "Define p-n junction and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: Use the defining law and SI variables for this topic."
       ]
     },
     {
       "id": "phy_23_03",
-      "title": "Diode",
-      "theory": "Diode: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Diode characteristics",
+      "theory": "Diode characteristics is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Diode",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Diode characteristics and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Diode current",
+          "formula": "I ≈ I0(e^(V/ηVT) − 1)",
+          "unit": "A"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Diode",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Diode characteristics: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Diode characteristics. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_23_03.svg",
       "graph": "assets/physics/graphs/phy_23_03.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Diode?",
+          "q": "Which statement is most appropriate for Diode characteristics?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Diode characteristics, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Diode",
-        "Remember the definitions, formulas and common applications."
+        "Define Diode characteristics and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: I ≈ I0(e^(V/ηVT) − 1)"
       ]
     },
     {
       "id": "phy_23_04",
       "title": "Rectifier",
-      "theory": "Rectifier: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Rectifier is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Rectifier",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Rectifier and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Topic relation",
+          "formula": "Use the defining law and SI variables for this topic.",
+          "unit": "SI units"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Rectifier",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Rectifier: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Rectifier. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_23_04.svg",
       "graph": "assets/physics/graphs/phy_23_04.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Rectifier?",
+          "q": "Which statement is most appropriate for Rectifier?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Rectifier, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Rectifier",
-        "Remember the definitions, formulas and common applications."
+        "Define Rectifier and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: Use the defining law and SI variables for this topic."
       ]
     },
     {
       "id": "phy_23_05",
-      "title": "Zener diode",
-      "theory": "Zener diode: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Zener diode and voltage regulation",
+      "theory": "Zener diode and voltage regulation is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Zener diode",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Zener diode and voltage regulation and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Diode current",
+          "formula": "I ≈ I0(e^(V/ηVT) − 1)",
+          "unit": "A"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Zener diode",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Zener diode and voltage regulation: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Zener diode and voltage regulation. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_23_05.svg",
       "graph": "assets/physics/graphs/phy_23_05.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Zener diode?",
+          "q": "Which statement is most appropriate for Zener diode and voltage regulation?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Zener diode and voltage regulation, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Zener diode",
-        "Remember the definitions, formulas and common applications."
+        "Define Zener diode and voltage regulation and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: I ≈ I0(e^(V/ηVT) − 1)"
       ]
     },
     {
       "id": "phy_23_06",
       "title": "Transistor",
-      "theory": "Transistor: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Transistor is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Transistor",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Transistor and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Current gain",
+          "formula": "β = I_C/I_B",
+          "unit": "dimensionless"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Transistor",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Transistor: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Transistor. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_23_06.svg",
       "graph": "assets/physics/graphs/phy_23_06.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Transistor?",
+          "q": "Which statement is most appropriate for Transistor?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Transistor, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Transistor",
-        "Remember the definitions, formulas and common applications."
+        "Define Transistor and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: β = I_C/I_B"
       ]
     },
     {
       "id": "phy_23_07",
       "title": "Logic gates",
-      "theory": "Logic gates: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Logic gates is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Logic gates",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Logic gates and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Topic relation",
+          "formula": "Use the defining law and SI variables for this topic.",
+          "unit": "SI units"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Logic gates",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Logic gates: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Logic gates. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_23_07.svg",
       "graph": "assets/physics/graphs/phy_23_07.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Logic gates?",
+          "q": "Which statement is most appropriate for Logic gates?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Logic gates, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Logic gates",
-        "Remember the definitions, formulas and common applications."
+        "Define Logic gates and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: Use the defining law and SI variables for this topic."
       ]
     }
   ]

@@ -6,253 +6,307 @@
     {
       "id": "phy_12_01",
       "title": "Charge",
-      "theory": "Charge: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Charge is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Charge",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Charge and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Charge quantisation",
+          "formula": "q = ne",
+          "unit": "C"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Charge",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Charge: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Charge. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_12_01.svg",
       "graph": "assets/physics/graphs/phy_12_01.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Charge?",
+          "q": "Which statement is most appropriate for Charge?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Charge, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Charge",
-        "Remember the definitions, formulas and common applications."
+        "Define Charge and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: q = ne"
       ]
     },
     {
       "id": "phy_12_02",
       "title": "Coulomb's law",
-      "theory": "Coulomb's law: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Coulomb's law is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Coulomb's law",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Coulomb's law and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Coulomb law",
+          "formula": "F = k q1q2/r^2",
+          "unit": "N"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Coulomb's law",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Coulomb's law: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Coulomb's law. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_12_02.svg",
       "graph": "assets/physics/graphs/phy_12_02.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Coulomb's law?",
+          "q": "Which statement is most appropriate for Coulomb's law?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Coulomb's law, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Coulomb's law",
-        "Remember the definitions, formulas and common applications."
+        "Define Coulomb's law and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: F = k q1q2/r^2"
       ]
     },
     {
       "id": "phy_12_03",
       "title": "Electric field",
-      "theory": "Electric field: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "theory": "Electric field is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Electric field",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Electric field and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Electric field",
+          "formula": "E = F/q",
+          "unit": "N C^-1"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Electric field",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Electric field: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Electric field. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_12_03.svg",
       "graph": "assets/physics/graphs/phy_12_03.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Electric field?",
+          "q": "Which statement is most appropriate for Electric field?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Electric field, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Electric field",
-        "Remember the definitions, formulas and common applications."
+        "Define Electric field and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: E = F/q"
       ]
     },
     {
       "id": "phy_12_04",
-      "title": "Electric potential",
-      "theory": "Electric potential: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Gauss's law",
+      "theory": "Gauss's law is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Electric potential",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Gauss's law and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Gauss law",
+          "formula": "Φ_E = q_enclosed/ε0",
+          "unit": "N m^2 C^-1"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Electric potential",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Gauss's law: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Gauss's law. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_12_04.svg",
       "graph": "assets/physics/graphs/phy_12_04.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Electric potential?",
+          "q": "Which statement is most appropriate for Gauss's law?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Gauss's law, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Electric potential",
-        "Remember the definitions, formulas and common applications."
+        "Define Gauss's law and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: Φ_E = q_enclosed/ε0"
       ]
     },
     {
       "id": "phy_12_05",
-      "title": "Capacitance",
-      "theory": "Capacitance: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Electric potential",
+      "theory": "Electric potential is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Capacitance",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Electric potential and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Gravitational potential energy near Earth",
+          "formula": "U = mgh",
+          "unit": "J"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Capacitance",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Electric potential: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Electric potential. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_12_05.svg",
       "graph": "assets/physics/graphs/phy_12_05.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Capacitance?",
+          "q": "Which statement is most appropriate for Electric potential?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Electric potential, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Capacitance",
-        "Remember the definitions, formulas and common applications."
+        "Define Electric potential and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: U = mgh"
       ]
     },
     {
       "id": "phy_12_06",
-      "title": "Dielectrics",
-      "theory": "Dielectrics: structured study notes will appear here. Use the Theory, Formula, Example, Diagram, Graph and MCQ tabs.",
+      "title": "Capacitance and capacitors",
+      "theory": "Capacitance and capacitors is studied using physical laws, definitions and idealised models appropriate to this topic. Identify the relevant variables, sign convention and assumptions before applying an equation. For NEET problems, distinguish scalar and vector quantities, keep SI units consistent, and check limiting cases. The key result should be interpreted physically rather than used as a memorised expression.",
       "key_points": [
-        "Definition and core idea of Dielectrics",
-        "Important relationships and applications",
-        "Exam-focused observations"
+        "Define Capacitance and capacitors and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Use conservation laws and dimensional checks where applicable."
       ],
       "formulas": [
         {
-          "name": "Core relation",
-          "formula": "Add the relevant formula here",
-          "unit": "As applicable"
+          "name": "Capacitance",
+          "formula": "C = Q/V",
+          "unit": "F"
         }
+      ],
+      "derivations": [
+        "Start from the defining physical law or conservation principle.",
+        "Substitute the variables for the stated situation.",
+        "Simplify algebraically while maintaining units.",
+        "Check the result against limiting or special cases."
       ],
       "examples": [
         {
-          "question": "Worked example on Dielectrics",
-          "solution": "Step-by-step solution placeholder."
+          "question": "A conceptual NEET-style question on Capacitance and capacitors: identify the governing relation and the correct unit.",
+          "solution": "Start by defining Capacitance and capacitors. Write the governing relation, substitute the given quantities in SI units, simplify, and check the dimensions. This method avoids using an unrelated formula."
         }
       ],
       "diagram": "assets/physics/diagrams/phy_12_06.svg",
       "graph": "assets/physics/graphs/phy_12_06.svg",
       "mcqs": [
         {
-          "q": "Which statement best describes Dielectrics?",
+          "q": "Which statement is most appropriate for Capacitance and capacitors?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "The governing relation must be applied with consistent SI units.",
+            "Units can be ignored because equations are unit-independent.",
+            "A scalar can always replace a vector without changing the result.",
+            "Dimensional consistency guarantees every equation is physically correct."
           ],
           "answer": 0,
-          "explanation": "Explanation will be shown here."
+          "explanation": "For Capacitance and capacitors, the first statement is the correct general principle. SI consistency and the assumptions of the model are essential."
         }
       ],
       "revision": [
-        "Quick revision: Dielectrics",
-        "Remember the definitions, formulas and common applications."
+        "Define Capacitance and capacitors and state its physical meaning.",
+        "Identify the variables and SI units involved.",
+        "State the assumptions under which the standard equations are valid.",
+        "Core formula: C = Q/V"
       ]
     }
   ]
